@@ -1157,7 +1157,7 @@
           "content": "<p name=\"b5120024-1c7f-42c0-89f8-3eb0eba3e94c\" id=\"b5120024-1c7f-42c0-89f8-3eb0eba3e94c\">「Ollama」で「NVIDIA Nemotron 2 Nano 9B Japanese」を試したのでまとめました。</p><table-of-contents name=\"e182fdd2-1b0e-45bc-a8fa-a487a384a30a\" id=\"e182fdd2-1b0e-45bc-a8fa-a487a384a30a\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n203120c2ef78\">続きをみる</a>",
           "pubDate": "Sun, 22 Feb 2026 14:53:35 +0900",
           "guid": "https://note.com/npaka/n/n203120c2ef78",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
@@ -1706,7 +1706,7 @@
   "viewStyle": "card",
   "showFeedArt": true,
   "showThumbnails": true,
-  "sidebarCollapsed": false,
+  "sidebarCollapsed": true,
   "collapsedFolders": [],
   "tagsCollapsed": true,
   "articleFilter": {
