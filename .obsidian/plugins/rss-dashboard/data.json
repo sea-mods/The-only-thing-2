@@ -5133,7 +5133,7 @@
   "viewStyle": "card",
   "showFeedArt": true,
   "showThumbnails": true,
-  "sidebarCollapsed": false,
+  "sidebarCollapsed": true,
   "collapsedFolders": [],
   "tagsCollapsed": true,
   "articleFilter": {
