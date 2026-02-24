@@ -4240,13 +4240,18 @@
           "guid": "https://zenn.dev/hitama/articles/f7f7bbd0b408e0",
           "read": false,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "1. はじめに 本記事は、「機械学習素人が Transformer を理解するまでの記録」 という連載の第四回です。 ChatGPT は使っているものの、Transformer の中身はよく分かっていない、という立場から、基礎に立ち返って理解していく過程をまとめています。 ※ 本記事を読むと、 「なぜ言語モデルは“次の単語予測”で成り立つのか」 が数式レベルで腹落ちします。 1.1. 今回の内容 本記事は、 「機械学習素人が Trans...",
           "author": "",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4257,7 +4262,8 @@
             "url": "https://res.cloudinary.com/zenn/image/upload/s--5CKEhrgk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Transformer%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2520-%2520%25E7%25AC%25AC%25E5%259B%259B%25E5%259B%259E%25E3%2580%2591%25E8%2587%25AA%25E7%2584%25B6%25E8%25A8%2580%25E8%25AA%259E%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B2%25E3%2581%259F%25E3%2581%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4Njk4ZjQ2YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
             "type": "false",
             "length": "0"
-          }
+          },
+          "savedFilePath": "RSS articles/【Transformerとは？ - 第四回】自然言語処理とは何をしているのか.md"
         },
         {
           "title": "【論文紹介】Qwen3 Embedding",
@@ -4358,13 +4364,18 @@
           "guid": "https://zenn.dev/lluminai_tech/articles/f488b0843efda3",
           "read": false,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "はじめに ルミナイR&Dチームの宮脇彰梧です。 「LLMをゼロから作る」連載の第2回です。 前回（Vol.1）は、BPEトークナイザとデータパイプラインを構築し、テキストをモデルが理解できる数値列に変換する準備を整えました。 https://zenn.dev/lluminai_tech/articles/ca54564106414a 今回は、いよいよTransformerモデル本体を実装します。 ただし、教科書的な「Original T...",
           "author": "",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4375,7 +4386,8 @@
             "url": "https://res.cloudinary.com/zenn/image/upload/s--YjuWn6l---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590LLM%25E8%2587%25AA%25E4%25BD%259C%25E5%2585%25A5%25E9%2596%2580%2520Vol.2%25E3%2580%2591%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3Transformer%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%259ARMSNorm%252C%2520RoPE%252C%2520SwiGLU%25E3%2582%2592%25E4%25BD%25BF%25E7%2594%25A8...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Shogo%2520Miyawaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZkZjFkNTAxMDguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AB%25E3%2583%259F%25E3%2583%258A%25E3%2582%25A4%2520-%2520%25E7%2594%25A3%25E6%25A5%25AD%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592LLM%2520Read...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGNoQUU5UU1sMFJxcXBFUHVTbE9iMHhraVM1N3VGNnhyRW9NdUY3OVQxNEVjdjZDbEE9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
             "type": "false",
             "length": "0"
-          }
+          },
+          "savedFilePath": "RSS articles/【LLM自作入門 Vol.2】モダンTransformerの実装：RMSNorm, RoPE, Sw.md"
         },
         {
           "title": "【LLM自作入門 Vol.1】トークナイザの科学とデータパイプラインの構築の方法について",
@@ -4386,13 +4398,18 @@
           "guid": "https://zenn.dev/lluminai_tech/articles/ca54564106414a",
           "read": false,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "はじめに ルミナイR&Dチームの宮脇彰梧です。 現在はマルチモーダルAIの研究を行う大学院生として、 生成AIやAIエージェントの技術を実践的に探求しています。 今回からLLM（大規模言語モデル）をゼロから作るという連載シリーズを始めます。既存の Trainer や AutoModel を使えば一瞬ですが、それでは「なぜ動くのか」「どこで性能が決まるのか」というブラックボックスが残ったままです。 研究者の視点（Why）とエンジニアの視点...",
           "author": "",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4403,7 +4420,8 @@
             "url": "https://res.cloudinary.com/zenn/image/upload/s--wLu69XFr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590LLM%25E8%2587%25AA%25E4%25BD%259C%25E5%2585%25A5%25E9%2596%2580%2520Vol.1%25E3%2580%2591%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%258A%25E3%2582%25A4%25E3%2582%25B6%25E3%2581%25AE%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%25A8%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%25AE%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Shogo%2520Miyawaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZkZjFkNTAxMDguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AB%25E3%2583%259F%25E3%2583%258A%25E3%2582%25A4%2520-%2520%25E7%2594%25A3%25E6%25A5%25AD%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592LLM%2520Read...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGNoQUU5UU1sMFJxcXBFUHVTbE9iMHhraVM1N3VGNnhyRW9NdUY3OVQxNEVjdjZDbEE9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
             "type": "false",
             "length": "0"
-          }
+          },
+          "savedFilePath": "RSS articles/【LLM自作入門 Vol.1】トークナイザの科学とデータパイプラインの構築の方法について.md"
         },
         {
           "title": "LLMの数学的推論能力を検証する方法と実際の効果",
@@ -4414,13 +4432,18 @@
           "guid": "https://zenn.dev/yunisuta/articles/20260105-article-193355",
           "read": false,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "機械学習エンジニアがLLMの数学的推論能力を検証する方法と実際の効果 近年、巨大言語モデル（LLM）の数学的推論能力が注目されていますが、そのブラックボックス性の高さから「本当に推論できているのか？」という疑問も根強いです。私もAI開発の現場でこの問題に直面し、論文「Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning」で提案されたSpectral...",
           "author": "",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4431,7 +4454,8 @@
             "url": "https://res.cloudinary.com/zenn/image/upload/s--J4eR1ap---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2581%25AE%25E6%2595%25B0%25E5%25AD%25A6%25E7%259A%2584%25E6%258E%25A8%25E8%25AB%2596%25E8%2583%25BD%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25A8%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AE%25E5%258A%25B9%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yukito%2520%252F%2520%25E9%2583%25B7%25E7%2594%25B1%25E7%25A8%2580%25E6%2596%2597%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QzYjhiYTg3ZjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
             "type": "false",
             "length": "0"
-          }
+          },
+          "savedFilePath": "RSS articles/LLMの数学的推論能力を検証する方法と実際の効果.md"
         },
         {
           "title": "2025年衝撃のLLMの最新研究",
@@ -4442,19 +4466,25 @@
           "guid": "https://zenn.dev/sue738/books/llm-research-2025",
           "read": false,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "2025年のLLM（大規模言語モデル）研究の最前線を解説。アーキテクチャ、効率化、マルチモーダル、推論能力、安全性など、最新の研究動向を網羅的に紹介する。",
           "author": "",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
           "image": "https://zenn.dev/images/topic.png",
           "category": "",
-          "episodeType": ""
+          "episodeType": "",
+          "savedFilePath": "RSS articles/2025年衝撃のLLMの最新研究.md"
         },
         {
           "title": "【Seq2Seq】入力文を「反転」させるとなぜ翻訳精度が劇的に向上するのか？",
@@ -4491,7 +4521,7 @@
           "content": "はじめに こんにちは！Rayです。普段は自然言語処理(NLP)の研究をしています。 僕たちは、Yozora Financeという学生コミュニティで、誰もが自分だけの投資エージェントを開発できる世界を目指して活動しています。 その中の基盤モジュール群のひとつとして、開示文書の差分に特化したシリーズを開発しており、それが Yozora Diff です。完成後は誰でも使えるようオープンソースで公開予定です！ 前回は、新旧の決算短信の文を対応付けるアライメント処理を行いました。 この対応付けによって「どの文を比較対象にすべきか」という土台が整い、いよいよ今回から“意味の変化そのもの”を扱える...",
           "pubDate": "Mon, 22 Dec 2025 15:55:18 GMT",
           "guid": "https://zenn.dev/ray000/articles/2025-10-22-llm_summarizer",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「NLP」のフィード",
