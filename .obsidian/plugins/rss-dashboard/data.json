@@ -1685,6 +1685,17 @@
       "maxItemsLimit": 25,
       "scanInterval": 0,
       "mediaType": "article"
+    },
+    {
+      "title": "zenn",
+      "url": "https://zenn.dev/topics/機械学習/feed https://zenn.dev/topics/ai/feed https://zenn.dev/topics/生成ai/feed https://zenn.dev/topics/deeplearning/feed https://zenn.dev/topics/llm/feed https://zenn.dev/topics/nlp/feed https://zenn.dev/topics/python/feed https://zenn.dev/topics/googlecloud/feed",
+      "folder": "",
+      "items": [],
+      "lastUpdated": 1771912410921,
+      "autoDeleteDuration": 0,
+      "maxItemsLimit": 25,
+      "scanInterval": 0,
+      "mediaType": "article"
     }
   ],
   "folders": [
