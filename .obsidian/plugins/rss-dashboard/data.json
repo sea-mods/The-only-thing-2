@@ -1721,7 +1721,7 @@
           "content": "GitHubは、「GitHub Copilot CLI」で使用できるスラッシュコマンドを公式ブログでまとめて解説した。開発者はコマンドを利用することで、エディタやWeb UIを移動することなく、ターミナル内で素早く反復可能なアクションを実行できる。",
           "pubDate": "Wed, 18 Feb 2026 13:00:00 +0900",
           "guid": "https://atmarkit.itmedia.co.jp/ait/articles/2602/18/news050.html",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "＠IT Smart & Socialフォーラム 最新記事一覧",
