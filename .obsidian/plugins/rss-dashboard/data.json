@@ -4240,18 +4240,13 @@
           "guid": "https://zenn.dev/hitama/articles/f7f7bbd0b408e0",
           "read": false,
           "starred": false,
-          "tags": [
-            {
-              "name": "saved",
-              "color": "#3498db"
-            }
-          ],
+          "tags": [],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "1. はじめに 本記事は、「機械学習素人が Transformer を理解するまでの記録」 という連載の第四回です。 ChatGPT は使っているものの、Transformer の中身はよく分かっていない、という立場から、基礎に立ち返って理解していく過程をまとめています。 ※ 本記事を読むと、 「なぜ言語モデルは“次の単語予測”で成り立つのか」 が数式レベルで腹落ちします。 1.1. 今回の内容 本記事は、 「機械学習素人が Trans...",
           "author": "",
-          "saved": true,
+          "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4274,18 +4269,13 @@
           "guid": "https://zenn.dev/arai0/articles/da8bdf3fb128c3",
           "read": true,
           "starred": false,
-          "tags": [
-            {
-              "name": "saved",
-              "color": "#3498db"
-            }
-          ],
+          "tags": [],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "今更ですがQwen3 Embeddingがず〜っと強い印象があるので、テクニカルレポートの紹介をしてみます。 読む論文: Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models ※特別な言及のない限り、本記事中の図表は上記の論文からの引用です。 忙しい方向け 言語モデルQwen3をベースにした高性能なEmbeddingモデル、Re...",
           "author": "",
-          "saved": true,
+          "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4364,18 +4354,13 @@
           "guid": "https://zenn.dev/lluminai_tech/articles/f488b0843efda3",
           "read": false,
           "starred": false,
-          "tags": [
-            {
-              "name": "saved",
-              "color": "#3498db"
-            }
-          ],
+          "tags": [],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "はじめに ルミナイR&Dチームの宮脇彰梧です。 「LLMをゼロから作る」連載の第2回です。 前回（Vol.1）は、BPEトークナイザとデータパイプラインを構築し、テキストをモデルが理解できる数値列に変換する準備を整えました。 https://zenn.dev/lluminai_tech/articles/ca54564106414a 今回は、いよいよTransformerモデル本体を実装します。 ただし、教科書的な「Original T...",
           "author": "",
-          "saved": true,
+          "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4398,18 +4383,13 @@
           "guid": "https://zenn.dev/lluminai_tech/articles/ca54564106414a",
           "read": false,
           "starred": false,
-          "tags": [
-            {
-              "name": "saved",
-              "color": "#3498db"
-            }
-          ],
+          "tags": [],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "はじめに ルミナイR&Dチームの宮脇彰梧です。 現在はマルチモーダルAIの研究を行う大学院生として、 生成AIやAIエージェントの技術を実践的に探求しています。 今回からLLM（大規模言語モデル）をゼロから作るという連載シリーズを始めます。既存の Trainer や AutoModel を使えば一瞬ですが、それでは「なぜ動くのか」「どこで性能が決まるのか」というブラックボックスが残ったままです。 研究者の視点（Why）とエンジニアの視点...",
           "author": "",
-          "saved": true,
+          "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4432,18 +4412,13 @@
           "guid": "https://zenn.dev/yunisuta/articles/20260105-article-193355",
           "read": false,
           "starred": false,
-          "tags": [
-            {
-              "name": "saved",
-              "color": "#3498db"
-            }
-          ],
+          "tags": [],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "機械学習エンジニアがLLMの数学的推論能力を検証する方法と実際の効果 近年、巨大言語モデル（LLM）の数学的推論能力が注目されていますが、そのブラックボックス性の高さから「本当に推論できているのか？」という疑問も根強いです。私もAI開発の現場でこの問題に直面し、論文「Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning」で提案されたSpectral...",
           "author": "",
-          "saved": true,
+          "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4466,18 +4441,13 @@
           "guid": "https://zenn.dev/sue738/books/llm-research-2025",
           "read": false,
           "starred": false,
-          "tags": [
-            {
-              "name": "saved",
-              "color": "#3498db"
-            }
-          ],
+          "tags": [],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "2025年のLLM（大規模言語モデル）研究の最前線を解説。アーキテクチャ、効率化、マルチモーダル、推論能力、安全性など、最新の研究動向を網羅的に紹介する。",
           "author": "",
-          "saved": true,
+          "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
