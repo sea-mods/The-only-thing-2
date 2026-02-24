@@ -4266,15 +4266,20 @@
           "content": "今更ですがQwen3 Embeddingがず〜っと強い印象があるので、テクニカルレポートの紹介をしてみます。 読む論文: Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models ※特別な言及のない限り、本記事中の図表は上記の論文からの引用です。 忙しい方向け 言語モデルQwen3をベースにした高性能なEmbeddingモデル、Rerankingモデルを構築 弱教師あり学習->教師あり学習->モデルマージの3段階訓練で高い性能を実現 Qwen3にペルソナを付与した多...",
           "pubDate": "Tue, 03 Feb 2026 12:08:06 GMT",
           "guid": "https://zenn.dev/arai0/articles/da8bdf3fb128c3",
-          "read": false,
+          "read": true,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "Zennの「NLP」のフィード",
           "feedUrl": "https://zenn.dev/topics/nlp/feed",
           "coverImage": "",
           "summary": "今更ですがQwen3 Embeddingがず〜っと強い印象があるので、テクニカルレポートの紹介をしてみます。 読む論文: Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models ※特別な言及のない限り、本記事中の図表は上記の論文からの引用です。 忙しい方向け 言語モデルQwen3をベースにした高性能なEmbeddingモデル、Re...",
           "author": "",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4285,7 +4290,8 @@
             "url": "https://res.cloudinary.com/zenn/image/upload/s--bVg2SEEc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E8%25AB%2596%25E6%2596%2587%25E7%25B4%25B9%25E4%25BB%258B%25E3%2580%2591Qwen3%2520Embedding%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%25AE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4YmEwOTlmYmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
             "type": "false",
             "length": "0"
-          }
+          },
+          "savedFilePath": "RSS articles/【論文紹介】Qwen3 Embedding.md"
         },
         {
           "title": "【保存版】「アイデアが動かない」地獄から脱出し、成果を出すための実践的R&D生存戦略",
