@@ -12,7 +12,7 @@
           "content": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
           "pubDate": "Mon, 23 Feb 2026 11:00:00 GMT",
           "guid": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "OpenAI News",
