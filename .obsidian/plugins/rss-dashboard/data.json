@@ -5198,7 +5198,7 @@
   },
   "articleSaving": {
     "addSavedTag": true,
-    "defaultFolder": "RSS articles/",
+    "defaultFolder": "clips/RSS articles",
     "defaultTemplate": "---\ntitle: \"{{title}}\"\ndate: {{date}}\ntags: [{{tags}}]\nsource: \"{{source}}\"\nlink: {{link}}\nauthor: \"{{author}}\"\nfeedTitle: \"{{feedTitle}}\"\nguid: \"{{guid}}\"\n---\n\n# {{title}}\n\n{{content}}\n\n[Source]({{link}})",
     "includeFrontmatter": true,
     "frontmatterTemplate": "---\ntitle: \"{{title}}\"\ndate: {{date}}\ntags: [{{tags}}]\nsource: \"{{source}}\"\nlink: {{link}}\nauthor: \"{{author}}\"\nfeedTitle: \"{{feedTitle}}\"\nguid: \"{{guid}}\"\n---",
