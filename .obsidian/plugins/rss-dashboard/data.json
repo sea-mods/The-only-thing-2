@@ -2466,7 +2466,7 @@
           "content": "Kaggle入門10(コンピュータービジョン 1.畳み込み分類器) Kaggle入門10(コンピュータービジョン 2.畳み込みとReLU) Kaggle入門10(コンピュータービジョン 3.最大プーリング) Kaggle入門10(コンピュータービジョン 4.スライディングウィンドウ) Kaggle入門10(コンピュータービジョン 5.独自の畳み込みネットワーク) Kaggle入門10(コンピュータービジョン 6.xxx) ← Kaggle入門9(ディープラーニング入門) Abstract Kaggle「コンピュータービジョンの畳み込み分類器」の翻訳と実行方法の解説 TensorFl...",
           "pubDate": "Tue, 24 Feb 2026 10:20:52 GMT",
           "guid": "https://zenn.dev/rg687076/articles/175f02ebe77996",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「AI」のフィード",
