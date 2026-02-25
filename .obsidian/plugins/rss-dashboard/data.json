@@ -2634,7 +2634,7 @@
           "content": "セマンティックキャッシュ実装ガイド：LLM APIコスト73%削減と応答97%高速化 この記事でわかること セマンティックキャッシュの仕組みと、完全一致キャッシュ・プロンプトキャッシュとの使い分け RedisVL SemanticCache と LangChain RedisSemanticCache による実装手法 類似度閾値のチューニング戦略と偽陽性を3%以下に抑える方法 AWS MemoryDB / Redis LangCache を使った本番アーキテクチャの設計 TTL戦略・キャッシュ無効化・マルチテナント対応の運用ノウハウ 対象読者 想定読者: LLMアプリ...",
           "pubDate": "Tue, 24 Feb 2026 08:57:11 GMT",
           "guid": "https://zenn.dev/0h_n0/articles/531d06b7a17e9d",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「AI」のフィード",
