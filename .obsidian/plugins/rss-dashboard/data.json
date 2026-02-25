@@ -3442,7 +3442,7 @@
           "content": "📌 3行でわかるこの記事 2026年2月、OpenAI、Anthropic、DeepSeekが同時に新モデルをリリース Claude Opus 4.6の「エージェントチーム」、GPT-5.3-Codexの「自己改善ループ」、DeepSeek V4の「効率的アーキテクチャ」が競合 エージェント機能、1Mトークンコンテキスト、実用的な自律作業能力が新標準に はじめに 2026年2月、AI業界にとって歴史的な月となりました。調整されたわけでもないのに、主要な3つのAIラボが次々と新モデルをリリースしたのです。 この記事では、Claude Opus 4.6、GPT-5.3-Co...",
           "pubDate": "Tue, 24 Feb 2026 09:13:27 GMT",
           "guid": "https://zenn.dev/yu_ga/articles/ai-model-war-february-2026",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「大規模言語モデル」のフィード",
