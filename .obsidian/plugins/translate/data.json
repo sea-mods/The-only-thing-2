@@ -219,6 +219,79 @@
         "zu"
       ],
       "version": "1.1.0"
+    },
+    "deepl": {
+      "selected_languages": [],
+      "api_key": "",
+      "auto_translate": false,
+      "auto_translate_interval": 500,
+      "validated": null,
+      "available_languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "tr",
+        "uk",
+        "zh"
+      ],
+      "glossary_languages": {
+        "de": [
+          "en",
+          "fr"
+        ],
+        "en": [
+          "de",
+          "es",
+          "fr",
+          "ja",
+          "it",
+          "pl",
+          "nl"
+        ],
+        "es": [
+          "en"
+        ],
+        "fr": [
+          "de",
+          "en"
+        ],
+        "ja": [
+          "en"
+        ],
+        "it": [
+          "en"
+        ],
+        "pl": [
+          "en"
+        ],
+        "nl": [
+          "en"
+        ]
+      },
+      "version": "1.0.3"
     }
   }
 }
