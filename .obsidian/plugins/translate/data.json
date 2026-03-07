@@ -81,7 +81,7 @@
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
-      "validated": null,
+      "validated": false,
       "available_languages": [
         "af",
         "ak",
