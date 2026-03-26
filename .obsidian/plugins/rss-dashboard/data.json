@@ -3040,13 +3040,18 @@
           "guid": "https://zenn.dev/free_eerf/articles/4606b98b86537e",
           "read": false,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "Zennの「ディープラーニング」のフィード",
           "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
           "coverImage": "",
           "summary": "はじめに こんにちは 今回はnumpyを主軸にtorchなどを使わずに自力で気温予測ai（深層学習）を作ったのでそれについて書きます（数式が出ても逃げないでね） まずai（深層学習）の仕組みとは 深層学習のaiは基本的に複数のニューロン（変換装置みたいなもの）によって作られています ↓イメージ図 丸いのがニューロン このニューロンは入力層、隠れ層、出力層の３つ種類に分けられます そしてこのニューロンとニューロンの間の線には一つ一つ重みと...",
           "author": "",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4563,7 +4568,7 @@
           "content": "毎朝5時に届く AI リサーチレポートの片隅に、「能動的推論（Active Inference）」という単語があった。脳が世界の内部モデルを持ち、予測と現実のズレを最小化するように行動を選ぶ。生物の知覚・行動・意思決定を統一的に説明するフレームワーク——。 読んだ瞬間、なぜか引っかかった。 その日のうちに元論文のコードを clone し、計画から完成まで約 2 時間。PyTorch を全部剥がして純 NumPy に書き換え、さらに元コードにはなかった ブラウザで動くインタラクティブな可視化 UI を Streamlit で新規構築した。1550 行。テストカバレッジ 98%。 数式レベル...",
           "pubDate": "Fri, 06 Mar 2026 23:22:46 GMT",
           "guid": "https://zenn.dev/shimo4228/articles/active-inference-viz-dev-story",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「Python」のフィード",
