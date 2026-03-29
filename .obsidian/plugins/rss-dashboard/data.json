@@ -3040,18 +3040,13 @@
           "guid": "https://zenn.dev/free_eerf/articles/4606b98b86537e",
           "read": false,
           "starred": false,
-          "tags": [
-            {
-              "name": "saved",
-              "color": "#3498db"
-            }
-          ],
+          "tags": [],
           "feedTitle": "Zennの「ディープラーニング」のフィード",
           "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
           "coverImage": "",
           "summary": "はじめに こんにちは 今回はnumpyを主軸にtorchなどを使わずに自力で気温予測ai（深層学習）を作ったのでそれについて書きます（数式が出ても逃げないでね） まずai（深層学習）の仕組みとは 深層学習のaiは基本的に複数のニューロン（変換装置みたいなもの）によって作られています ↓イメージ図 丸いのがニューロン このニューロンは入力層、隠れ層、出力層の３つ種類に分けられます そしてこのニューロンとニューロンの間の線には一つ一つ重みと...",
           "author": "",
-          "saved": true,
+          "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
@@ -4848,7 +4843,7 @@
           "content": "💡 概要（課題と結論） AntigravityやCodex CLIなど、ターミナルで動作するAIエージェントの「セッションが終わる（ターミナルを閉じる）と作業のプロセスログが消えてしまう」という課題を解決します。 AIとの作業完了時に、設計メモや変更差分などの成果物をコマンド1行でGitHubに自動保存（マスキング処理付き）するPythonスクリプトを作成しました。 ※この記事はmac環境で、主に標準ライブラリを使用したPythonスクリプトによる自動アップロードの構築手順を解説します。 ⚠️ 課題：作業ログが「消える」ストレス ChatGPTやブラウザ版Geminiとは異なり、...",
           "pubDate": "Fri, 06 Mar 2026 09:00:01 GMT",
           "guid": "https://zenn.dev/tyatu/articles/78b23e24b4945e",
-          "read": false,
+          "read": true,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「Python」のフィード",
