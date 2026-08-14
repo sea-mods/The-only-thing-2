@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1786732953109,
+      "lastUpdated": 1786747847270,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/NVIDIA-NCCL-Inspector-Real-Time-Performance-Monitoring-768x432.png"
         }
       ],
-      "lastUpdated": 1786732954047,
+      "lastUpdated": 1786747848613,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1786732954194,
+      "lastUpdated": 1786747848767,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1786732954341,
+      "lastUpdated": 1786747848867,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1786732954379,
+      "lastUpdated": 1786747848907,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2835,6 +2835,34 @@
       "url": "https://zenn.dev/topics/deeplearning/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "ROGIIコンペ振り返り - 35位解法およびU-Netソリューションまとめ",
+          "link": "https://zenn.dev/dalab/articles/71296cdee9a945",
+          "description": "はじめに データアナリティクスラボ株式会社データソリューション事業部の森岡です。 今回、Kaggleの「ROGII - Wellbore Geology Prediction」に参加し、6,125チーム中35位で銀メダルとなりました。 このコンペでは、水平坑井のデータがテーマとなっています。水平坑井とは垂直に掘り始めた地下の井戸（坑井）を途中で大きく曲げ、石油や天然ガスなどの貯留層に沿って水平方向に長く掘削する技術およびその井戸を意味します。本コンペでは、水平坑井中に観測されたガンマ線（Horizontal GR）、垂直方向で観測された参照用のガンマ線（Typewell GR）や坑井...",
+          "content": "はじめに データアナリティクスラボ株式会社データソリューション事業部の森岡です。 今回、Kaggleの「ROGII - Wellbore Geology Prediction」に参加し、6,125チーム中35位で銀メダルとなりました。 このコンペでは、水平坑井のデータがテーマとなっています。水平坑井とは垂直に掘り始めた地下の井戸（坑井）を途中で大きく曲げ、石油や天然ガスなどの貯留層に沿って水平方向に長く掘削する技術およびその井戸を意味します。本コンペでは、水平坑井中に観測されたガンマ線（Horizontal GR）、垂直方向で観測された参照用のガンマ線（Typewell GR）や坑井...",
+          "pubDate": "Fri, 14 Aug 2026 04:02:30 GMT",
+          "guid": "https://zenn.dev/dalab/articles/71296cdee9a945",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「ディープラーニング」のフィード",
+          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
+          "coverImage": "",
+          "summary": "はじめに データアナリティクスラボ株式会社データソリューション事業部の森岡です。 今回、Kaggleの「ROGII - Wellbore Geology Prediction」に参加し、6,125チーム中35位で銀メダルとなりました。 このコンペでは、水平坑井のデータがテーマとなっています。水平坑井とは垂直に掘り始めた地下の井戸（坑井）を途中で大きく曲げ、石油や天然ガスなどの貯留層に沿って水平方向に長く掘削する技術およびその井戸を意味し...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--xWMDh2Po--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ROGII%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2520-%252035%25E4%25BD%258D%25E8%25A7%25A3%25E6%25B3%2595%25E3%2581%258A%25E3%2582%2588%25E3%2581%25B3U-Net%25E3%2582%25BD%25E3%2583%25AA%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Jumpei%2520Morioka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y4MmEwNzVhNjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DAL%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0lqcDVMckxrVmhaTlJnbk1SNjBvdkhtWUFSYUFVczJEdEZKZENmdFNEYktGLUd3PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "ゼロからつくるDeep Learning 6のLLM事前学習をAmazon SageMaker AIでやってみる",
           "link": "https://zenn.dev/manaty226/articles/20260813_deep-learning-from-scratch-6",
@@ -3361,37 +3389,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "ROGIIコンペ振り返り - 35位解法およびU-Netソリューションまとめ",
-          "link": "https://zenn.dev/dalab/articles/71296cdee9a945",
-          "description": "はじめに データアナリティクスラボ株式会社データソリューション事業部の森岡です。 今回、Kaggleの「ROGII - Wellbore Geology Prediction」に参加し、6,125チーム中35位で銀メダルとなりました。 このコンペでは、水平坑井のデータがテーマとなっています。水平坑井とは垂直に掘り始めた地下の井戸（坑井）を途中で大きく曲げ、石油や天然ガスなどの貯留層に沿って水平方向に長く掘削する技術およびその井戸を意味します。本コンペでは、水平坑井中に観測されたガンマ線（Horizontal GR）、垂直方向で観測された参照用のガンマ線（Typewell GR）や坑井...",
-          "content": "はじめに データアナリティクスラボ株式会社データソリューション事業部の森岡です。 今回、Kaggleの「ROGII - Wellbore Geology Prediction」に参加し、6,125チーム中35位で銀メダルとなりました。 このコンペでは、水平坑井のデータがテーマとなっています。水平坑井とは垂直に掘り始めた地下の井戸（坑井）を途中で大きく曲げ、石油や天然ガスなどの貯留層に沿って水平方向に長く掘削する技術およびその井戸を意味します。本コンペでは、水平坑井中に観測されたガンマ線（Horizontal GR）、垂直方向で観測された参照用のガンマ線（Typewell GR）や坑井...",
-          "pubDate": "Fri, 14 Aug 2026 04:02:30 GMT",
-          "guid": "https://zenn.dev/dalab/articles/71296cdee9a945",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「ディープラーニング」のフィード",
-          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
-          "coverImage": "",
-          "summary": "はじめに データアナリティクスラボ株式会社データソリューション事業部の森岡です。 今回、Kaggleの「ROGII - Wellbore Geology Prediction」に参加し、6,125チーム中35位で銀メダルとなりました。 このコンペでは、水平坑井のデータがテーマとなっています。水平坑井とは垂直に掘り始めた地下の井戸（坑井）を途中で大きく曲げ、石油や天然ガスなどの貯留層に沿って水平方向に長く掘削する技術およびその井戸を意味し...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--xWMDh2Po--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ROGII%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2520-%252035%25E4%25BD%258D%25E8%25A7%25A3%25E6%25B3%2595%25E3%2581%258A%25E3%2582%2588%25E3%2581%25B3U-Net%25E3%2582%25BD%25E3%2583%25AA%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Jumpei%2520Morioka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y4MmEwNzVhNjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DAL%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0lqcDVMckxrVmhaTlJnbk1SNjBvdkhtWUFSYUFVczJEdEZKZENmdFNEYktGLUd3PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1786732954426,
+      "lastUpdated": 1786747848951,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1786732954461,
+      "lastUpdated": 1786747848994,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1786732954502,
+      "lastUpdated": 1786747849035,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5107,7 +5107,7 @@
           }
         }
       ],
-      "lastUpdated": 1786732954534,
+      "lastUpdated": 1786747849074,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
