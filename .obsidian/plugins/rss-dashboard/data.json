@@ -6,6 +6,29 @@
       "folder": "Uncategorized",
       "items": [
         {
+          "title": "New policy ideas for the Intelligence Age",
+          "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+          "content": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+          "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
+          "guid": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "The builder’s guide to GPT‑5.6",
           "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
           "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
@@ -556,32 +579,9 @@
           "image": "https://openai.com/apple-icon.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Circles powers telco personalization with OpenAI technology",
-          "link": "https://openai.com/index/circles",
-          "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-          "content": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-          "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
-          "guid": "https://openai.com/index/circles",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1786960703343,
+      "lastUpdated": 1786968387808,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/NVIDIA-NCCL-Inspector-Real-Time-Performance-Monitoring-768x432.png"
         }
       ],
-      "lastUpdated": 1786960704450,
+      "lastUpdated": 1786968388454,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1786960704553,
+      "lastUpdated": 1786968389304,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1786960704705,
+      "lastUpdated": 1786968389487,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1786960704768,
+      "lastUpdated": 1786968389640,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1786960704816,
+      "lastUpdated": 1786968389725,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1786960704875,
+      "lastUpdated": 1786968389773,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1786960704959,
+      "lastUpdated": 1786968389871,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1786960705033,
+      "lastUpdated": 1786968389972,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
