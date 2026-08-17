@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1786939103082,
+      "lastUpdated": 1786957103042,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/NVIDIA-NCCL-Inspector-Real-Time-Performance-Monitoring-768x432.png"
         }
       ],
-      "lastUpdated": 1786939103650,
+      "lastUpdated": 1786957103690,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1786939104057,
+      "lastUpdated": 1786957103802,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1786939120739,
+      "lastUpdated": 1786957103901,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1786939120799,
+      "lastUpdated": 1786957103959,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2835,6 +2835,34 @@
       "url": "https://zenn.dev/topics/deeplearning/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "座標から画像へ：潜在空間で未来を予測するWorld Modelを実装してみた",
+          "link": "https://zenn.dev/naoyabone/articles/ebefbf5fcb90d6",
+          "description": "はじめに 前回の記事では、5×5のGrid Worldを使って、最小構成のWorld Modelを実装しました。 前回作ったモデルは非常に単純で、 現在の座標 (x, y) + 行動 ↓ World Model ↓ 次の座標 (x', y') というものでした。 これによって、「現在の状態と行動から次の状態を予測する」「予測した状態をさらに次の入力として使い、環境を動かさずに未来をrolloutする」というWorld Modelの基本的な考え方を確認できました。 しかし、実際のPhysical AIを考えてみると、一つ大きな問題があります。 現...",
+          "content": "はじめに 前回の記事では、5×5のGrid Worldを使って、最小構成のWorld Modelを実装しました。 前回作ったモデルは非常に単純で、 現在の座標 (x, y) + 行動 ↓ World Model ↓ 次の座標 (x', y') というものでした。 これによって、「現在の状態と行動から次の状態を予測する」「予測した状態をさらに次の入力として使い、環境を動かさずに未来をrolloutする」というWorld Modelの基本的な考え方を確認できました。 しかし、実際のPhysical AIを考えてみると、一つ大きな問題があります。 現...",
+          "pubDate": "Sun, 16 Aug 2026 16:45:20 GMT",
+          "guid": "https://zenn.dev/naoyabone/articles/ebefbf5fcb90d6",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「ディープラーニング」のフィード",
+          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
+          "coverImage": "",
+          "summary": "はじめに 前回の記事では、5×5のGrid Worldを使って、最小構成のWorld Modelを実装しました。 前回作ったモデルは非常に単純で、 現在の座標 (x, y) + 行動 ↓ World Model ↓ 次の座標 (x', y') というものでした。 これによって、「現在の状態と行動から次の状態を予測する」「予測した状態をさらに次の入力として使い、環境を動かさずに未来をrolloutする」というWorld Modelの基本的...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--37fykFsw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BA%25A7%25E6%25A8%2599%25E3%2581%258B%25E3%2582%2589%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25B8%25EF%25BC%259A%25E6%25BD%259C%25E5%259C%25A8%25E7%25A9%25BA%25E9%2596%2593%25E3%2581%25A7%25E6%259C%25AA%25E6%259D%25A5%25E3%2582%2592%25E4%25BA%2588%25E6%25B8%25AC%25E3%2581%2599%25E3%2582%258BWorld%2520Model%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BC%25E3%2581%2595%25E3%2581%25BC%25E3%2581%2595%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2MmMwZTQ3ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "学習率のwarmupは本当に訓練を安定させるのか。崩壊寸前のLRで20シード×3条件、実際に数えてみた",
           "link": "https://zenn.dev/shakeailab/articles/learning-rate-warmup-ablation",
@@ -3366,37 +3394,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "座標から画像へ：潜在空間で未来を予測するWorld Modelを実装してみた",
-          "link": "https://zenn.dev/naoyabone/articles/ebefbf5fcb90d6",
-          "description": "はじめに 前回の記事では、5×5のGrid Worldを使って、最小構成のWorld Modelを実装しました。 前回作ったモデルは非常に単純で、 現在の座標 (x, y) + 行動 ↓ World Model ↓ 次の座標 (x', y') というものでした。 これによって、「現在の状態と行動から次の状態を予測する」「予測した状態をさらに次の入力として使い、環境を動かさずに未来をrolloutする」というWorld Modelの基本的な考え方を確認できました。 しかし、実際のPhysical AIを考えてみると、一つ大きな問題があります。 現...",
-          "content": "はじめに 前回の記事では、5×5のGrid Worldを使って、最小構成のWorld Modelを実装しました。 前回作ったモデルは非常に単純で、 現在の座標 (x, y) + 行動 ↓ World Model ↓ 次の座標 (x', y') というものでした。 これによって、「現在の状態と行動から次の状態を予測する」「予測した状態をさらに次の入力として使い、環境を動かさずに未来をrolloutする」というWorld Modelの基本的な考え方を確認できました。 しかし、実際のPhysical AIを考えてみると、一つ大きな問題があります。 現...",
-          "pubDate": "Sun, 16 Aug 2026 16:45:20 GMT",
-          "guid": "https://zenn.dev/naoyabone/articles/ebefbf5fcb90d6",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「ディープラーニング」のフィード",
-          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
-          "coverImage": "",
-          "summary": "はじめに 前回の記事では、5×5のGrid Worldを使って、最小構成のWorld Modelを実装しました。 前回作ったモデルは非常に単純で、 現在の座標 (x, y) + 行動 ↓ World Model ↓ 次の座標 (x', y') というものでした。 これによって、「現在の状態と行動から次の状態を予測する」「予測した状態をさらに次の入力として使い、環境を動かさずに未来をrolloutする」というWorld Modelの基本的...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--37fykFsw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BA%25A7%25E6%25A8%2599%25E3%2581%258B%25E3%2582%2589%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25B8%25EF%25BC%259A%25E6%25BD%259C%25E5%259C%25A8%25E7%25A9%25BA%25E9%2596%2593%25E3%2581%25A7%25E6%259C%25AA%25E6%259D%25A5%25E3%2582%2592%25E4%25BA%2588%25E6%25B8%25AC%25E3%2581%2599%25E3%2582%258BWorld%2520Model%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BC%25E3%2581%2595%25E3%2581%25BC%25E3%2581%2595%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2MmMwZTQ3ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1786939120907,
+      "lastUpdated": 1786957104026,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1786939120978,
+      "lastUpdated": 1786957104094,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1786939121116,
+      "lastUpdated": 1786957104161,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1786939121187,
+      "lastUpdated": 1786957104227,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
