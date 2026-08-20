@@ -6,6 +6,29 @@
       "folder": "Uncategorized",
       "items": [
         {
+          "title": "How ChatGPT Work helps Stampli move ideas to market",
+          "link": "https://openai.com/index/stampli",
+          "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "content": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
+          "guid": "https://openai.com/index/stampli",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "Offering Zero Data Retention for frontier models",
           "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
@@ -556,32 +579,9 @@
           "image": "https://openai.com/apple-icon.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Premium seats are coming to ChatGPT Business",
-          "link": "https://openai.com/index/premium-seats-chatgpt-business",
-          "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-          "content": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-          "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
-          "guid": "https://openai.com/index/premium-seats-chatgpt-business",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1787237898796,
+      "lastUpdated": 1787241498832,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-ising-768x432.jpg"
         }
       ],
-      "lastUpdated": 1787237899072,
+      "lastUpdated": 1787241499056,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1787237899274,
+      "lastUpdated": 1787241499178,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1787237899378,
+      "lastUpdated": 1787241499279,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1787237899426,
+      "lastUpdated": 1787241499317,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1787237899465,
+      "lastUpdated": 1787241499352,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3407,62 +3407,6 @@
       "url": "https://zenn.dev/topics/llm/feed",
       "folder": "Uncategorized",
       "items": [
-        {
-          "title": "止まらないエージェントを実行前に見つける静的解析ツールIAL-Scan",
-          "link": "https://zenn.dev/okssusucha/articles/20260710-infinite-agentic-loops-ial-scan",
-          "description": "「夜のうちにコーディングエージェントを走らせておいたら、朝には成果物ではなく数万円分のAPI課金だけが残っていた」。この手のヒヤリに心当たりがあるなら、7月2日にarXivへ出た論文が刺さるはずだ。エージェントが止まらずに同じ処理を回し続ける現象に Infinite Agentic Loop(IAL、無限エージェントループ) という名前を与え、実在する6,549個のPython製エージェント実装を静的解析でスキャンして「どれだけ潜んでいるか」を実際に数えた研究である。 https://arxiv.org/abs/2607.01641 著者は華中科技大学のXinyi Hou、Shenao ...",
-          "content": "「夜のうちにコーディングエージェントを走らせておいたら、朝には成果物ではなく数万円分のAPI課金だけが残っていた」。この手のヒヤリに心当たりがあるなら、7月2日にarXivへ出た論文が刺さるはずだ。エージェントが止まらずに同じ処理を回し続ける現象に Infinite Agentic Loop(IAL、無限エージェントループ) という名前を与え、実在する6,549個のPython製エージェント実装を静的解析でスキャンして「どれだけ潜んでいるか」を実際に数えた研究である。 https://arxiv.org/abs/2607.01641 著者は華中科技大学のXinyi Hou、Shenao ...",
-          "pubDate": "Thu, 20 Aug 2026 00:04:31 GMT",
-          "guid": "https://zenn.dev/okssusucha/articles/20260710-infinite-agentic-loops-ial-scan",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「大規模言語モデル」のフィード",
-          "feedUrl": "https://zenn.dev/topics/llm/feed",
-          "coverImage": "",
-          "summary": "「夜のうちにコーディングエージェントを走らせておいたら、朝には成果物ではなく数万円分のAPI課金だけが残っていた」。この手のヒヤリに心当たりがあるなら、7月2日にarXivへ出た論文が刺さるはずだ。エージェントが止まらずに同じ処理を回し続ける現象に Infinite Agentic Loop(IAL、無限エージェントループ) という名前を与え、実在する6,549個のPython製エージェント実装を静的解析でスキャンして「どれだけ潜んでい...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://zenn.dev/images/topic.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--gFTgNfB4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E5%25AE%259F%25E8%25A1%258C%25E5%2589%258D%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%25E9%259D%2599%25E7%259A%2584%25E8%25A7%25A3%25E6%259E%2590%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25ABIAL-Scan%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2581%2586%25E3%2582%2582%25E3%2582%258D%25E3%2581%2593%25E3%2581%2597%25E8%258C%25B6%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW96UXYxMFhOSmoybmNYTlZkQzFRV1IxV2UxZHVyMy1FeHlhd19tTno1MkZJT3NyRzFzQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "Claude Codeの回答を\"行動指向\"にするOutput Styleは効果があるのか検証してみた",
-          "link": "https://zenn.dev/tokium_dev/articles/claude-code-output-styles-action-first",
-          "description": "1. はじめに こんにちは、TOKIUMの小松です。 今年の4月に入社して未経験でエンジニアになった駆け出しエンジニアです。 駆け出しということもあり、Claude Code で知らない技術をキャッチアップすることも多いです。AIに質問すれば、丁寧な解説は返ってくる。返ってくるのですが、長い。読み終えても「で、結局まず何をすればいいんだ？」がわからず聞き直す、というような作業が発生していました。答えは受け取っているのに、行動に移せない。非常にもどかしいですね。 この「長さ」を、モデルを変えずに調整できないか。調べると、Claude Code には Output Styles という公...",
-          "content": "1. はじめに こんにちは、TOKIUMの小松です。 今年の4月に入社して未経験でエンジニアになった駆け出しエンジニアです。 駆け出しということもあり、Claude Code で知らない技術をキャッチアップすることも多いです。AIに質問すれば、丁寧な解説は返ってくる。返ってくるのですが、長い。読み終えても「で、結局まず何をすればいいんだ？」がわからず聞き直す、というような作業が発生していました。答えは受け取っているのに、行動に移せない。非常にもどかしいですね。 この「長さ」を、モデルを変えずに調整できないか。調べると、Claude Code には Output Styles という公...",
-          "pubDate": "Thu, 20 Aug 2026 00:00:06 GMT",
-          "guid": "https://zenn.dev/tokium_dev/articles/claude-code-output-styles-action-first",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「大規模言語モデル」のフィード",
-          "feedUrl": "https://zenn.dev/topics/llm/feed",
-          "coverImage": "",
-          "summary": "1. はじめに こんにちは、TOKIUMの小松です。 今年の4月に入社して未経験でエンジニアになった駆け出しエンジニアです。 駆け出しということもあり、Claude Code で知らない技術をキャッチアップすることも多いです。AIに質問すれば、丁寧な解説は返ってくる。返ってくるのですが、長い。読み終えても「で、結局まず何をすればいいんだ？」がわからず聞き直す、というような作業が発生していました。答えは受け取っているのに、行動に移せない。...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://zenn.dev/images/topic.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--7ZiROCXY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E5%259B%259E%25E7%25AD%2594%25E3%2582%2592%2522%25E8%25A1%258C%25E5%258B%2595%25E6%258C%2587%25E5%2590%2591%2522%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258BOutput%2520Style%25E3%2581%25AF%25E5%258A%25B9%25E6%259E%259C%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kyohey%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JjNTU4N2MyM2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
         {
           "title": "grill-me / grilling をローカルLLM向けに改変してみた話。",
           "link": "https://zenn.dev/nanakusataro/articles/9417aa2b568c20",
@@ -3966,9 +3910,65 @@
             "type": "false",
             "length": "0"
           }
+        },
+        {
+          "title": "止まらないエージェントを実行前に見つける静的解析ツールIAL-Scan",
+          "link": "https://zenn.dev/okssusucha/articles/20260710-infinite-agentic-loops-ial-scan",
+          "description": "「夜のうちにコーディングエージェントを走らせておいたら、朝には成果物ではなく数万円分のAPI課金だけが残っていた」。この手のヒヤリに心当たりがあるなら、7月2日にarXivへ出た論文が刺さるはずだ。エージェントが止まらずに同じ処理を回し続ける現象に Infinite Agentic Loop(IAL、無限エージェントループ) という名前を与え、実在する6,549個のPython製エージェント実装を静的解析でスキャンして「どれだけ潜んでいるか」を実際に数えた研究である。 https://arxiv.org/abs/2607.01641 著者は華中科技大学のXinyi Hou、Shenao ...",
+          "content": "「夜のうちにコーディングエージェントを走らせておいたら、朝には成果物ではなく数万円分のAPI課金だけが残っていた」。この手のヒヤリに心当たりがあるなら、7月2日にarXivへ出た論文が刺さるはずだ。エージェントが止まらずに同じ処理を回し続ける現象に Infinite Agentic Loop(IAL、無限エージェントループ) という名前を与え、実在する6,549個のPython製エージェント実装を静的解析でスキャンして「どれだけ潜んでいるか」を実際に数えた研究である。 https://arxiv.org/abs/2607.01641 著者は華中科技大学のXinyi Hou、Shenao ...",
+          "pubDate": "Thu, 20 Aug 2026 00:04:31 GMT",
+          "guid": "https://zenn.dev/okssusucha/articles/20260710-infinite-agentic-loops-ial-scan",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「大規模言語モデル」のフィード",
+          "feedUrl": "https://zenn.dev/topics/llm/feed",
+          "coverImage": "",
+          "summary": "「夜のうちにコーディングエージェントを走らせておいたら、朝には成果物ではなく数万円分のAPI課金だけが残っていた」。この手のヒヤリに心当たりがあるなら、7月2日にarXivへ出た論文が刺さるはずだ。エージェントが止まらずに同じ処理を回し続ける現象に Infinite Agentic Loop(IAL、無限エージェントループ) という名前を与え、実在する6,549個のPython製エージェント実装を静的解析でスキャンして「どれだけ潜んでい...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://zenn.dev/images/topic.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--gFTgNfB4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E5%25AE%259F%25E8%25A1%258C%25E5%2589%258D%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%25E9%259D%2599%25E7%259A%2584%25E8%25A7%25A3%25E6%259E%2590%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25ABIAL-Scan%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2581%2586%25E3%2582%2582%25E3%2582%258D%25E3%2581%2593%25E3%2581%2597%25E8%258C%25B6%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW96UXYxMFhOSmoybmNYTlZkQzFRV1IxV2UxZHVyMy1FeHlhd19tTno1MkZJT3NyRzFzQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "Claude Codeの回答を\"行動指向\"にするOutput Styleは効果があるのか検証してみた",
+          "link": "https://zenn.dev/tokium_dev/articles/claude-code-output-styles-action-first",
+          "description": "1. はじめに こんにちは、TOKIUMの小松です。 今年の4月に入社して未経験でエンジニアになった駆け出しエンジニアです。 駆け出しということもあり、Claude Code で知らない技術をキャッチアップすることも多いです。AIに質問すれば、丁寧な解説は返ってくる。返ってくるのですが、長い。読み終えても「で、結局まず何をすればいいんだ？」がわからず聞き直す、というような作業が発生していました。答えは受け取っているのに、行動に移せない。非常にもどかしいですね。 この「長さ」を、モデルを変えずに調整できないか。調べると、Claude Code には Output Styles という公...",
+          "content": "1. はじめに こんにちは、TOKIUMの小松です。 今年の4月に入社して未経験でエンジニアになった駆け出しエンジニアです。 駆け出しということもあり、Claude Code で知らない技術をキャッチアップすることも多いです。AIに質問すれば、丁寧な解説は返ってくる。返ってくるのですが、長い。読み終えても「で、結局まず何をすればいいんだ？」がわからず聞き直す、というような作業が発生していました。答えは受け取っているのに、行動に移せない。非常にもどかしいですね。 この「長さ」を、モデルを変えずに調整できないか。調べると、Claude Code には Output Styles という公...",
+          "pubDate": "Thu, 20 Aug 2026 00:00:06 GMT",
+          "guid": "https://zenn.dev/tokium_dev/articles/claude-code-output-styles-action-first",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「大規模言語モデル」のフィード",
+          "feedUrl": "https://zenn.dev/topics/llm/feed",
+          "coverImage": "",
+          "summary": "1. はじめに こんにちは、TOKIUMの小松です。 今年の4月に入社して未経験でエンジニアになった駆け出しエンジニアです。 駆け出しということもあり、Claude Code で知らない技術をキャッチアップすることも多いです。AIに質問すれば、丁寧な解説は返ってくる。返ってくるのですが、長い。読み終えても「で、結局まず何をすればいいんだ？」がわからず聞き直す、というような作業が発生していました。答えは受け取っているのに、行動に移せない。...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://zenn.dev/images/topic.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--7ZiROCXY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E5%259B%259E%25E7%25AD%2594%25E3%2582%2592%2522%25E8%25A1%258C%25E5%258B%2595%25E6%258C%2587%25E5%2590%2591%2522%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258BOutput%2520Style%25E3%2581%25AF%25E5%258A%25B9%25E6%259E%259C%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kyohey%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JjNTU4N2MyM2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
         }
       ],
-      "lastUpdated": 1787237899500,
+      "lastUpdated": 1787241499390,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1787237899534,
+      "lastUpdated": 1787241499431,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1787237899577,
+      "lastUpdated": 1787241499469,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
