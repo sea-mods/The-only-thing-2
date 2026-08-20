@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1787198302194,
+      "lastUpdated": 1787202258206,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-ising-768x432.jpg"
         }
       ],
-      "lastUpdated": 1787198303193,
+      "lastUpdated": 1787202258740,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1787198303353,
+      "lastUpdated": 1787202258840,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2247,7 +2247,7 @@
           }
         }
       ],
-      "lastUpdated": 1787198303453,
+      "lastUpdated": 1787202259040,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2819,7 +2819,7 @@
           }
         }
       ],
-      "lastUpdated": 1787198303518,
+      "lastUpdated": 1787202259068,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2830,6 +2830,34 @@
       "url": "https://zenn.dev/topics/deeplearning/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "ニューラルネットワークとは？脳を模した学習モデル",
+          "link": "https://zenn.dev/h888s/articles/genai-neural-network",
+          "description": "生成AIパスポート試験で問われる基礎概念のひとつが「ニューラルネットワーク」です。生成AIや画像認識を支える根幹の仕組みであり、ディープラーニングとの関係を理解するうえでも避けて通れない用語です。本記事では定義に沿って、その意味と位置づけを整理します。 ニューラルネットワークとは ニューラルネットワークとは、脳の神経細胞（ニューロン）の働きを数理的に模倣した機械学習モデルです。人間の脳が多数のニューロンを介して情報をやり取りする仕組みを参考に、コンピュータ上で数式として表現したものと言えます。 構造としては次の3種類の層から成り立ちます。 入力層：データを受け取る層 隠れ層：入...",
+          "content": "生成AIパスポート試験で問われる基礎概念のひとつが「ニューラルネットワーク」です。生成AIや画像認識を支える根幹の仕組みであり、ディープラーニングとの関係を理解するうえでも避けて通れない用語です。本記事では定義に沿って、その意味と位置づけを整理します。 ニューラルネットワークとは ニューラルネットワークとは、脳の神経細胞（ニューロン）の働きを数理的に模倣した機械学習モデルです。人間の脳が多数のニューロンを介して情報をやり取りする仕組みを参考に、コンピュータ上で数式として表現したものと言えます。 構造としては次の3種類の層から成り立ちます。 入力層：データを受け取る層 隠れ層：入...",
+          "pubDate": "Wed, 19 Aug 2026 22:23:05 GMT",
+          "guid": "https://zenn.dev/h888s/articles/genai-neural-network",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「ディープラーニング」のフィード",
+          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
+          "coverImage": "",
+          "summary": "生成AIパスポート試験で問われる基礎概念のひとつが「ニューラルネットワーク」です。生成AIや画像認識を支える根幹の仕組みであり、ディープラーニングとの関係を理解するうえでも避けて通れない用語です。本記事では定義に沿って、その意味と位置づけを整理します。 ニューラルネットワークとは ニューラルネットワークとは、脳の神経細胞（ニューロン）の働きを数理的に模倣した機械学習モデルです。人間の脳が多数のニューロンを介して情報をやり取りする仕組みを...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--l9HM4Qi3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%25E8%2584%25B3%25E3%2582%2592%25E6%25A8%25A1%25E3%2581%2597%25E3%2581%259F%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%2588%25E6%25A0%25BC%25E3%2582%2592%25E3%2580%2581%25E7%25A0%2594%25E7%25A9%25B6%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyOGFhZTU2ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "『拡散モデル』UNetからDiT（Diffusion Transformer）への入門",
           "link": "https://zenn.dev/fuwamoekissaten/articles/b5643c01fca150",
@@ -3361,37 +3389,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "ニューラルネットワークとは？脳を模した学習モデル",
-          "link": "https://zenn.dev/h888s/articles/genai-neural-network",
-          "description": "生成AIパスポート試験で問われる基礎概念のひとつが「ニューラルネットワーク」です。生成AIや画像認識を支える根幹の仕組みであり、ディープラーニングとの関係を理解するうえでも避けて通れない用語です。本記事では定義に沿って、その意味と位置づけを整理します。 ニューラルネットワークとは ニューラルネットワークとは、脳の神経細胞（ニューロン）の働きを数理的に模倣した機械学習モデルです。人間の脳が多数のニューロンを介して情報をやり取りする仕組みを参考に、コンピュータ上で数式として表現したものと言えます。 構造としては次の3種類の層から成り立ちます。 入力層：データを受け取る層 隠れ層：入...",
-          "content": "生成AIパスポート試験で問われる基礎概念のひとつが「ニューラルネットワーク」です。生成AIや画像認識を支える根幹の仕組みであり、ディープラーニングとの関係を理解するうえでも避けて通れない用語です。本記事では定義に沿って、その意味と位置づけを整理します。 ニューラルネットワークとは ニューラルネットワークとは、脳の神経細胞（ニューロン）の働きを数理的に模倣した機械学習モデルです。人間の脳が多数のニューロンを介して情報をやり取りする仕組みを参考に、コンピュータ上で数式として表現したものと言えます。 構造としては次の3種類の層から成り立ちます。 入力層：データを受け取る層 隠れ層：入...",
-          "pubDate": "Wed, 19 Aug 2026 22:23:05 GMT",
-          "guid": "https://zenn.dev/h888s/articles/genai-neural-network",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「ディープラーニング」のフィード",
-          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
-          "coverImage": "",
-          "summary": "生成AIパスポート試験で問われる基礎概念のひとつが「ニューラルネットワーク」です。生成AIや画像認識を支える根幹の仕組みであり、ディープラーニングとの関係を理解するうえでも避けて通れない用語です。本記事では定義に沿って、その意味と位置づけを整理します。 ニューラルネットワークとは ニューラルネットワークとは、脳の神経細胞（ニューロン）の働きを数理的に模倣した機械学習モデルです。人間の脳が多数のニューロンを介して情報をやり取りする仕組みを...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--l9HM4Qi3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%25E8%2584%25B3%25E3%2582%2592%25E6%25A8%25A1%25E3%2581%2597%25E3%2581%259F%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%2588%25E6%25A0%25BC%25E3%2582%2592%25E3%2580%2581%25E7%25A0%2594%25E7%25A9%25B6%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyOGFhZTU2ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1787198304067,
+      "lastUpdated": 1787202259209,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1787198304123,
+      "lastUpdated": 1787202259254,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1787198304186,
+      "lastUpdated": 1787202259340,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5102,7 +5102,7 @@
           }
         }
       ],
-      "lastUpdated": 1787198304238,
+      "lastUpdated": 1787202259399,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
