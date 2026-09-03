@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1788448062562,
+      "lastUpdated": 1788451662622,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -593,10 +593,30 @@
       "folder": "Uncategorized",
       "items": [
         {
+          "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+          "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
+          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router.webp 1920w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"nvidia-pair-virtual-inference-router\" />AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents....",
+          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router.webp 1920w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"nvidia-pair-virtual-inference-router\" />AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents....<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router.webp 1920w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"nvidia-pair-virtual-inference-router\" /><p>AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents. Additionally, users are starting to run multiple agent sessions at the same time. Multi-agent workflows for accomplishing complex tasks are also becoming more common. This breadth-first approach can improve the speed of task completion…</p> <p><a href=\"https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "pubDate": "2026-09-03T16:00:00Z",
+          "guid": "https://developer.nvidia.com/blog/?p=121926",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "NVIDIA Technical Blog",
+          "feedUrl": "https://developer.nvidia.com/blog/feed/",
+          "coverImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png",
+          "summary": "AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents....AI agents are learning to do more by working together. A le...",
+          "author": "Tanya Lenz",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png"
+        },
+        {
           "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
           "link": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
-          "description": "<img width=\"768\" height=\"431\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-179x100.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-300x168.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-645x362.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-500x280.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-362x203.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-1024x574.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-960x538.jpg 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9.webp 1480w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"keyboard_16x9\" />NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing...",
-          "content": "<img width=\"768\" height=\"431\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-179x100.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-300x168.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-645x362.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-500x280.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-362x203.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-1024x574.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-960x538.jpg 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9.webp 1480w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"keyboard_16x9\" />NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing...<img width=\"768\" height=\"431\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-179x100.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-300x168.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-645x362.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-500x280.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-362x203.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-1024x574.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-960x538.jpg 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9.webp 1480w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"keyboard_16x9\" /><p></p> <p><a href=\"https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "description": "<img width=\"768\" height=\"431\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-179x100.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-300x168.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-645x362.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-500x280.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-362x203.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-1024x574.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-960x538.jpg 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9.webp 1480w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"keyboard_16x9\" />NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing...",
+          "content": "<img width=\"768\" height=\"431\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-179x100.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-300x168.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-645x362.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-500x280.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-362x203.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-1024x574.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-960x538.jpg 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9.webp 1480w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"keyboard_16x9\" />NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing...<img width=\"768\" height=\"431\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-179x100.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-300x168.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-645x362.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-500x280.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-362x203.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-1024x574.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-960x538.jpg 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9.webp 1480w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"keyboard_16x9\" /><p></p> <p><a href=\"https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
           "pubDate": "2026-09-02T17:15:57Z",
           "guid": "https://developer.nvidia.com/blog/?p=122046",
           "read": false,
@@ -1071,29 +1091,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2023/09/nvflare-featured-768x432.jpg"
-        },
-        {
-          "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
-          "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
-          "description": "<img width=\"600\" height=\"338\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Cosmos.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A robot picking up a tool.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" title=\"Cosmos\" />Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for...",
-          "content": "<img width=\"600\" height=\"338\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Cosmos.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A robot picking up a tool.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" title=\"Cosmos\" />Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for...<img width=\"600\" height=\"338\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Cosmos.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A robot picking up a tool.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" title=\"Cosmos\" /><p>Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for learning physical interactions, but their size can make on-device deployment difficult. This changes with the new NVIDIA Cosmos 3 Edge. Cosmos 3 Edge is a 4B omni-model (with a 2B NVIDIA Nemotron-based reasoner) in the Cosmos 3 family.</p> <p><a href=\"https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
-          "pubDate": "2026-08-19T16:00:00Z",
-          "guid": "https://developer.nvidia.com/blog/?p=121434",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "NVIDIA Technical Blog",
-          "feedUrl": "https://developer.nvidia.com/blog/feed/",
-          "coverImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Cosmos.gif",
-          "summary": "Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for...Robots need policies that can adapt to their sensors, envir...",
-          "author": "Michelle Horton",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Cosmos.gif"
         }
       ],
-      "lastUpdated": 1788448062790,
+      "lastUpdated": 1788451663146,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1788448062903,
+      "lastUpdated": 1788451663291,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2247,7 +2247,7 @@
           }
         }
       ],
-      "lastUpdated": 1788448063026,
+      "lastUpdated": 1788451663419,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2814,7 +2814,7 @@
           }
         }
       ],
-      "lastUpdated": 1788448063067,
+      "lastUpdated": 1788451663468,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3386,7 +3386,7 @@
           }
         }
       ],
-      "lastUpdated": 1788448063114,
+      "lastUpdated": 1788451663529,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3958,7 +3958,7 @@
           }
         }
       ],
-      "lastUpdated": 1788448063168,
+      "lastUpdated": 1788451663571,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3969,6 +3969,34 @@
       "url": "https://zenn.dev/topics/nlp/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "過去の文章を元に、自然な「自分の文章」を書かせる doc-style-skill",
+          "link": "https://zenn.dev/nasubikun/articles/doc-style-skill",
+          "description": "こんにちは、@jomatsu_ です。 AIエージェントに文章を書かせるとき、「〇〇さんのような文体で書いて」と頼んだ経験はないでしょうか。プロンプトだけで指示を出すと、なぜか違和感のある文章になりがちです。特定の口癖を何度も繰り返したり、極端な語尾が続いたりと、不自然な出来になってしまいます。 この不自然さを防ぎ、日本語著者の文体を安定して再現するために、doc-style-skill というメタスキルを作りました。リポジトリは GitHub で公開しています。 https://github.com/jomatsu/doc-style-skill コーパスから文体の特徴を定量的に抽出し...",
+          "content": "こんにちは、@jomatsu_ です。 AIエージェントに文章を書かせるとき、「〇〇さんのような文体で書いて」と頼んだ経験はないでしょうか。プロンプトだけで指示を出すと、なぜか違和感のある文章になりがちです。特定の口癖を何度も繰り返したり、極端な語尾が続いたりと、不自然な出来になってしまいます。 この不自然さを防ぎ、日本語著者の文体を安定して再現するために、doc-style-skill というメタスキルを作りました。リポジトリは GitHub で公開しています。 https://github.com/jomatsu/doc-style-skill コーパスから文体の特徴を定量的に抽出し...",
+          "pubDate": "Thu, 03 Sep 2026 09:27:04 GMT",
+          "guid": "https://zenn.dev/nasubikun/articles/doc-style-skill",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「NLP」のフィード",
+          "feedUrl": "https://zenn.dev/topics/nlp/feed",
+          "coverImage": "",
+          "summary": "こんにちは、@jomatsu_ です。 AIエージェントに文章を書かせるとき、「〇〇さんのような文体で書いて」と頼んだ経験はないでしょうか。プロンプトだけで指示を出すと、なぜか違和感のある文章になりがちです。特定の口癖を何度も繰り返したり、極端な語尾が続いたりと、不自然な出来になってしまいます。 この不自然さを防ぎ、日本語著者の文体を安定して再現するために、doc-style-skill というメタスキルを作りました。リポジトリは Gi...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://zenn.dev/images/topic.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vHFKtF_E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2581%258E%25E5%258E%25BB%25E3%2581%25AE%25E6%2596%2587%25E7%25AB%25A0%25E3%2582%2592%25E5%2585%2583%25E3%2581%25AB%25E3%2580%2581%25E8%2587%25AA%25E7%2584%25B6%25E3%2581%25AA%25E3%2580%258C%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E6%2596%2587%25E7%25AB%25A0%25E3%2580%258D%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%2520doc-style-skill%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jomatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4ZGMxNjg2NDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "Pangram 4 はいかにAI臭を見分けるのか",
           "link": "https://zenn.dev/inspector/articles/pangram-4-ai-text-detector",
@@ -4500,37 +4528,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "過去の文章を元に、自然な「自分の文章」を書かせる doc-style-skill",
-          "link": "https://zenn.dev/nasubikun/articles/doc-style-skill",
-          "description": "こんにちは、@jomatsu_ です。 AIエージェントに文章を書かせるとき、「〇〇さんのような文体で書いて」と頼んだ経験はないでしょうか。プロンプトだけで指示を出すと、なぜか違和感のある文章になりがちです。特定の口癖を何度も繰り返したり、極端な語尾が続いたりと、不自然な出来になってしまいます。 この不自然さを防ぎ、日本語著者の文体を安定して再現するために、doc-style-skill というメタスキルを作りました。リポジトリは GitHub で公開しています。 https://github.com/jomatsu/doc-style-skill コーパスから文体の特徴を定量的に抽出し...",
-          "content": "こんにちは、@jomatsu_ です。 AIエージェントに文章を書かせるとき、「〇〇さんのような文体で書いて」と頼んだ経験はないでしょうか。プロンプトだけで指示を出すと、なぜか違和感のある文章になりがちです。特定の口癖を何度も繰り返したり、極端な語尾が続いたりと、不自然な出来になってしまいます。 この不自然さを防ぎ、日本語著者の文体を安定して再現するために、doc-style-skill というメタスキルを作りました。リポジトリは GitHub で公開しています。 https://github.com/jomatsu/doc-style-skill コーパスから文体の特徴を定量的に抽出し...",
-          "pubDate": "Thu, 03 Sep 2026 09:27:04 GMT",
-          "guid": "https://zenn.dev/nasubikun/articles/doc-style-skill",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「NLP」のフィード",
-          "feedUrl": "https://zenn.dev/topics/nlp/feed",
-          "coverImage": "",
-          "summary": "こんにちは、@jomatsu_ です。 AIエージェントに文章を書かせるとき、「〇〇さんのような文体で書いて」と頼んだ経験はないでしょうか。プロンプトだけで指示を出すと、なぜか違和感のある文章になりがちです。特定の口癖を何度も繰り返したり、極端な語尾が続いたりと、不自然な出来になってしまいます。 この不自然さを防ぎ、日本語著者の文体を安定して再現するために、doc-style-skill というメタスキルを作りました。リポジトリは Gi...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://zenn.dev/images/topic.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--vHFKtF_E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2581%258E%25E5%258E%25BB%25E3%2581%25AE%25E6%2596%2587%25E7%25AB%25A0%25E3%2582%2592%25E5%2585%2583%25E3%2581%25AB%25E3%2580%2581%25E8%2587%25AA%25E7%2584%25B6%25E3%2581%25AA%25E3%2580%258C%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E6%2596%2587%25E7%25AB%25A0%25E3%2580%258D%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%2520doc-style-skill%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jomatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4ZGMxNjg2NDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1788448063227,
+      "lastUpdated": 1788451663625,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5102,7 +5102,7 @@
           }
         }
       ],
-      "lastUpdated": 1788448063273,
+      "lastUpdated": 1788451663663,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
