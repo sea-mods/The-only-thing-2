@@ -12,6 +12,17 @@
       "saveSourceId": true,
       "template": "",
       "titleTemplate": "{{title}}"
+    },
+    "": {
+      "folder": "Markdown",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "template": "",
+      "titleTemplate": "{{title}}"
     }
   },
   "onenoteAttachments": {},
