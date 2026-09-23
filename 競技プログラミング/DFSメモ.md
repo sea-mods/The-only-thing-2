@@ -24,7 +24,7 @@ todoをキューにすると幅優先探索になる。
 vector<bool> seen;
 vector<vector<int>> G;
 
-void dfs(vector<vrctor<int>> &G,int v)
+void dfs(vector<vector<int>> &G,int v)
 {
 	seen[v]=true;
 	
