@@ -420,7 +420,7 @@
           "episodeType": ""
         },
         {
-          "title": "How V7 gives AI agents institutional memory",
+          "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
           "link": "https://openai.com/index/v7",
           "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
           "content": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790307768711,
+      "lastUpdated": 1790325768272,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/multimodal-dynamo-768x432.jpg"
         }
       ],
-      "lastUpdated": 1790307769092,
+      "lastUpdated": 1790325769484,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "GPT-6 Astra が 3Dパズルゲーム『Portal』を自律クリア",
-          "link": "https://note.com/npaka/n/na3367605cf11",
-          "description": "<p name=\"44740622-3bd1-4f80-bda1-9d9bb6976025\" id=\"44740622-3bd1-4f80-bda1-9d9bb6976025\">「GPT-6 Astra」が、3Dパズルゲーム「Portal」を自律操作し、約24時間かけてクリアした事例をまとめました。</p><table-of-contents name=\"e98939e6-5562-497e-ad63-2053b253935d\" id=\"e98939e6-5562-497e-ad63-2053b253935d\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/na3367605cf11\">続きをみる</a>",
-          "content": "<p name=\"44740622-3bd1-4f80-bda1-9d9bb6976025\" id=\"44740622-3bd1-4f80-bda1-9d9bb6976025\">「GPT-6 Astra」が、3Dパズルゲーム「Portal」を自律操作し、約24時間かけてクリアした事例をまとめました。</p><table-of-contents name=\"e98939e6-5562-497e-ad63-2053b253935d\" id=\"e98939e6-5562-497e-ad63-2053b253935d\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/na3367605cf11\">続きをみる</a>",
-          "pubDate": "Thu, 10 Sep 2026 08:37:47 +0900",
-          "guid": "https://note.com/npaka/n/na3367605cf11",
+          "title": "FLUX 3 Action の概要",
+          "link": "https://note.com/npaka/n/nd6fd4a70dee8",
+          "description": "<p name=\"720627b8-3fa9-4581-9a59-d47b37d69123\" id=\"720627b8-3fa9-4581-9a59-d47b37d69123\">「FLUX 3 Action」の概要をまとめました。</p><table-of-contents name=\"dce175d5-d4aa-4bf5-a11b-9186dd163e9c\" id=\"dce175d5-d4aa-4bf5-a11b-9186dd163e9c\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nd6fd4a70dee8\">続きをみる</a>",
+          "content": "<p name=\"720627b8-3fa9-4581-9a59-d47b37d69123\" id=\"720627b8-3fa9-4581-9a59-d47b37d69123\">「FLUX 3 Action」の概要をまとめました。</p><table-of-contents name=\"dce175d5-d4aa-4bf5-a11b-9186dd163e9c\" id=\"dce175d5-d4aa-4bf5-a11b-9186dd163e9c\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nd6fd4a70dee8\">続きをみる</a>",
+          "pubDate": "Fri, 25 Sep 2026 15:18:52 +0900",
+          "guid": "https://note.com/npaka/n/nd6fd4a70dee8",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "「GPT-6 Astra」が、3Dパズルゲーム「Portal」を自律操作し、約24時間かけてクリアした事例をまとめました。続きをみる",
+          "summary": "「FLUX 3 Action」の概要をまとめました。続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790307769136,
+      "lastUpdated": 1790325769693,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1691,6 +1691,34 @@
       "url": "https://zenn.dev/topics/機械学習/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "Draft modelとTarget modelによる高速生成",
+          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-21-speculative-decoding",
+          "description": "Speculative Decoding（投機的デコーディング）は、小さなDraft modelで未来のtoken候補を作り、大きなTarget modelでまとめて検証する推論手法です。狙いは、Target modelの重い逐次呼び出しを減らすことです。 実装で押さえる点は、単に「小さいmodelの出力を採用する」ことではありません。 classicな方式ではDraft modelも候補を自己回帰的に生成する Target modelは候補の複数位置を1回のforward passでscoreする 最初の棄却より後ろにあるDraft候補は捨てる samplingでは補正付きのacce...",
+          "content": "Speculative Decoding（投機的デコーディング）は、小さなDraft modelで未来のtoken候補を作り、大きなTarget modelでまとめて検証する推論手法です。狙いは、Target modelの重い逐次呼び出しを減らすことです。 実装で押さえる点は、単に「小さいmodelの出力を採用する」ことではありません。 classicな方式ではDraft modelも候補を自己回帰的に生成する Target modelは候補の複数位置を1回のforward passでscoreする 最初の棄却より後ろにあるDraft候補は捨てる samplingでは補正付きのacce...",
+          "pubDate": "Thu, 24 Sep 2026 23:15:07 GMT",
+          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-21-speculative-decoding",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "Speculative Decoding（投機的デコーディング）は、小さなDraft modelで未来のtoken候補を作り、大きなTarget modelでまとめて検証する推論手法です。狙いは、Target modelの重い逐次呼び出しを減らすことです。 実装で押さえる点は、単に「小さいmodelの出力を採用する」ことではありません。 classicな方式ではDraft modelも候補を自己回帰的に生成する Target model...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--qEVwctqv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Draft%2520model%25E3%2581%25A8Target%2520model%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%25AB%2598%25E9%2580%259F%25E7%2594%259F%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "Laya Model入門：Pythonでの使い方とJev AIとの比較",
           "link": "https://zenn.dev/jevaimodel/articles/5677aedfef88d7",
@@ -2222,37 +2250,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "Draft modelとTarget modelによる高速生成",
-          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-21-speculative-decoding",
-          "description": "Speculative Decoding（投機的デコーディング）は、小さなDraft modelで未来のtoken候補を作り、大きなTarget modelでまとめて検証する推論手法です。狙いは、Target modelの重い逐次呼び出しを減らすことです。 実装で押さえる点は、単に「小さいmodelの出力を採用する」ことではありません。 classicな方式ではDraft modelも候補を自己回帰的に生成する Target modelは候補の複数位置を1回のforward passでscoreする 最初の棄却より後ろにあるDraft候補は捨てる samplingでは補正付きのacce...",
-          "content": "Speculative Decoding（投機的デコーディング）は、小さなDraft modelで未来のtoken候補を作り、大きなTarget modelでまとめて検証する推論手法です。狙いは、Target modelの重い逐次呼び出しを減らすことです。 実装で押さえる点は、単に「小さいmodelの出力を採用する」ことではありません。 classicな方式ではDraft modelも候補を自己回帰的に生成する Target modelは候補の複数位置を1回のforward passでscoreする 最初の棄却より後ろにあるDraft候補は捨てる samplingでは補正付きのacce...",
-          "pubDate": "Thu, 24 Sep 2026 23:15:07 GMT",
-          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-21-speculative-decoding",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "Speculative Decoding（投機的デコーディング）は、小さなDraft modelで未来のtoken候補を作り、大きなTarget modelでまとめて検証する推論手法です。狙いは、Target modelの重い逐次呼び出しを減らすことです。 実装で押さえる点は、単に「小さいmodelの出力を採用する」ことではありません。 classicな方式ではDraft modelも候補を自己回帰的に生成する Target model...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--qEVwctqv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Draft%2520model%25E3%2581%25A8Target%2520model%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%25AB%2598%25E9%2580%259F%25E7%2594%259F%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1790307769179,
+      "lastUpdated": 1790325769935,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1790307769200,
+      "lastUpdated": 1790325769998,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1790307769229,
+      "lastUpdated": 1790325770138,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1790307769254,
+      "lastUpdated": 1790325770235,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1790307769276,
+      "lastUpdated": 1790325770422,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1790307769296,
+      "lastUpdated": 1790325770568,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
