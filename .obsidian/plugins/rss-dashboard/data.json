@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790386968750,
+      "lastUpdated": 1790394880105,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/multimodal-dynamo-768x432.jpg"
         }
       ],
-      "lastUpdated": 1790386969121,
+      "lastUpdated": 1790394880378,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790386969258,
+      "lastUpdated": 1790394880500,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2196,19 +2196,19 @@
           }
         },
         {
-          "title": "機械学習モデルの評価指標と統計的検定",
-          "link": "https://zenn.dev/972697325291316/articles/7aba4350e0fbb3",
-          "description": "はじめに 機械学習モデルを評価するとき、「Accuracyが0.85でした」で終わってしまうケースをよく見かけます。しかし実務や論文では、 そもそもAccuracy以外にどんな指標を見るべきか クラス不均衡があるときにどう評価するか モデルAとモデルBの差は「本当に意味のある差」なのか、それとも「たまたま」なのか といった点まで詰めて考える必要があります。この記事では、まず分類問題でよく使われる評価指標（Precision, Recall, F1, ROC, AUCなど）を直感的な例とともに整理し、そのあとでモデル同士の性能差を検証するための統計的検定（t検定、McNemar検定...",
-          "content": "はじめに 機械学習モデルを評価するとき、「Accuracyが0.85でした」で終わってしまうケースをよく見かけます。しかし実務や論文では、 そもそもAccuracy以外にどんな指標を見るべきか クラス不均衡があるときにどう評価するか モデルAとモデルBの差は「本当に意味のある差」なのか、それとも「たまたま」なのか といった点まで詰めて考える必要があります。この記事では、まず分類問題でよく使われる評価指標（Precision, Recall, F1, ROC, AUCなど）を直感的な例とともに整理し、そのあとでモデル同士の性能差を検証するための統計的検定（t検定、McNemar検定...",
-          "pubDate": "Wed, 23 Sep 2026 01:33:07 GMT",
-          "guid": "https://zenn.dev/972697325291316/articles/7aba4350e0fbb3",
+          "title": "機械学習を試したいがデータが無い — 正解が勝手に降ってくる場所を探した",
+          "link": "https://zenn.dev/horibe/articles/ml-training-data-for-free",
+          "description": "機械学習を自分で一度やってみたい、と思ったときに最初にぶつかるのは アルゴリズムでもGPUでもなく、教師データが無いことだった。 入門記事は大抵 Titanic か MNIST で、それは「もう誰かが正解を付けてくれたデータ」だ。 自分の題材でやろうとすると、まず何百件も正解を手で付けるところから始まる。そこで力尽きる。 自分のアプリの中に、正解が自動で降ってくる場所が埋まっていた話を書く。 まだモデルは作っていない。データが貯まる仕組みを作ったところまでの記録。 探し方：外部APIが正解を返しているところ TOEIC学習用のPWAを作っていて、発音採点に Azure Speech ...",
+          "content": "機械学習を自分で一度やってみたい、と思ったときに最初にぶつかるのは アルゴリズムでもGPUでもなく、教師データが無いことだった。 入門記事は大抵 Titanic か MNIST で、それは「もう誰かが正解を付けてくれたデータ」だ。 自分の題材でやろうとすると、まず何百件も正解を手で付けるところから始まる。そこで力尽きる。 自分のアプリの中に、正解が自動で降ってくる場所が埋まっていた話を書く。 まだモデルは作っていない。データが貯まる仕組みを作ったところまでの記録。 探し方：外部APIが正解を返しているところ TOEIC学習用のPWAを作っていて、発音採点に Azure Speech ...",
+          "pubDate": "Sat, 26 Sep 2026 01:34:40 GMT",
+          "guid": "https://zenn.dev/horibe/articles/ml-training-data-for-free",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 機械学習モデルを評価するとき、「Accuracyが0.85でした」で終わってしまうケースをよく見かけます。しかし実務や論文では、 そもそもAccuracy以外にどんな指標を見るべきか クラス不均衡があるときにどう評価するか モデルAとモデルBの差は「本当に意味のある差」なのか、それとも「たまたま」なのか といった点まで詰めて考える必要があります。この記事では、まず分類問題でよく使われる評価指標（Precision, Recal...",
+          "summary": "機械学習を自分で一度やってみたい、と思ったときに最初にぶつかるのは アルゴリズムでもGPUでもなく、教師データが無いことだった。 入門記事は大抵 Titanic か MNIST で、それは「もう誰かが正解を付けてくれたデータ」だ。 自分の題材でやろうとすると、まず何百件も正解を手で付けるところから始まる。そこで力尽きる。 自分のアプリの中に、正解が自動で降ってくる場所が埋まっていた話を書く。 まだモデルは作っていない。データが貯まる仕組...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2218,25 +2218,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--XMWoT_EI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E8%25A9%2595%25E4%25BE%25A1%25E6%258C%2587%25E6%25A8%2599%25E3%2581%25A8%25E7%25B5%25B1%25E8%25A8%2588%25E7%259A%2584%25E6%25A4%259C%25E5%25AE%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:972697325291316%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvOS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--tUQFBwrx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25E3%2581%258C%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E7%2584%25A1%25E3%2581%2584%2520%25E2%2580%2594%2520%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2581%258C%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E9%2599%258D%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258B%25E5%25A0%25B4%25E6%2589%2580%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Horibe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1p2UGt5M29mR0dUNzhUaHJlOXFuU3NEWkg3T2tubHBCX1ZuUjNLVXVNYk5NQjd3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "機械学習からTransformerへ4冊",
-          "link": "https://zenn.dev/komatsu_ops/articles/20260923_book_ref",
-          "description": "はじめに 数年前、社内の問い合わせログを分類するタスクを任された。そのときの自分はTF-IDFとロジスティック回帰を組み合わせたモデルを動かし、精度が7割そこそこで止まっていた。特徴量を足しても、ハイパーパラメータをいじっても数字が動かない。しかも、動かない理由を説明できなかった。 原因は単純だった。写経したコードは動くのに、中身を理解していなかった。なぜこの前処理なのか、なぜこの損失関数なのか。聞かれると黙るしかない状態で、チュートリアルを何本消化してもこの穴は埋まらなかった。 穴が埋まりはじめたのは、書籍を通しで読んだときだ。ブログ記事は断片的で、公式ドキュメントはリファレンス寄...",
-          "content": "はじめに 数年前、社内の問い合わせログを分類するタスクを任された。そのときの自分はTF-IDFとロジスティック回帰を組み合わせたモデルを動かし、精度が7割そこそこで止まっていた。特徴量を足しても、ハイパーパラメータをいじっても数字が動かない。しかも、動かない理由を説明できなかった。 原因は単純だった。写経したコードは動くのに、中身を理解していなかった。なぜこの前処理なのか、なぜこの損失関数なのか。聞かれると黙るしかない状態で、チュートリアルを何本消化してもこの穴は埋まらなかった。 穴が埋まりはじめたのは、書籍を通しで読んだときだ。ブログ記事は断片的で、公式ドキュメントはリファレンス寄...",
-          "pubDate": "Wed, 23 Sep 2026 00:05:05 GMT",
-          "guid": "https://zenn.dev/komatsu_ops/articles/20260923_book_ref",
+          "title": "新モデル「Jev」とBERTを比較して整理する ― 「生成しない」モデルの本質的な違い",
+          "link": "https://zenn.dev/sudonotfound/articles/20260923-jev-vs-bert",
+          "description": "TL;DR 2026年9月にTypeSafe AIが発表した新モデル「Jev」を、既存の代表的なエンコーダモデルBERTと比較しながら整理します 両者は「自由形式のテキストを生成しない」という共通点を持ちますが、その理由も入出力の設計も大きく異なります 「分類に使うモデルだ」という単純な理解では両者とも捉えきれない、という点を掘り下げます 背景・課題 2026年9月15日、TypeSafe AIというスタートアップが「Jev」という新モデルを発表しました。元OpenAIでChatGPTとRLHFの開発に関わったDiego Almeida氏が創業し、シード資金40M$を調達して...",
+          "content": "TL;DR 2026年9月にTypeSafe AIが発表した新モデル「Jev」を、既存の代表的なエンコーダモデルBERTと比較しながら整理します 両者は「自由形式のテキストを生成しない」という共通点を持ちますが、その理由も入出力の設計も大きく異なります 「分類に使うモデルだ」という単純な理解では両者とも捉えきれない、という点を掘り下げます 背景・課題 2026年9月15日、TypeSafe AIというスタートアップが「Jev」という新モデルを発表しました。元OpenAIでChatGPTとRLHFの開発に関わったDiego Almeida氏が創業し、シード資金40M$を調達して...",
+          "pubDate": "Fri, 25 Sep 2026 21:42:17 GMT",
+          "guid": "https://zenn.dev/sudonotfound/articles/20260923-jev-vs-bert",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 数年前、社内の問い合わせログを分類するタスクを任された。そのときの自分はTF-IDFとロジスティック回帰を組み合わせたモデルを動かし、精度が7割そこそこで止まっていた。特徴量を足しても、ハイパーパラメータをいじっても数字が動かない。しかも、動かない理由を説明できなかった。 原因は単純だった。写経したコードは動くのに、中身を理解していなかった。なぜこの前処理なのか、なぜこの損失関数なのか。聞かれると黙るしかない状態で、チュートリ...",
+          "summary": "TL;DR 2026年9月にTypeSafe AIが発表した新モデル「Jev」を、既存の代表的なエンコーダモデルBERTと比較しながら整理します 両者は「自由形式のテキストを生成しない」という共通点を持ちますが、その理由も入出力の設計も大きく異なります 「分類に使うモデルだ」という単純な理解では両者とも捉えきれない、という点を掘り下げます 背景・課題 2026年9月15日、TypeSafe AIというスタートアップが「Jev」という新モ...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2246,13 +2246,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--iMVl9K5Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%258B%25E3%2582%2589Transformer%25E3%2581%25B84%25E5%2586%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:komatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkZDUzNmNmNzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--3Mar77fp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2580%258CJev%25E3%2580%258D%25E3%2581%25A8BERT%25E3%2582%2592%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2597%25E3%2581%25A6%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2520%25E2%2580%2595%2520%25E3%2580%258C%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E7%259A%2584%25E3%2581%25AA%25E9%2581%2595%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sudonotfound%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhZjZmMmVmNDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1790386969338,
+      "lastUpdated": 1790394880541,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1790386969381,
+      "lastUpdated": 1790394880560,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1790386969428,
+      "lastUpdated": 1790394880581,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1790386969470,
+      "lastUpdated": 1790394880604,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1790386969514,
+      "lastUpdated": 1790394880624,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1790386969561,
+      "lastUpdated": 1790394880651,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
