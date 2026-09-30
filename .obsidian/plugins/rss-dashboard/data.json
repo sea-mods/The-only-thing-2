@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790732567146,
+      "lastUpdated": 1790739688168,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvflare-featured-768x432.jpg"
         }
       ],
-      "lastUpdated": 1790732567568,
+      "lastUpdated": 1790739688575,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790732567661,
+      "lastUpdated": 1790739688661,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2140,19 +2140,19 @@
           }
         },
         {
-          "title": "Muonの数学-勾配行列の直行化は特異値を1に揃えていない-",
-          "link": "https://zenn.dev/hiroki_honma/books/6c3fec431ee9d4",
-          "description": "Muonは、なぜ大規模モデルの学習で選ばれているのでしょうか。 「モーメンタムで貯めた勾配行列を直交化して、特異値を1に揃えるから」 「大きさを捨てて、方向の情報だけを均等にして使うから」 そんな説明を見かけます。 しかし、実装が使っている計算を追うと、話はそれほど単純ではありません。 Muonが使う五次のNewton-Schulz反復に1を入れると、返ってくるのは0.701です。1はこの計算の不動点ではないので、何回繰り返しても1には収束しません。正の不動点は0.868と1.264の二つだけです。これは作者自身が実装の説明文に書いていることです。 では、この直交化は本当は何を最適化しているのでしょうか。 本書では、ある行列に最も近い半直交行列が極分解の直交因子になることを、特異値分解と不等式だけで導くところから始めます。そこから最急降下、符号降下との対比、長方形の重み行列、五次の係数へと進みながら、「直交化が実際に何をしているのか」を一つずつ切り分けます。 すると、モーメンタムとの順序で状況が変わります。 先に平均してから直交化すると、更新のスペクトルノルムは常に1に固定されます。順序を逆にすると、同じ勾配の列でも0.05から0.45まで振れました。方向の大きさを揃えることと、更新の大きさを一定に保つこと。この二つが、逆の順序では失われます。 さらに収束理論まで遡ると、もう一つ意外な事実が現れます。 よく引かれるO(1/T^(1/4))という収束率には、後続の論文から「証明に一般には成り立たない不等式が使われている」という疑義が出ています。経験が先に走り、理論が後から追いかけている段階です。 では、Muonの直交化は本当は何を最適化しているのか。 そして、「特異値を1に揃えて方向だけを使う」という説明は本当に正しいのか。 本書ではこれらを一次資料と数式から検証し、最後には二つの順序の比較までNumPyで自作します。既存の実装を呼び出すのではなく、本文で導いた式がそのまま動くところまで確認します。 「Muonを使える」から、「Muonがなぜその計算をしているのか説明できる」へ。 特異値分解、極分解、スペクトルノルム、Newton-Schulz反復まで、Muonの仕組みを数式から理解するための本です。",
-          "content": "Muonは、なぜ大規模モデルの学習で選ばれているのでしょうか。 「モーメンタムで貯めた勾配行列を直交化して、特異値を1に揃えるから」 「大きさを捨てて、方向の情報だけを均等にして使うから」 そんな説明を見かけます。 しかし、実装が使っている計算を追うと、話はそれほど単純ではありません。 Muonが使う五次のNewton-Schulz反復に1を入れると、返ってくるのは0.701です。1はこの計算の不動点ではないので、何回繰り返しても1には収束しません。正の不動点は0.868と1.264の二つだけです。これは作者自身が実装の説明文に書いていることです。 では、この直交化は本当は何を最適化しているのでしょうか。 本書では、ある行列に最も近い半直交行列が極分解の直交因子になることを、特異値分解と不等式だけで導くところから始めます。そこから最急降下、符号降下との対比、長方形の重み行列、五次の係数へと進みながら、「直交化が実際に何をしているのか」を一つずつ切り分けます。 すると、モーメンタムとの順序で状況が変わります。 先に平均してから直交化すると、更新のスペクトルノルムは常に1に固定されます。順序を逆にすると、同じ勾配の列でも0.05から0.45まで振れました。方向の大きさを揃えることと、更新の大きさを一定に保つこと。この二つが、逆の順序では失われます。 さらに収束理論まで遡ると、もう一つ意外な事実が現れます。 よく引かれるO(1/T^(1/4))という収束率には、後続の論文から「証明に一般には成り立たない不等式が使われている」という疑義が出ています。経験が先に走り、理論が後から追いかけている段階です。 では、Muonの直交化は本当は何を最適化しているのか。 そして、「特異値を1に揃えて方向だけを使う」という説明は本当に正しいのか。 本書ではこれらを一次資料と数式から検証し、最後には二つの順序の比較までNumPyで自作します。既存の実装を呼び出すのではなく、本文で導いた式がそのまま動くところまで確認します。 「Muonを使える」から、「Muonがなぜその計算をしているのか説明できる」へ。 特異値分解、極分解、スペクトルノルム、Newton-Schulz反復まで、Muonの仕組みを数式から理解するための本です。",
-          "pubDate": "Sun, 27 Sep 2026 16:08:12 GMT",
-          "guid": "https://zenn.dev/hiroki_honma/books/6c3fec431ee9d4",
+          "title": "Kaggle NVIDIA Nemotron 推論コンペ 銅メダル: 公開アダプタに public でも手元でも負けたベースラインが勝った話",
+          "link": "https://zenn.dev/shimu_free/articles/0d8b5da4f69227",
+          "description": "はじめに Kaggle の NVIDIA Nemotron Model Reasoning Challenge に参加し、4,348 チーム中 262 位で銅メダル でした(private 0.856)。 LoRA も LLM の微調整も初めてで、残り 2 週間での参加でした。凝った解法ではありません。ただ、最後に「public でも手元の検証でも負けていたベースラインが private で勝ってメダルを取る」という逆転が起きたので、その話を中心にまとめます。 コンペの概要 LLM を LoRA で微調整して、論理パズルの正答率を上げるコンペです。 モデル: nvidia/N...",
+          "content": "はじめに Kaggle の NVIDIA Nemotron Model Reasoning Challenge に参加し、4,348 チーム中 262 位で銅メダル でした(private 0.856)。 LoRA も LLM の微調整も初めてで、残り 2 週間での参加でした。凝った解法ではありません。ただ、最後に「public でも手元の検証でも負けていたベースラインが private で勝ってメダルを取る」という逆転が起きたので、その話を中心にまとめます。 コンペの概要 LLM を LoRA で微調整して、論理パズルの正答率を上げるコンペです。 モデル: nvidia/N...",
+          "pubDate": "Wed, 30 Sep 2026 03:00:05 GMT",
+          "guid": "https://zenn.dev/shimu_free/articles/0d8b5da4f69227",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "Muonは、なぜ大規模モデルの学習で選ばれているのでしょうか。 「モーメンタムで貯めた勾配行列を直交化して、特異値を1に揃えるから」 「大きさを捨てて、方向の情報だけを均等にして使うから」 そんな説明を見かけます。 しかし、実装が使っている計算を追うと、話はそれほど単純ではありません。 Muonが使う五次のNewton-Schulz反復に1を入れると、返ってくるのは0.701です。1はこの計算の不動点ではないので、何回繰り返しても1には...",
+          "summary": "はじめに Kaggle の NVIDIA Nemotron Model Reasoning Challenge に参加し、4,348 チーム中 262 位で銅メダル でした(private 0.856)。 LoRA も LLM の微調整も初めてで、残り 2 週間での参加でした。凝った解法ではありません。ただ、最後に「public でも手元の検証でも負けていたベースラインが private で勝ってメダルを取る」という逆転が起きたので、そ...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2162,25 +2162,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cKyR-L-X--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci81YWVhNDQ0YjVlLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--v4DPmWok--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%2520NVIDIA%2520Nemotron%2520%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%2520%25E9%258A%2585%25E3%2583%25A1%25E3%2583%2580%25E3%2583%25AB%253A%2520%25E5%2585%25AC%25E9%2596%258B%25E3%2582%25A2%25E3%2583%2580%25E3%2583%2597%25E3%2582%25BF%25E3%2581%25AB%2520public%2520%25E3%2581%25A7%25E3%2582%2582%25E6%2589%258B%25E5%2585%2583%25E3%2581%25A7%25E3%2582%2582%25E8%25B2%25A0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shimura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "VAEをNumPyで実装：two moonsの再構成で隙間が埋まった理由を調べる",
-          "link": "https://zenn.dev/shakeailab/articles/vae-two-moons-experiment",
-          "description": "拡散モデルは「ノイズを少しずつ取り除く」流派、GANは「偽物職人と鑑定士を騙し合わせる」流派、Normalizing Flowは「可逆な変換だけを積み重ねる」流派だった。生成モデルの教科書には、もう1つ外せない第4の流派がある。VAE(Variational Autoencoder、変分オートエンコーダ) —— 「データを確率分布に圧縮してから、その分布からサンプリングして復元する」流派だ。 これで三国志のつもりだったシリーズが、実質「四国志」になる。今回もnumpyだけで一から実装し、これまでと同じtwo moonsデータを使う小規模な手書きMLPで学習させ、他の3流派と並べて比較した...",
-          "content": "拡散モデルは「ノイズを少しずつ取り除く」流派、GANは「偽物職人と鑑定士を騙し合わせる」流派、Normalizing Flowは「可逆な変換だけを積み重ねる」流派だった。生成モデルの教科書には、もう1つ外せない第4の流派がある。VAE(Variational Autoencoder、変分オートエンコーダ) —— 「データを確率分布に圧縮してから、その分布からサンプリングして復元する」流派だ。 これで三国志のつもりだったシリーズが、実質「四国志」になる。今回もnumpyだけで一から実装し、これまでと同じtwo moonsデータを使う小規模な手書きMLPで学習させ、他の3流派と並べて比較した...",
-          "pubDate": "Sun, 27 Sep 2026 15:46:29 GMT",
-          "guid": "https://zenn.dev/shakeailab/articles/vae-two-moons-experiment",
+          "title": "Keras入門 第３回 モデル構造の定義と学習・評価",
+          "link": "https://zenn.dev/hoshinagi1219/articles/787b3df0a18d4d",
+          "description": "星杜なぎさです。 今回は実際に独自のKerasモデルの作成と評価までのプログラムをまとめました 0. 動作確認環境 Python 3.13.15 keras==3.13.2 matplotlib==3.10.0 scikit-learn==1.6.1 1. 各種必要ライブラリのインポート from pathlib import Path import numpy as np import matplotlib.pyplot as plt import keras from keras import Input, Model, layers from sklearn....",
+          "content": "星杜なぎさです。 今回は実際に独自のKerasモデルの作成と評価までのプログラムをまとめました 0. 動作確認環境 Python 3.13.15 keras==3.13.2 matplotlib==3.10.0 scikit-learn==1.6.1 1. 各種必要ライブラリのインポート from pathlib import Path import numpy as np import matplotlib.pyplot as plt import keras from keras import Input, Model, layers from sklearn....",
+          "pubDate": "Wed, 30 Sep 2026 00:00:06 GMT",
+          "guid": "https://zenn.dev/hoshinagi1219/articles/787b3df0a18d4d",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "拡散モデルは「ノイズを少しずつ取り除く」流派、GANは「偽物職人と鑑定士を騙し合わせる」流派、Normalizing Flowは「可逆な変換だけを積み重ねる」流派だった。生成モデルの教科書には、もう1つ外せない第4の流派がある。VAE(Variational Autoencoder、変分オートエンコーダ) —— 「データを確率分布に圧縮してから、その分布からサンプリングして復元する」流派だ。 これで三国志のつもりだったシリーズが、実質「...",
+          "summary": "星杜なぎさです。 今回は実際に独自のKerasモデルの作成と評価までのプログラムをまとめました 0. 動作確認環境 Python 3.13.15 keras==3.13.2 matplotlib==3.10.0 scikit-learn==1.6.1 1. 各種必要ライブラリのインポート from pathlib import Path import numpy as np import matplotlib.pyplot as plt...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2190,25 +2190,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--yI1zrRPr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VAE%25E3%2582%2592NumPy%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%259Atwo%2520moons%25E3%2581%25AE%25E5%2586%258D%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25A7%25E9%259A%2599%25E9%2596%2593%25E3%2581%258C%25E5%259F%258B%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shake%2520AI%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxZjcwNTgzOTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--uqIWMIVY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Keras%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2580%25E7%25AC%25AC%25EF%25BC%2593%25E5%259B%259E%25E3%2580%2580%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E6%25A7%258B%25E9%2580%25A0%25E3%2581%25AE%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%25BB%25E8%25A9%2595%25E4%25BE%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%2598%259F%25E6%259D%259C%25E3%2581%25AA%25E3%2581%258E%25E3%2581%2595%25EF%25BC%2588Nagisa%2520Hoshi...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ5ZGRkYjJkZjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "RAGの検索・生成パイプラインを実装目線で整理する",
-          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-23-rag",
-          "description": "RAG（Retrieval-Augmented Generation、検索拡張生成）は、外部knowledgeを検索してLLMへ渡す仕組みです。実装ではvector_search(query)とprompt templateだけに見えますが、productionで守るべきcontractはその前後にあります。 どのsource versionからchunkを作ったか userがそのchunkを検索できるか top-kのうち何をcontextへ採用したか answerの各claimがどのsourceに支えられているか source削除をembeddingとcacheへ反映したか この記...",
-          "content": "RAG（Retrieval-Augmented Generation、検索拡張生成）は、外部knowledgeを検索してLLMへ渡す仕組みです。実装ではvector_search(query)とprompt templateだけに見えますが、productionで守るべきcontractはその前後にあります。 どのsource versionからchunkを作ったか userがそのchunkを検索できるか top-kのうち何をcontextへ採用したか answerの各claimがどのsourceに支えられているか source削除をembeddingとcacheへ反映したか この記...",
-          "pubDate": "Sun, 27 Sep 2026 15:11:23 GMT",
-          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-23-rag",
+          "title": "Jevの中身を推測して自作した。普通のノートPCで動かした。",
+          "link": "https://zenn.dev/headwaters/articles/551bc4492c9633",
+          "description": "TL;DR 発端: 文章を書かず「型付きの値 + 較正された確率」だけを返す Jev（TypeSafe AI）は、LLM の本体 + 専用の判断ヘッド + 状態のキャッシュで作れるのでは？ 推論しないなら小さいモデルで足りるのでは？ という 2 つの仮説 1 つ目は当たり: この構成で、Jev のように型と確率だけを返す判断器が作れた。学習に使っていない 12 種類のタスクで正解率 72.7%、 較正誤差（ECE）0.055、信頼度の上位 30% に絞ると正解率 91%。同じモデルを内蔵 GPU で動かすと、正解率 71.9% で 1 問 約 0.94 秒（モデル 3.4GB） 2...",
+          "content": "TL;DR 発端: 文章を書かず「型付きの値 + 較正された確率」だけを返す Jev（TypeSafe AI）は、LLM の本体 + 専用の判断ヘッド + 状態のキャッシュで作れるのでは？ 推論しないなら小さいモデルで足りるのでは？ という 2 つの仮説 1 つ目は当たり: この構成で、Jev のように型と確率だけを返す判断器が作れた。学習に使っていない 12 種類のタスクで正解率 72.7%、 較正誤差（ECE）0.055、信頼度の上位 30% に絞ると正解率 91%。同じモデルを内蔵 GPU で動かすと、正解率 71.9% で 1 問 約 0.94 秒（モデル 3.4GB） 2...",
+          "pubDate": "Tue, 29 Sep 2026 23:40:05 GMT",
+          "guid": "https://zenn.dev/headwaters/articles/551bc4492c9633",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "RAG（Retrieval-Augmented Generation、検索拡張生成）は、外部knowledgeを検索してLLMへ渡す仕組みです。実装ではvector_search(query)とprompt templateだけに見えますが、productionで守るべきcontractはその前後にあります。 どのsource versionからchunkを作ったか userがそのchunkを検索できるか top-kのうち何をconte...",
+          "summary": "TL;DR 発端: 文章を書かず「型付きの値 + 較正された確率」だけを返す Jev（TypeSafe AI）は、LLM の本体 + 専用の判断ヘッド + 状態のキャッシュで作れるのでは？ 推論しないなら小さいモデルで足りるのでは？ という 2 つの仮説 1 つ目は当たり: この構成で、Jev のように型と確率だけを返す判断器が作れた。学習に使っていない 12 種類のタスクで正解率 72.7%、 較正誤差（ECE）0.055、信頼度の上...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2218,25 +2218,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--N7TNGK47--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%25E3%2581%25AE%25E6%25A4%259C%25E7%25B4%25A2%25E3%2583%25BB%25E7%2594%259F%25E6%2588%2590%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E7%259B%25AE%25E7%25B7%259A%25E3%2581%25A7%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--OS4t5dHH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2581%25AE%25E4%25B8%25AD%25E8%25BA%25AB%25E3%2582%2592%25E6%258E%25A8%25E6%25B8%25AC%25E3%2581%2597%25E3%2581%25A6%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E6%2599%25AE%25E9%2580%259A%25E3%2581%25AE%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588PC%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "パドック短評をJevでリアルタイム解析して危険な人気馬を排除したら、損失回避率97%だった話",
-          "link": "https://zenn.dev/toshipon/articles/jev-paddock-sentiment-loss-avoidance",
-          "description": "はじめに 競馬の自動取引システム（クオンツ運用）を作っていて、長年課題になっていたのが「パドック情報（定性・自然言語）の扱い」でした。 過去の走破時計、血統、オッズ推移、騎手勝率といった定量データは、GBDT（LightGBM）などの数理モデルに特徴量として組み込めます。しかし、レース発走の 15〜20 分前に現場から届くパドック短評（「ややチャカつきあり」「大量発汗で消耗気味」「気合乗り抜群」など）は自然言語のテキストであるため、モデルに統合するのが困難でした。 直前のテキスト判定を通常の LLM（OpenAI や Claude、Llama 等）に任せると、次のような壁にぶつかりま...",
-          "content": "はじめに 競馬の自動取引システム（クオンツ運用）を作っていて、長年課題になっていたのが「パドック情報（定性・自然言語）の扱い」でした。 過去の走破時計、血統、オッズ推移、騎手勝率といった定量データは、GBDT（LightGBM）などの数理モデルに特徴量として組み込めます。しかし、レース発走の 15〜20 分前に現場から届くパドック短評（「ややチャカつきあり」「大量発汗で消耗気味」「気合乗り抜群」など）は自然言語のテキストであるため、モデルに統合するのが困難でした。 直前のテキスト判定を通常の LLM（OpenAI や Claude、Llama 等）に任せると、次のような壁にぶつかりま...",
-          "pubDate": "Sun, 27 Sep 2026 13:17:00 GMT",
-          "guid": "https://zenn.dev/toshipon/articles/jev-paddock-sentiment-loss-avoidance",
+          "title": "RAG検索を分解して設計する：Chunking・RRF・Reranker",
+          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-25-chunking-rerank",
+          "description": "RAG（Retrieval-Augmented Generation、検索拡張生成）の検索品質を改善するとき、原因を切り分けたいならchunk_size、Embedding model、Hybrid Search、Rerankerの同時変更を避けます。最終回答が良くなっても、どの変更が効いたのか分からないからです。 実装では、検索処理を次のstageへ分けます。 source → chunking → candidate retrieval → fusion → rerank → context selection → generation この記事では、Chunking（...",
+          "content": "RAG（Retrieval-Augmented Generation、検索拡張生成）の検索品質を改善するとき、原因を切り分けたいならchunk_size、Embedding model、Hybrid Search、Rerankerの同時変更を避けます。最終回答が良くなっても、どの変更が効いたのか分からないからです。 実装では、検索処理を次のstageへ分けます。 source → chunking → candidate retrieval → fusion → rerank → context selection → generation この記事では、Chunking（...",
+          "pubDate": "Tue, 29 Sep 2026 20:00:44 GMT",
+          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-25-chunking-rerank",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 競馬の自動取引システム（クオンツ運用）を作っていて、長年課題になっていたのが「パドック情報（定性・自然言語）の扱い」でした。 過去の走破時計、血統、オッズ推移、騎手勝率といった定量データは、GBDT（LightGBM）などの数理モデルに特徴量として組み込めます。しかし、レース発走の 15〜20 分前に現場から届くパドック短評（「ややチャカつきあり」「大量発汗で消耗気味」「気合乗り抜群」など）は自然言語のテキストであるため、モデ...",
+          "summary": "RAG（Retrieval-Augmented Generation、検索拡張生成）の検索品質を改善するとき、原因を切り分けたいならchunk_size、Embedding model、Hybrid Search、Rerankerの同時変更を避けます。最終回答が良くなっても、どの変更が効いたのか分からないからです。 実装では、検索処理を次のstageへ分けます。 source → chunking → candidate retriev...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2246,13 +2246,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--BcUmJYMN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2591%25E3%2583%2589%25E3%2583%2583%25E3%2582%25AF%25E7%259F%25AD%25E8%25A9%2595%25E3%2582%2592Jev%25E3%2581%25A7%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%2597%25E3%2581%25A6%25E5%258D%25B1%25E9%2599%25BA%25E3%2581%25AA%25E4%25BA%25BA%25E6%25B0%2597%25E9%25A6%25AC%25E3%2582%2592%25E6%258E%2592%25E9%2599%25A4%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E6%2590%258D%25E5%25A4%25B1%25E5%259B%259E%25E9%2581%25BF%25E7%258E%258797%2525%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toshipon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pidVRzcndnSUJRRWxXakxCRXRoTlUxREhSZnN3T2NadkNtb191dEE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--53lrQM9P--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%25E6%25A4%259C%25E7%25B4%25A2%25E3%2582%2592%25E5%2588%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259AChunking%25E3%2583%25BBRRF%25E3%2583%25BBReranker%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1790732567730,
+      "lastUpdated": 1790739688798,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1790732567762,
+      "lastUpdated": 1790739688823,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1790732567792,
+      "lastUpdated": 1790739688846,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1790732567826,
+      "lastUpdated": 1790739688874,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1790732567873,
+      "lastUpdated": 1790739688917,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1790732567912,
+      "lastUpdated": 1790739691159,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
