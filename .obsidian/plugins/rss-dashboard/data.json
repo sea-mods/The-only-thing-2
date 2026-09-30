@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790746967585,
+      "lastUpdated": 1790750566234,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvflare-featured-768x432.jpg"
         }
       ],
-      "lastUpdated": 1790746968012,
+      "lastUpdated": 1790750566587,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1104,6 +1104,29 @@
       "url": "https://note.com/npaka/rss",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "Pi v0.99 の新機能",
+          "link": "https://note.com/npaka/n/nce1de5791d93",
+          "description": "<p name=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\" id=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\">Pi v0.99 の新機能をまとめました。</p><table-of-contents name=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\" id=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nce1de5791d93\">続きをみる</a>",
+          "content": "<p name=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\" id=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\">Pi v0.99 の新機能をまとめました。</p><table-of-contents name=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\" id=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nce1de5791d93\">続きをみる</a>",
+          "pubDate": "Wed, 30 Sep 2026 13:20:21 +0900",
+          "guid": "https://note.com/npaka/n/nce1de5791d93",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "Pi v0.99 の新機能をまとめました。続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "OpenAI DevDay 2026 発表まとめ - 開発者向けに押さえたい主要アップデート",
           "link": "https://note.com/npaka/n/n718a0b7acf3b",
@@ -1655,32 +1678,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Pi v0.99 の新機能",
-          "link": "https://note.com/npaka/n/nce1de5791d93",
-          "description": "<p name=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\" id=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\">Pi v0.99 の新機能をまとめました。</p><table-of-contents name=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\" id=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nce1de5791d93\">続きをみる</a>",
-          "content": "<p name=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\" id=\"e2e5f19e-3b65-4aaf-bf29-abc9dd320c19\">Pi v0.99 の新機能をまとめました。</p><table-of-contents name=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\" id=\"644a4ec2-cecd-4f66-b877-f65a0a9a1a59\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nce1de5791d93\">続きをみる</a>",
-          "pubDate": "Wed, 30 Sep 2026 13:20:21 +0900",
-          "guid": "https://note.com/npaka/n/nce1de5791d93",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "Pi v0.99 の新機能をまとめました。続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1790746968100,
+      "lastUpdated": 1790750566638,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1790746968172,
+      "lastUpdated": 1790750566676,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1790746968215,
+      "lastUpdated": 1790750566702,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1790746968248,
+      "lastUpdated": 1790750566723,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1790746968278,
+      "lastUpdated": 1790750566751,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1790746968323,
+      "lastUpdated": 1790750566770,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1790746968367,
+      "lastUpdated": 1790750566787,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
