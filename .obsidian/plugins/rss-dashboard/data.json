@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790750566234,
+      "lastUpdated": 1790757769583,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvflare-featured-768x432.jpg"
         }
       ],
-      "lastUpdated": 1790750566587,
+      "lastUpdated": 1790757770929,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1790750566638,
+      "lastUpdated": 1790757771241,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1790750566676,
+      "lastUpdated": 1790757772370,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1790750566702,
+      "lastUpdated": 1790757772558,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1790750566723,
+      "lastUpdated": 1790757772704,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1790750566751,
+      "lastUpdated": 1790757772866,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4003,62 +4003,6 @@
           "episodeType": "",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--EgzT3cv8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AF%25E5%2587%25BA%25E3%2581%25AA%25E3%2581%2584%25E3%2581%258C%25E5%2586%2585%25E5%25AE%25B9%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E3%2580%258D%25E2%2580%2594%25E2%2580%2594LLM%25E6%258A%25BD%25E5%2587%25BA%25E3%2581%25A7%25E3%2583%258F%25E3%2583%259E%25E3%2581%25A3%25E3%2581%259F%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2597%25E7%25A9%25B4%25E3%2581%25A8%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yohko%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "自然言語処理で使われるAttentionのWeightを可視化する",
-          "link": "https://zenn.dev/lhideki/articles/attention-visualize",
-          "description": "自然言語処理で使われるAttentionのWeightを可視化する TL;DR 自然言語処理で使われるAtentionのAttention Weight(Attention Weightを加味した入力シーケンス毎の出力)を可視化します。 これにより、モデルが推論を行った際に入力のどこに注目していたのかをユーザに表示することが可能です。 ベンチマーク用データ 京都大学情報学研究科--NTTコミュニケーション科学基礎研究所 共同研究ユニットが提供するブログの記事に関するデータセットを利用しました。 このデータセットでは、ブログの記事に対して以下の4つの分類がされています。 グ...",
-          "content": "自然言語処理で使われるAttentionのWeightを可視化する TL;DR 自然言語処理で使われるAtentionのAttention Weight(Attention Weightを加味した入力シーケンス毎の出力)を可視化します。 これにより、モデルが推論を行った際に入力のどこに注目していたのかをユーザに表示することが可能です。 ベンチマーク用データ 京都大学情報学研究科--NTTコミュニケーション科学基礎研究所 共同研究ユニットが提供するブログの記事に関するデータセットを利用しました。 このデータセットでは、ブログの記事に対して以下の4つの分類がされています。 グ...",
-          "pubDate": "Mon, 28 Sep 2026 12:38:44 GMT",
-          "guid": "https://zenn.dev/lhideki/articles/attention-visualize",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「NLP」のフィード",
-          "feedUrl": "https://zenn.dev/topics/nlp/feed",
-          "coverImage": "",
-          "summary": "自然言語処理で使われるAttentionのWeightを可視化する TL;DR 自然言語処理で使われるAtentionのAttention Weight(Attention Weightを加味した入力シーケンス毎の出力)を可視化します。 これにより、モデルが推論を行った際に入力のどこに注目していたのかをユーザに表示することが可能です。 ベンチマーク用データ 京都大学情報学研究科--NTTコミュニケーション科学基礎研究所 共同研究ユニット...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://zenn.dev/images/topic.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--i_kemd8A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E7%2584%25B6%25E8%25A8%2580%25E8%25AA%259E%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25A7%25E4%25BD%25BF%25E3%2582%258F%25E3%2582%258C%25E3%2582%258BAttention%25E3%2581%25AEWeight%25E3%2582%2592%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hideki%2520INOUE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeG5zUF9nai05cmZhUTFxX2lTN0xTVFB5UTg1R0xMVTR3cFlyVFE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "自然言語処理で使われるAttentionのWeightを可視化する(spaCy版)",
-          "link": "https://zenn.dev/lhideki/articles/attention-visualize-with-spacy",
-          "description": "自然言語処理で使われるAttentionのWeightを可視化する(spaCy版) TL;DR 自然言語処理で使われるAtentionのAttention Weight(Attention Weightを加味した入力シーケンス毎の出力)を可視化します。 基本的に自然言語処理で使われるAttentionのWeightを可視化すると同様ですが、spaCyを利用したバージョンです。 {:style=max-height:600px} ベンチマーク用データ 京都大学情報学研究科--NTTコミュニケーション科学基礎研究所 共同研究ユニットが提供するブログの記事に関するデータセットを利用...",
-          "content": "自然言語処理で使われるAttentionのWeightを可視化する(spaCy版) TL;DR 自然言語処理で使われるAtentionのAttention Weight(Attention Weightを加味した入力シーケンス毎の出力)を可視化します。 基本的に自然言語処理で使われるAttentionのWeightを可視化すると同様ですが、spaCyを利用したバージョンです。 {:style=max-height:600px} ベンチマーク用データ 京都大学情報学研究科--NTTコミュニケーション科学基礎研究所 共同研究ユニットが提供するブログの記事に関するデータセットを利用...",
-          "pubDate": "Mon, 28 Sep 2026 12:38:44 GMT",
-          "guid": "https://zenn.dev/lhideki/articles/attention-visualize-with-spacy",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「NLP」のフィード",
-          "feedUrl": "https://zenn.dev/topics/nlp/feed",
-          "coverImage": "",
-          "summary": "自然言語処理で使われるAttentionのWeightを可視化する(spaCy版) TL;DR 自然言語処理で使われるAtentionのAttention Weight(Attention Weightを加味した入力シーケンス毎の出力)を可視化します。 基本的に自然言語処理で使われるAttentionのWeightを可視化すると同様ですが、spaCyを利用したバージョンです。 {:style=max-height:600px} ベンチマ...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://zenn.dev/images/topic.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--UqWqPmON--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E7%2584%25B6%25E8%25A8%2580%25E8%25AA%259E%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25A7%25E4%25BD%25BF%25E3%2582%258F%25E3%2582%258C%25E3%2582%258BAttention%25E3%2581%25AEWeight%25E3%2582%2592%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2528spaCy%25E7%2589%2588%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hideki%2520INOUE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeG5zUF9nai05cmZhUTFxX2lTN0xTVFB5UTg1R0xMVTR3cFlyVFE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
@@ -4538,9 +4482,65 @@
             "type": "false",
             "length": "0"
           }
+        },
+        {
+          "title": "共参照・語彙・API とスキーマ凍結 ― 1.0 と宣言するまでに決めたこと ― KotobaCore開発秘話（7/8）",
+          "link": "https://zenn.dev/kiyobo/articles/246d0c8efcfeff",
+          "description": "前回（第6回）は、RAG の検索精度を壊していた真犯人が自分のチャンカーだったという話でした。今回は、v0.6 系で足したものと足さなかったもの、そして「1.0」と宣言するために何を決めたかです。 先に白状しておくと、v0.6.0 から v1.0.0 までの 10 リリースは、2026 年 9 月 9 日の一日で出しています。要件定義書に v1.0 の完成条件を項目として書き出してあり、それを上から順に潰していった結果です。一日で 10 リリースというのは自慢ではなく、要件を先に文書化しておくと最後はこうなる、という報告です。 足したもの 語彙表と Token ID（v0.6.0...",
+          "content": "前回（第6回）は、RAG の検索精度を壊していた真犯人が自分のチャンカーだったという話でした。今回は、v0.6 系で足したものと足さなかったもの、そして「1.0」と宣言するために何を決めたかです。 先に白状しておくと、v0.6.0 から v1.0.0 までの 10 リリースは、2026 年 9 月 9 日の一日で出しています。要件定義書に v1.0 の完成条件を項目として書き出してあり、それを上から順に潰していった結果です。一日で 10 リリースというのは自慢ではなく、要件を先に文書化しておくと最後はこうなる、という報告です。 足したもの 語彙表と Token ID（v0.6.0...",
+          "pubDate": "Wed, 30 Sep 2026 03:45:23 GMT",
+          "guid": "https://zenn.dev/kiyobo/articles/246d0c8efcfeff",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「NLP」のフィード",
+          "feedUrl": "https://zenn.dev/topics/nlp/feed",
+          "coverImage": "",
+          "summary": "前回（第6回）は、RAG の検索精度を壊していた真犯人が自分のチャンカーだったという話でした。今回は、v0.6 系で足したものと足さなかったもの、そして「1.0」と宣言するために何を決めたかです。 先に白状しておくと、v0.6.0 から v1.0.0 までの 10 リリースは、2026 年 9 月 9 日の一日で出しています。要件定義書に v1.0 の完成条件を項目として書き出してあり、それを上から順に潰していった結果です。一日で 10...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://zenn.dev/images/topic.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--nG1hbS5V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25B1%25E5%258F%2582%25E7%2585%25A7%25E3%2583%25BB%25E8%25AA%259E%25E5%25BD%2599%25E3%2583%25BBAPI%2520%25E3%2581%25A8%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%259E%25E5%2587%258D%25E7%25B5%2590%2520%25E2%2580%2595%25201.0%2520%25E3%2581%25A8%25E5%25AE%25A3%25E8%25A8%2580%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AB%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2520%25E2%2580%2595%2520KotobaCore%25E9%2596%258B%25E7%2599%25BA%25E7%25A7%2598%25E8%25A9%25B1%25EF%25BC%25887%252F8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kiyobo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFZZa3gyQ3ZqOFhlSU1WcnJWTHZRYU4tdDRKLTRJNDgxNkN2T3FiTHg1aE5SV1RqY0M9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "LLMの『Let me double-check』を1トークンに圧縮する—Shorthand for Thoughtを小さく動かしてみた",
+          "link": "https://zenn.dev/matsushima_a/articles/day-001-shorthand-for-thought",
+          "description": "この記事について 海外AIネタを毎日1つ実際に検証して発信する個人チャレンジのDay 001。今回選んだのは、COLM 2026に採択された論文 Shorthand for Thought: Compressing LLM Reasoning with Learned Supertokens と、その公開コード Writer/shorthand-for-thought(Apache-2.0)。 「LLMの思考(reasoning)は Wait, So, Let me double-check のような定型フレーズを大量に含んでいて、そこにトークンを無駄遣いしている。だったらそういう定...",
+          "content": "この記事について 海外AIネタを毎日1つ実際に検証して発信する個人チャレンジのDay 001。今回選んだのは、COLM 2026に採択された論文 Shorthand for Thought: Compressing LLM Reasoning with Learned Supertokens と、その公開コード Writer/shorthand-for-thought(Apache-2.0)。 「LLMの思考(reasoning)は Wait, So, Let me double-check のような定型フレーズを大量に含んでいて、そこにトークンを無駄遣いしている。だったらそういう定...",
+          "pubDate": "Tue, 29 Sep 2026 22:21:53 GMT",
+          "guid": "https://zenn.dev/matsushima_a/articles/day-001-shorthand-for-thought",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「NLP」のフィード",
+          "feedUrl": "https://zenn.dev/topics/nlp/feed",
+          "coverImage": "",
+          "summary": "この記事について 海外AIネタを毎日1つ実際に検証して発信する個人チャレンジのDay 001。今回選んだのは、COLM 2026に採択された論文 Shorthand for Thought: Compressing LLM Reasoning with Learned Supertokens と、その公開コード Writer/shorthand-for-thought(Apache-2.0)。 「LLMの思考(reasoning)は W...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://zenn.dev/images/topic.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--RK6PxrKj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2581%25AE%25E3%2580%258ELet%2520me%2520double-check%25E3%2580%258F%25E3%2582%25921%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%25AB%25E5%259C%25A7%25E7%25B8%25AE%25E3%2581%2599%25E3%2582%258B%25E2%2580%2594Shorthand%2520for%2520Though...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:matsushima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnBZUWg2MHh5eGJZOUJZeUo4QkZWVHQzQzFhal81SlVkRWRZNEV4bXo5VUFLUz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
         }
       ],
-      "lastUpdated": 1790750566770,
+      "lastUpdated": 1790757773105,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1790750566787,
+      "lastUpdated": 1790757773250,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
