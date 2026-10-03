@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791036286232,
+      "lastUpdated": 1791045373894,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx-768x432.png"
         }
       ],
-      "lastUpdated": 1791036287035,
+      "lastUpdated": 1791045374634,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791036287280,
+      "lastUpdated": 1791045374838,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2140,19 +2140,19 @@
           }
         },
         {
-          "title": "学習が「うまくいっている」とは何か ― Week3 第1回:4つの物差し",
-          "link": "https://zenn.dev/miyamoto_gt/articles/transformer-0-1-w3-1",
-          "description": "はじめに 前回、自作のTransformer(GPTMini)をtiny_shakespeareで学習させ、val lossを1.83まで下げた。動くものはできた。ただ、こんな疑問が残った。 もしどこかにバグがあったとして、私はそれに気づけるのか。 lossが下がっていれば正常と判断していいのか。下がらなかったとき、原因をどう絞り込むのか。前回うまくいったのは「たまたま間違えなかった」だけかもしれない。 そこで今回はわざと壊すことにした。6種類のバグを意図的に仕込み、それぞれがどんな症状として現れるかを記録する。症状から原因を逆引きできる表を作るのが目的である。 結果を先に書く。6つ...",
-          "content": "はじめに 前回、自作のTransformer(GPTMini)をtiny_shakespeareで学習させ、val lossを1.83まで下げた。動くものはできた。ただ、こんな疑問が残った。 もしどこかにバグがあったとして、私はそれに気づけるのか。 lossが下がっていれば正常と判断していいのか。下がらなかったとき、原因をどう絞り込むのか。前回うまくいったのは「たまたま間違えなかった」だけかもしれない。 そこで今回はわざと壊すことにした。6種類のバグを意図的に仕込み、それぞれがどんな症状として現れるかを記録する。症状から原因を逆引きできる表を作るのが目的である。 結果を先に書く。6つ...",
-          "pubDate": "Thu, 01 Oct 2026 03:10:31 GMT",
-          "guid": "https://zenn.dev/miyamoto_gt/articles/transformer-0-1-w3-1",
+          "title": "Sparsely-Gated MoEを実装目線で読む：Router・Top-k・負荷分散",
+          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
+          "description": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のtoken順へ戻す この記事では、Routerのtensor shape、Top-2の計算、capacity、負荷分散、Expert Parallelis...",
+          "content": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のtoken順へ戻す この記事では、Routerのtensor shape、Top-2の計算、capacity、負荷分散、Expert Parallelis...",
+          "pubDate": "Sat, 03 Oct 2026 14:44:36 GMT",
+          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 前回、自作のTransformer(GPTMini)をtiny_shakespeareで学習させ、val lossを1.83まで下げた。動くものはできた。ただ、こんな疑問が残った。 もしどこかにバグがあったとして、私はそれに気づけるのか。 lossが下がっていれば正常と判断していいのか。下がらなかったとき、原因をどう絞り込むのか。前回うまくいったのは「たまたま間違えなかった」だけかもしれない。 そこで今回はわざと壊すことにした...",
+          "summary": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のto...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2162,25 +2162,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--xEaPUqu3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%258C%25E3%2580%258C%25E3%2581%2586%25E3%2581%25BE%25E3%2581%258F%25E3%2581%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%258D%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2520%25E2%2580%2595%2520Week3%2520%25E7%25AC%25AC1%25E5%259B%259E%253A4%25E3%2581%25A4%25E3%2581%25AE%25E7%2589%25A9%25E5%25B7%25AE%25E3%2581%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miyamoto-gt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmZmVmNmM2YTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Oxt1zbvq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Sparsely-Gated%2520MoE%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E7%259B%25AE%25E7%25B7%259A%25E3%2581%25A7%25E8%25AA%25AD%25E3%2582%2580%25EF%25BC%259ARouter%25E3%2583%25BBTop-k%25E3%2583%25BB%25E8%25B2%25A0%25E8%258D%25B7%25E5%2588%2586%25E6%2595%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "弱いAIとは？特化型AIの意味と強いAIとの違い",
-          "link": "https://zenn.dev/h888s/articles/genai-weak-ai",
-          "description": "「弱いAI」という言葉は、生成AIパスポート試験で扱われるAIの基礎概念のひとつです。現在私たちが日常的に触れているAIの多くは、この「弱いAI」に分類されます。本記事では、定義・位置づけ・関連用語との違いを整理します。 弱いAIとは 弱いAI（よわいえーあい）とは、特定タスクに特化したAIを指します。画像認識、翻訳、将棋AIなど、限定された問題領域においては人間並み、あるいは人間を超える性能を発揮することがあります。一方で、その領域を越えた汎用的な思考はできません。 ポイントは「得意分野が限定されている」という点です。たとえば将棋AIは将棋には強くても、そのまま翻訳ができるわけでは...",
-          "content": "「弱いAI」という言葉は、生成AIパスポート試験で扱われるAIの基礎概念のひとつです。現在私たちが日常的に触れているAIの多くは、この「弱いAI」に分類されます。本記事では、定義・位置づけ・関連用語との違いを整理します。 弱いAIとは 弱いAI（よわいえーあい）とは、特定タスクに特化したAIを指します。画像認識、翻訳、将棋AIなど、限定された問題領域においては人間並み、あるいは人間を超える性能を発揮することがあります。一方で、その領域を越えた汎用的な思考はできません。 ポイントは「得意分野が限定されている」という点です。たとえば将棋AIは将棋には強くても、そのまま翻訳ができるわけでは...",
-          "pubDate": "Thu, 01 Oct 2026 01:04:34 GMT",
-          "guid": "https://zenn.dev/h888s/articles/genai-weak-ai",
+          "title": "Stable Diffusionからの概念消去㉜: ETC（論文）",
+          "link": "https://zenn.dev/fmuuly/articles/1ae66f419ad19c",
+          "description": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Young Chun. Erasing thousands of concepts: Towards scalable and practical co...",
+          "content": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Young Chun. Erasing thousands of concepts: Towards scalable and practical co...",
+          "pubDate": "Sat, 03 Oct 2026 11:14:55 GMT",
+          "guid": "https://zenn.dev/fmuuly/articles/1ae66f419ad19c",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "「弱いAI」という言葉は、生成AIパスポート試験で扱われるAIの基礎概念のひとつです。現在私たちが日常的に触れているAIの多くは、この「弱いAI」に分類されます。本記事では、定義・位置づけ・関連用語との違いを整理します。 弱いAIとは 弱いAI（よわいえーあい）とは、特定タスクに特化したAIを指します。画像認識、翻訳、将棋AIなど、限定された問題領域においては人間並み、あるいは人間を超える性能を発揮することがあります。一方で、その領域を...",
+          "summary": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Youn...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2190,25 +2190,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--P9suHnao--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BC%25B1%25E3%2581%2584AI%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%25E7%2589%25B9%25E5%258C%2596%25E5%259E%258BAI%25E3%2581%25AE%25E6%2584%258F%25E5%2591%25B3%25E3%2581%25A8%25E5%25BC%25B7%25E3%2581%2584AI%25E3%2581%25A8%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%2588%25E6%25A0%25BC%25E3%2582%2592%25E3%2580%2581%25E7%25A0%2594%25E7%25A9%25B6%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyOGFhZTU2ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--JNpCQUu---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stable%2520Diffusion%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E6%25A6%2582%25E5%25BF%25B5%25E6%25B6%2588%25E5%258E%25BB%25E3%2589%259C%253A%2520ETC%25EF%25BC%2588%25E8%25AB%2596%25E6%2596%2587%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fmuuly%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmRZdzZnbWtlMWlJMnY5R3dSRzNYcVB5MmxGdVQ1NVVzbDhvdUpKM0oyQ2dZPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "Python機械学習の実践書5選",
-          "link": "https://zenn.dev/komatsu_ops/articles/20261001_book_ref",
-          "description": "はじめに 自分が機械学習を本格的に触りはじめたのは、社内の問い合わせログを分類するという小さな案件がきっかけだった。とりあえずネットの記事をつなぎ合わせてscikit-learnのコードを動かし、精度が出たので満足していた。ところが上司から「なぜそのモデルを選んだのか」と聞かれて何も答えられなかった。動かせることと理解していることは別物だと、そこで初めて痛感した。 その反省から、Web記事を追うのを一旦やめて書籍を軸に学び直した。記事は断片的で、前提が省かれていることが多い。手元に体系的な説明があるかどうかで、詰まったときの復帰速度がまるで変わる。 もうひとつ気づいたのは、順番の重要...",
-          "content": "はじめに 自分が機械学習を本格的に触りはじめたのは、社内の問い合わせログを分類するという小さな案件がきっかけだった。とりあえずネットの記事をつなぎ合わせてscikit-learnのコードを動かし、精度が出たので満足していた。ところが上司から「なぜそのモデルを選んだのか」と聞かれて何も答えられなかった。動かせることと理解していることは別物だと、そこで初めて痛感した。 その反省から、Web記事を追うのを一旦やめて書籍を軸に学び直した。記事は断片的で、前提が省かれていることが多い。手元に体系的な説明があるかどうかで、詰まったときの復帰速度がまるで変わる。 もうひとつ気づいたのは、順番の重要...",
-          "pubDate": "Thu, 01 Oct 2026 00:03:13 GMT",
-          "guid": "https://zenn.dev/komatsu_ops/articles/20261001_book_ref",
+          "title": "欠損値のランダムサンプル補完 — 分布と分散を保つ単変量補完",
+          "link": "https://zenn.dev/salesanalytics/articles/5b4220f57c4cec",
+          "description": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データ（891行×15列）です。age 列は、欠損が177件、観測値が714件あります。 ランダムサンプル補完とは 欠...",
+          "content": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データ（891行×15列）です。age 列は、欠損が177件、観測値が714件あります。 ランダムサンプル補完とは 欠...",
+          "pubDate": "Sat, 03 Oct 2026 05:59:22 GMT",
+          "guid": "https://zenn.dev/salesanalytics/articles/5b4220f57c4cec",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 自分が機械学習を本格的に触りはじめたのは、社内の問い合わせログを分類するという小さな案件がきっかけだった。とりあえずネットの記事をつなぎ合わせてscikit-learnのコードを動かし、精度が出たので満足していた。ところが上司から「なぜそのモデルを選んだのか」と聞かれて何も答えられなかった。動かせることと理解していることは別物だと、そこで初めて痛感した。 その反省から、Web記事を追うのを一旦やめて書籍を軸に学び直した。記事は...",
+          "summary": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込ま...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2218,25 +2218,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--N6OkMS5g--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5%25E6%259B%25B85%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:komatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkZDUzNmNmNzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--RtEjenZa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AC%25A0%25E6%2590%258D%25E5%2580%25A4%25E3%2581%25AE%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E8%25A3%259C%25E5%25AE%258C%2520%25E2%2580%2594%2520%25E5%2588%2586%25E5%25B8%2583%25E3%2581%25A8%25E5%2588%2586%25E6%2595%25A3%25E3%2582%2592%25E4%25BF%259D%25E3%2581%25A4%25E5%258D%2598%25E5%25A4%2589%25E9%2587%258F%25E8%25A3%259C%25E5%25AE%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%2581%25E3%2583%25AD%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxYTU0MzZmMjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "画像を受け付けない Jev の代わりに、写真のカテゴリ判定を CLIP で試した。1 枚 13ms・正解率 88%",
-          "link": "https://zenn.dev/y3chi5z/articles/clip-photo-category-13ms",
-          "description": "前回、TypeSafe の Jev で業務の依頼を振り分けて、正解率 22% という結果を書きました。次に「写真を撮った瞬間に、写っている物のカテゴリを判定したい」という用途で試そうとしたところ、Jev は テキスト専用 でした。公式ドキュメントにも「Text only. … No image, audio, or video input」とあります。 画像を文字にしてから Jev に渡す手もありますが、その「文字にする」ところで画像を読める LLM を 1 回呼ぶので、速さの利点が消えます。そこで、画像を直接数値（ベクトル）にできる CLIP を、手元の Mac で動かして測りました。...",
-          "content": "前回、TypeSafe の Jev で業務の依頼を振り分けて、正解率 22% という結果を書きました。次に「写真を撮った瞬間に、写っている物のカテゴリを判定したい」という用途で試そうとしたところ、Jev は テキスト専用 でした。公式ドキュメントにも「Text only. … No image, audio, or video input」とあります。 画像を文字にしてから Jev に渡す手もありますが、その「文字にする」ところで画像を読める LLM を 1 回呼ぶので、速さの利点が消えます。そこで、画像を直接数値（ベクトル）にできる CLIP を、手元の Mac で動かして測りました。...",
-          "pubDate": "Wed, 30 Sep 2026 22:24:27 GMT",
-          "guid": "https://zenn.dev/y3chi5z/articles/clip-photo-category-13ms",
+          "title": "Jevがポケモンをクリアした。でも裏にClaudeがいた──AIも「上司」と「現場担当」に分かれ始めた",
+          "link": "https://zenn.dev/yuruconsa/articles/e980e6670de72d",
+          "description": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 毎回LLMに部長会議を開かせなくてもいいのでは。 という話を書きました。 https://zenn.dev/yuruconsa/articles/...",
+          "content": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 毎回LLMに部長会議を開かせなくてもいいのでは。 という話を書きました。 https://zenn.dev/yuruconsa/articles/...",
+          "pubDate": "Sat, 03 Oct 2026 03:22:28 GMT",
+          "guid": "https://zenn.dev/yuruconsa/articles/e980e6670de72d",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "前回、TypeSafe の Jev で業務の依頼を振り分けて、正解率 22% という結果を書きました。次に「写真を撮った瞬間に、写っている物のカテゴリを判定したい」という用途で試そうとしたところ、Jev は テキスト専用 でした。公式ドキュメントにも「Text only. … No image, audio, or video input」とあります。 画像を文字にしてから Jev に渡す手もありますが、その「文字にする」ところで画像を...",
+          "summary": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 ...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2246,13 +2246,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--mLsvJ4yo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E4%25BB%2598%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%2520Jev%2520%25E3%2581%25AE%25E4%25BB%25A3%25E3%2582%258F%25E3%2582%258A%25E3%2581%25AB%25E3%2580%2581%25E5%2586%2599%25E7%259C%259F%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%2586%25E3%2582%25B4%25E3%2583%25AA%25E5%2588%25A4%25E5%25AE%259A%25E3%2582%2592%2520CLIP%2520%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%259F%25E3%2580%25821%2520%25E6%259E%259A%252013ms%25E3%2583%25BB%25E6%25AD%25A3%25E8%25A7%25A3%25E7%258E%2587%252088%2525%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:y43z%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBiOWMxNjQ3Y2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Ouu4n83h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2581%258C%25E3%2583%259D%25E3%2582%25B1%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2581%25A7%25E3%2582%2582%25E8%25A3%258F%25E3%2581%25ABClaude%25E3%2581%258C%25E3%2581%2584%25E3%2581%259F%25E2%2594%2580%25E2%2594%2580AI%25E3%2582%2582%25E3%2580%258C%25E4%25B8%258A%25E5%258F%25B8%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E7%258F%25BE%25E5%25A0%25B4%25E6%258B%2585%25E5%25BD%2593%25E3%2580%258D%25E3%2581%25AB%25E5%2588%2586%25E3%2581%258B%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2582%258B%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%25B5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2NDdjYWExYTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1791036287453,
+      "lastUpdated": 1791045374980,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791036287528,
+      "lastUpdated": 1791045375034,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791036287594,
+      "lastUpdated": 1791045375096,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791036287674,
+      "lastUpdated": 1791045375147,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791036287781,
+      "lastUpdated": 1791045375200,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791036287867,
+      "lastUpdated": 1791045375247,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
