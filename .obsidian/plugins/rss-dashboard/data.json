@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791045373894,
+      "lastUpdated": 1791053228078,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx-768x432.png"
         }
       ],
-      "lastUpdated": 1791045374634,
+      "lastUpdated": 1791053228564,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791045374838,
+      "lastUpdated": 1791053228690,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1691,6 +1691,118 @@
       "url": "https://zenn.dev/topics/機械学習/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "Sparsely-Gated MoEを実装目線で読む：Router・Top-k・負荷分散",
+          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
+          "description": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のtoken順へ戻す この記事では、Routerのtensor shape、Top-2の計算、capacity、負荷分散、Expert Parallelis...",
+          "content": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のtoken順へ戻す この記事では、Routerのtensor shape、Top-2の計算、capacity、負荷分散、Expert Parallelis...",
+          "pubDate": "Sat, 03 Oct 2026 14:44:36 GMT",
+          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のto...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Oxt1zbvq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Sparsely-Gated%2520MoE%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E7%259B%25AE%25E7%25B7%259A%25E3%2581%25A7%25E8%25AA%25AD%25E3%2582%2580%25EF%25BC%259ARouter%25E3%2583%25BBTop-k%25E3%2583%25BB%25E8%25B2%25A0%25E8%258D%25B7%25E5%2588%2586%25E6%2595%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "Stable Diffusionからの概念消去㉜: ETC（論文）",
+          "link": "https://zenn.dev/fmuuly/articles/1ae66f419ad19c",
+          "description": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Young Chun. Erasing thousands of concepts: Towards scalable and practical co...",
+          "content": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Young Chun. Erasing thousands of concepts: Towards scalable and practical co...",
+          "pubDate": "Sat, 03 Oct 2026 11:14:55 GMT",
+          "guid": "https://zenn.dev/fmuuly/articles/1ae66f419ad19c",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Youn...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--JNpCQUu---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stable%2520Diffusion%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E6%25A6%2582%25E5%25BF%25B5%25E6%25B6%2588%25E5%258E%25BB%25E3%2589%259C%253A%2520ETC%25EF%25BC%2588%25E8%25AB%2596%25E6%2596%2587%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fmuuly%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmRZdzZnbWtlMWlJMnY5R3dSRzNYcVB5MmxGdVQ1NVVzbDhvdUpKM0oyQ2dZPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "欠損値のランダムサンプル補完 — 分布と分散を保つ単変量補完",
+          "link": "https://zenn.dev/salesanalytics/articles/5b4220f57c4cec",
+          "description": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データ（891行×15列）です。age 列は、欠損が177件、観測値が714件あります。 ランダムサンプル補完とは 欠...",
+          "content": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データ（891行×15列）です。age 列は、欠損が177件、観測値が714件あります。 ランダムサンプル補完とは 欠...",
+          "pubDate": "Sat, 03 Oct 2026 05:59:22 GMT",
+          "guid": "https://zenn.dev/salesanalytics/articles/5b4220f57c4cec",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込ま...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--RtEjenZa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AC%25A0%25E6%2590%258D%25E5%2580%25A4%25E3%2581%25AE%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E8%25A3%259C%25E5%25AE%258C%2520%25E2%2580%2594%2520%25E5%2588%2586%25E5%25B8%2583%25E3%2581%25A8%25E5%2588%2586%25E6%2595%25A3%25E3%2582%2592%25E4%25BF%259D%25E3%2581%25A4%25E5%258D%2598%25E5%25A4%2589%25E9%2587%258F%25E8%25A3%259C%25E5%25AE%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%2581%25E3%2583%25AD%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxYTU0MzZmMjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "Jevがポケモンをクリアした。でも裏にClaudeがいた──AIも「上司」と「現場担当」に分かれ始めた",
+          "link": "https://zenn.dev/yuruconsa/articles/e980e6670de72d",
+          "description": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 毎回LLMに部長会議を開かせなくてもいいのでは。 という話を書きました。 https://zenn.dev/yuruconsa/articles/...",
+          "content": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 毎回LLMに部長会議を開かせなくてもいいのでは。 という話を書きました。 https://zenn.dev/yuruconsa/articles/...",
+          "pubDate": "Sat, 03 Oct 2026 03:22:28 GMT",
+          "guid": "https://zenn.dev/yuruconsa/articles/e980e6670de72d",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 ...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Ouu4n83h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2581%258C%25E3%2583%259D%25E3%2582%25B1%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2581%25A7%25E3%2582%2582%25E8%25A3%258F%25E3%2581%25ABClaude%25E3%2581%258C%25E3%2581%2584%25E3%2581%259F%25E2%2594%2580%25E2%2594%2580AI%25E3%2582%2582%25E3%2580%258C%25E4%25B8%258A%25E5%258F%25B8%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E7%258F%25BE%25E5%25A0%25B4%25E6%258B%2585%25E5%25BD%2593%25E3%2580%258D%25E3%2581%25AB%25E5%2588%2586%25E3%2581%258B%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2582%258B%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%25B5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2NDdjYWExYTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "PCAの累積寄与率80%で十分？ 分散と分類性能が一致しないデータを作って検証する",
           "link": "https://zenn.dev/shakeailab/articles/pca-explained-variance-trap",
@@ -2138,121 +2250,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "Sparsely-Gated MoEを実装目線で読む：Router・Top-k・負荷分散",
-          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
-          "description": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のtoken順へ戻す この記事では、Routerのtensor shape、Top-2の計算、capacity、負荷分散、Expert Parallelis...",
-          "content": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のtoken順へ戻す この記事では、Routerのtensor shape、Top-2の計算、capacity、負荷分散、Expert Parallelis...",
-          "pubDate": "Sat, 03 Oct 2026 14:44:36 GMT",
-          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscoreを計算する Top-kで少数のExpertを選ぶ tokenを選択先へ並べ替えて送る Expertの出力を合成し、元のto...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Oxt1zbvq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Sparsely-Gated%2520MoE%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E7%259B%25AE%25E7%25B7%259A%25E3%2581%25A7%25E8%25AA%25AD%25E3%2582%2580%25EF%25BC%259ARouter%25E3%2583%25BBTop-k%25E3%2583%25BB%25E8%25B2%25A0%25E8%258D%25B7%25E5%2588%2586%25E6%2595%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "Stable Diffusionからの概念消去㉜: ETC（論文）",
-          "link": "https://zenn.dev/fmuuly/articles/1ae66f419ad19c",
-          "description": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Young Chun. Erasing thousands of concepts: Towards scalable and practical co...",
-          "content": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Young Chun. Erasing thousands of concepts: Towards scalable and practical co...",
-          "pubDate": "Sat, 03 Oct 2026 11:14:55 GMT",
-          "guid": "https://zenn.dev/fmuuly/articles/1ae66f419ad19c",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models CVPR 2026採択論文です. 書籍情報 断りのない限り以下の論文からの引用です. Hoigi Seo, Byung Hyun Lee, Jaehyun Cho, Sungjin Lim, and Se Youn...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--JNpCQUu---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stable%2520Diffusion%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E6%25A6%2582%25E5%25BF%25B5%25E6%25B6%2588%25E5%258E%25BB%25E3%2589%259C%253A%2520ETC%25EF%25BC%2588%25E8%25AB%2596%25E6%2596%2587%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fmuuly%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmRZdzZnbWtlMWlJMnY5R3dSRzNYcVB5MmxGdVQ1NVVzbDhvdUpKM0oyQ2dZPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "欠損値のランダムサンプル補完 — 分布と分散を保つ単変量補完",
-          "link": "https://zenn.dev/salesanalytics/articles/5b4220f57c4cec",
-          "description": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データ（891行×15列）です。age 列は、欠損が177件、観測値が714件あります。 ランダムサンプル補完とは 欠...",
-          "content": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データ（891行×15列）です。age 列は、欠損が177件、観測値が714件あります。 ランダムサンプル補完とは 欠...",
-          "pubDate": "Sat, 03 Oct 2026 05:59:22 GMT",
-          "guid": "https://zenn.dev/salesanalytics/articles/5b4220f57c4cec",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "平均値や中央値で欠損を埋めると、すべての欠損が1つの代表値に置き換わります。その値の周辺にデータが人工的に集中するため、分散が縮小し、分布が不自然に歪んでしまいます。 この問題を解決するのが「ランダムサンプル補完」です。その列の実際の値からランダムに選んで埋めるというシンプルな発想ながら、「元のデータ分布をそのまま保てる」という大きな利点があります。この記事では、その要点をコンパクトにまとめます。 ! 題材は seaborn に組み込ま...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--RtEjenZa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AC%25A0%25E6%2590%258D%25E5%2580%25A4%25E3%2581%25AE%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E8%25A3%259C%25E5%25AE%258C%2520%25E2%2580%2594%2520%25E5%2588%2586%25E5%25B8%2583%25E3%2581%25A8%25E5%2588%2586%25E6%2595%25A3%25E3%2582%2592%25E4%25BF%259D%25E3%2581%25A4%25E5%258D%2598%25E5%25A4%2589%25E9%2587%258F%25E8%25A3%259C%25E5%25AE%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%2581%25E3%2583%25AD%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxYTU0MzZmMjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "Jevがポケモンをクリアした。でも裏にClaudeがいた──AIも「上司」と「現場担当」に分かれ始めた",
-          "link": "https://zenn.dev/yuruconsa/articles/e980e6670de72d",
-          "description": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 毎回LLMに部長会議を開かせなくてもいいのでは。 という話を書きました。 https://zenn.dev/yuruconsa/articles/...",
-          "content": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 毎回LLMに部長会議を開かせなくてもいいのでは。 という話を書きました。 https://zenn.dev/yuruconsa/articles/...",
-          "pubDate": "Sat, 03 Oct 2026 03:22:28 GMT",
-          "guid": "https://zenn.dev/yuruconsa/articles/e980e6670de72d",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "少し前に、JevというAIについて書きました。 文章を生成するAIではなく、「この中ならどれ？」 を高速に判断するAIです。 例えば、 この問い合わせは A. 営業 B. サポート C. 請求 D. その他 のどれ？ みたいな判断。 LLMに比べると、かなり地味です。 文章を書いてくれるわけでもない。 コードを書いてくれるわけでもない。 人生相談にも乗ってくれない。 選ぶ。 判断する。 点数を付ける。 だいたいそれだけ。前の記事では、 ...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Ouu4n83h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2581%258C%25E3%2583%259D%25E3%2582%25B1%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2581%25A7%25E3%2582%2582%25E8%25A3%258F%25E3%2581%25ABClaude%25E3%2581%258C%25E3%2581%2584%25E3%2581%259F%25E2%2594%2580%25E2%2594%2580AI%25E3%2582%2582%25E3%2580%258C%25E4%25B8%258A%25E5%258F%25B8%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E7%258F%25BE%25E5%25A0%25B4%25E6%258B%2585%25E5%25BD%2593%25E3%2580%258D%25E3%2581%25AB%25E5%2588%2586%25E3%2581%258B%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2582%258B%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%25B5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2NDdjYWExYTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1791045374980,
+      "lastUpdated": 1791053228815,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791045375034,
+      "lastUpdated": 1791053228854,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791045375096,
+      "lastUpdated": 1791053228898,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791045375147,
+      "lastUpdated": 1791053228954,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791045375200,
+      "lastUpdated": 1791053228988,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791045375247,
+      "lastUpdated": 1791053229044,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
