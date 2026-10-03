@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791029085376,
+      "lastUpdated": 1791032685740,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx-768x432.png"
         }
       ],
-      "lastUpdated": 1791029086143,
+      "lastUpdated": 1791032686546,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "GPT-6 Sol ・ GPT-6 Luna の概要",
-          "link": "https://note.com/npaka/n/n6ab510c32a38",
-          "description": "<p name=\"47bd1220-d18f-458e-a6e5-e61459f88999\" id=\"47bd1220-d18f-458e-a6e5-e61459f88999\">GPT-6 Sol ・ GPT-6 Lunaの概要をまとめました。</p><table-of-contents name=\"2804f436-831c-4916-8a8b-362ffa41f7a0\" id=\"2804f436-831c-4916-8a8b-362ffa41f7a0\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n6ab510c32a38\">続きをみる</a>",
-          "content": "<p name=\"47bd1220-d18f-458e-a6e5-e61459f88999\" id=\"47bd1220-d18f-458e-a6e5-e61459f88999\">GPT-6 Sol ・ GPT-6 Lunaの概要をまとめました。</p><table-of-contents name=\"2804f436-831c-4916-8a8b-362ffa41f7a0\" id=\"2804f436-831c-4916-8a8b-362ffa41f7a0\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n6ab510c32a38\">続きをみる</a>",
-          "pubDate": "Wed, 23 Sep 2026 06:29:42 +0900",
-          "guid": "https://note.com/npaka/n/n6ab510c32a38",
+          "title": "AIエージェントハーネス「Pi 1.0」のクイックスタート",
+          "link": "https://note.com/npaka/n/nc6ace5304805",
+          "description": "<p name=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\" id=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\">AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。</p><table-of-contents name=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\" id=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nc6ace5304805\">続きをみる</a>",
+          "content": "<p name=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\" id=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\">AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。</p><table-of-contents name=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\" id=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nc6ace5304805\">続きをみる</a>",
+          "pubDate": "Sat, 03 Oct 2026 22:01:11 +0900",
+          "guid": "https://note.com/npaka/n/nc6ace5304805",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "GPT-6 Sol ・ GPT-6 Lunaの概要をまとめました。続きをみる",
+          "summary": "AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791029086473,
+      "lastUpdated": 1791032686843,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1691,6 +1691,90 @@
       "url": "https://zenn.dev/topics/機械学習/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "PCAの累積寄与率80%で十分？ 分散と分類性能が一致しないデータを作って検証する",
+          "link": "https://zenn.dev/shakeailab/articles/pca-explained-variance-trap",
+          "description": "主成分分析(PCA)をかけたあと、必ず決めなければならないことがある。何本残すかだ。 定番の答えは決まっている。 累積寄与率が80%(あるいは90%)を超えるところまで残す。 私もそうしてきた。3行で書けるし、根拠を聞かれても「元の情報の8割を保っています」と言える。 引っかかっていたのは、寄与率が「何の」8割なのかだ。実測したら、寄与率88.57%の成分に分類の手がかりが1つも入っておらず、捨てられる寄与率1.88%の成分だけで精度0.95が出た。 実験に使ったコードの全文はGitHubに置いています。 ! 評価手順についての補足：以下の図表は、標準化とPCAを全データにfitして...",
+          "content": "主成分分析(PCA)をかけたあと、必ず決めなければならないことがある。何本残すかだ。 定番の答えは決まっている。 累積寄与率が80%(あるいは90%)を超えるところまで残す。 私もそうしてきた。3行で書けるし、根拠を聞かれても「元の情報の8割を保っています」と言える。 引っかかっていたのは、寄与率が「何の」8割なのかだ。実測したら、寄与率88.57%の成分に分類の手がかりが1つも入っておらず、捨てられる寄与率1.88%の成分だけで精度0.95が出た。 実験に使ったコードの全文はGitHubに置いています。 ! 評価手順についての補足：以下の図表は、標準化とPCAを全データにfitして...",
+          "pubDate": "Sat, 03 Oct 2026 01:14:23 GMT",
+          "guid": "https://zenn.dev/shakeailab/articles/pca-explained-variance-trap",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "主成分分析(PCA)をかけたあと、必ず決めなければならないことがある。何本残すかだ。 定番の答えは決まっている。 累積寄与率が80%(あるいは90%)を超えるところまで残す。 私もそうしてきた。3行で書けるし、根拠を聞かれても「元の情報の8割を保っています」と言える。 引っかかっていたのは、寄与率が「何の」8割なのかだ。実測したら、寄与率88.57%の成分に分類の手がかりが1つも入っておらず、捨てられる寄与率1.88%の成分だけで精度0...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s---ZLO0Xzh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PCA%25E3%2581%25AE%25E7%25B4%25AF%25E7%25A9%258D%25E5%25AF%2584%25E4%25B8%258E%25E7%258E%258780%2525%25E3%2581%25A7%25E5%258D%2581%25E5%2588%2586%25EF%25BC%259F%2520%25E5%2588%2586%25E6%2595%25A3%25E3%2581%25A8%25E5%2588%2586%25E9%25A1%259E%25E6%2580%25A7%25E8%2583%25BD%25E3%2581%258C%25E4%25B8%2580%25E8%2587%25B4%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shake%2520AI%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxZjcwNTgzOTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "Claude Codeと作る競馬予測システム開発記(8) オーバーレイ探索編",
+          "link": "https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-08-overlay-search",
+          "description": "はじめに 前回は、オッズの時系列データを使って市場の動きを観測する取り組みについて書きました。 第8回となる今回は、そもそも「勝てる馬券」とは何なのか、という根本に戻って「オーバーレイ」という考え方と、ここまでの検証を踏まえた現実的な探索の落とし所について書きます。 オーバーレイとは オーバーレイとは、期待値が1を超えている状態、つまり「実力に対して市場から過小評価されている（オッズが甘い）馬」のことです。 競馬は参加者同士の賭け合いなので、強い馬を当てるだけでは勝てません。どれだけ強い馬でも、全員が強いと分かっていればオッズは低くなり、的中しても元が取れないからです。勝つために...",
+          "content": "はじめに 前回は、オッズの時系列データを使って市場の動きを観測する取り組みについて書きました。 第8回となる今回は、そもそも「勝てる馬券」とは何なのか、という根本に戻って「オーバーレイ」という考え方と、ここまでの検証を踏まえた現実的な探索の落とし所について書きます。 オーバーレイとは オーバーレイとは、期待値が1を超えている状態、つまり「実力に対して市場から過小評価されている（オッズが甘い）馬」のことです。 競馬は参加者同士の賭け合いなので、強い馬を当てるだけでは勝てません。どれだけ強い馬でも、全員が強いと分かっていればオッズは低くなり、的中しても元が取れないからです。勝つために...",
+          "pubDate": "Sat, 03 Oct 2026 00:03:00 GMT",
+          "guid": "https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-08-overlay-search",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "はじめに 前回は、オッズの時系列データを使って市場の動きを観測する取り組みについて書きました。 第8回となる今回は、そもそも「勝てる馬券」とは何なのか、という根本に戻って「オーバーレイ」という考え方と、ここまでの検証を踏まえた現実的な探索の落とし所について書きます。 オーバーレイとは オーバーレイとは、期待値が1を超えている状態、つまり「実力に対して市場から過小評価されている（オッズが甘い）馬」のことです。 競馬は参加者同士の賭け合いな...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--8GdcLwMe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A8%25E4%25BD%259C%25E3%2582%258B%25E7%25AB%25B6%25E9%25A6%25AC%25E4%25BA%2588%25E6%25B8%25AC%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%25E8%25A8%2598%25288%2529%2520%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25A4%25E6%258E%25A2%25E7%25B4%25A2%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2594%25B0%25E5%25B4%258E%25E8%25BC%259D%25E4%25BB%25A3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvdC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "手を動かして学ぶ LLMファインチューニングとモデル最適化 ― SFT・LoRA・DPO・量子化・蒸留をCPUだけで一巡させる",
+          "link": "https://zenn.dev/pakku8914/books/llm_finetuning_optimization",
+          "description": "<<教材の目的と対象者>> 本教材は、プロンプトと RAG では届かない要求（出力形式を厳密に守らせる、専門用語の言い回しを揃える、小さく安く速いモデルで済ませる）に対して、モデル自体を学習・軽量化して応える力を身につけるための実践教材です。GPU は不要です。すべての演習を CPU の Docker 環境で完走できるよう、1億3千万パラメータ級の小型モデルと数百件のデータで設計してあります。「GPU が無いから学習は試せない」で止まっていた方が、SFT・LoRA・DPO・量子化・蒸留の一巡を自分の手で回し、実務でどこに投資すべきかを判断できるようになることを目的としています。 <<学習内容と目標>> プロンプト・RAG・ファインチューニングの判断表を自分で書けるようになり、SFT データの設計（収集・重複除去・汚染対策・chat template・ライセンス）とトークナイザの扱い（loss マスクでプロンプト部を学習させない）を実装できるようになります。フル微調整と LoRA を同じ題材で比較し、rank・alpha・target_modules の効き方とメモリ削減を実測できるようになります。学習が失敗したときの診断（loss が下がらない・NaN・学習率・勾配累積・シード再現性）、DPO による選好学習とペアデータ作成、学習後の回帰（忘却）の検出、int8/int4 量子化の原理と GGUF 変換・ONNX Runtime での量子化、蒸留による小型化、プルーニングや MoE の位置づけ、実験管理とモデルカードによる再現性の担保、そしてサービングを見据えた学習側の設計まで、モデルを預かる立場で判断できる状態を目指します。",
+          "content": "<<教材の目的と対象者>> 本教材は、プロンプトと RAG では届かない要求（出力形式を厳密に守らせる、専門用語の言い回しを揃える、小さく安く速いモデルで済ませる）に対して、モデル自体を学習・軽量化して応える力を身につけるための実践教材です。GPU は不要です。すべての演習を CPU の Docker 環境で完走できるよう、1億3千万パラメータ級の小型モデルと数百件のデータで設計してあります。「GPU が無いから学習は試せない」で止まっていた方が、SFT・LoRA・DPO・量子化・蒸留の一巡を自分の手で回し、実務でどこに投資すべきかを判断できるようになることを目的としています。 <<学習内容と目標>> プロンプト・RAG・ファインチューニングの判断表を自分で書けるようになり、SFT データの設計（収集・重複除去・汚染対策・chat template・ライセンス）とトークナイザの扱い（loss マスクでプロンプト部を学習させない）を実装できるようになります。フル微調整と LoRA を同じ題材で比較し、rank・alpha・target_modules の効き方とメモリ削減を実測できるようになります。学習が失敗したときの診断（loss が下がらない・NaN・学習率・勾配累積・シード再現性）、DPO による選好学習とペアデータ作成、学習後の回帰（忘却）の検出、int8/int4 量子化の原理と GGUF 変換・ONNX Runtime での量子化、蒸留による小型化、プルーニングや MoE の位置づけ、実験管理とモデルカードによる再現性の担保、そしてサービングを見据えた学習側の設計まで、モデルを預かる立場で判断できる状態を目指します。",
+          "pubDate": "Fri, 02 Oct 2026 15:28:55 GMT",
+          "guid": "https://zenn.dev/pakku8914/books/llm_finetuning_optimization",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "<<教材の目的と対象者>> 本教材は、プロンプトと RAG では届かない要求（出力形式を厳密に守らせる、専門用語の言い回しを揃える、小さく安く速いモデルで済ませる）に対して、モデル自体を学習・軽量化して応える力を身につけるための実践教材です。GPU は不要です。すべての演習を CPU の Docker 環境で完走できるよう、1億3千万パラメータ級の小型モデルと数百件のデータで設計してあります。「GPU が無いから学習は試せない」で止まっ...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--GfltqnQJ--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9hN2Y3NDJiM2M0LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "個人開発の天気アプリで「深夜なのに光化学スモッグ警戒」が出た話 — 確率の根拠を全部見せるようにするまで",
           "link": "https://zenn.dev/moshimo_weather/articles/fbb12d54cc4d8f",
@@ -2166,93 +2250,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "PCAの累積寄与率80%で十分？ 分散と分類性能が一致しないデータを作って検証する",
-          "link": "https://zenn.dev/shakeailab/articles/pca-explained-variance-trap",
-          "description": "主成分分析(PCA)をかけたあと、必ず決めなければならないことがある。何本残すかだ。 定番の答えは決まっている。 累積寄与率が80%(あるいは90%)を超えるところまで残す。 私もそうしてきた。3行で書けるし、根拠を聞かれても「元の情報の8割を保っています」と言える。 引っかかっていたのは、寄与率が「何の」8割なのかだ。実測したら、寄与率88.57%の成分に分類の手がかりが1つも入っておらず、捨てられる寄与率1.88%の成分だけで精度0.95が出た。 実験に使ったコードの全文はGitHubに置いています。 ! 評価手順についての補足：以下の図表は、標準化とPCAを全データにfitして...",
-          "content": "主成分分析(PCA)をかけたあと、必ず決めなければならないことがある。何本残すかだ。 定番の答えは決まっている。 累積寄与率が80%(あるいは90%)を超えるところまで残す。 私もそうしてきた。3行で書けるし、根拠を聞かれても「元の情報の8割を保っています」と言える。 引っかかっていたのは、寄与率が「何の」8割なのかだ。実測したら、寄与率88.57%の成分に分類の手がかりが1つも入っておらず、捨てられる寄与率1.88%の成分だけで精度0.95が出た。 実験に使ったコードの全文はGitHubに置いています。 ! 評価手順についての補足：以下の図表は、標準化とPCAを全データにfitして...",
-          "pubDate": "Sat, 03 Oct 2026 01:14:23 GMT",
-          "guid": "https://zenn.dev/shakeailab/articles/pca-explained-variance-trap",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "主成分分析(PCA)をかけたあと、必ず決めなければならないことがある。何本残すかだ。 定番の答えは決まっている。 累積寄与率が80%(あるいは90%)を超えるところまで残す。 私もそうしてきた。3行で書けるし、根拠を聞かれても「元の情報の8割を保っています」と言える。 引っかかっていたのは、寄与率が「何の」8割なのかだ。実測したら、寄与率88.57%の成分に分類の手がかりが1つも入っておらず、捨てられる寄与率1.88%の成分だけで精度0...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s---ZLO0Xzh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PCA%25E3%2581%25AE%25E7%25B4%25AF%25E7%25A9%258D%25E5%25AF%2584%25E4%25B8%258E%25E7%258E%258780%2525%25E3%2581%25A7%25E5%258D%2581%25E5%2588%2586%25EF%25BC%259F%2520%25E5%2588%2586%25E6%2595%25A3%25E3%2581%25A8%25E5%2588%2586%25E9%25A1%259E%25E6%2580%25A7%25E8%2583%25BD%25E3%2581%258C%25E4%25B8%2580%25E8%2587%25B4%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shake%2520AI%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxZjcwNTgzOTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "Claude Codeと作る競馬予測システム開発記(8) オーバーレイ探索編",
-          "link": "https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-08-overlay-search",
-          "description": "はじめに 前回は、オッズの時系列データを使って市場の動きを観測する取り組みについて書きました。 第8回となる今回は、そもそも「勝てる馬券」とは何なのか、という根本に戻って「オーバーレイ」という考え方と、ここまでの検証を踏まえた現実的な探索の落とし所について書きます。 オーバーレイとは オーバーレイとは、期待値が1を超えている状態、つまり「実力に対して市場から過小評価されている（オッズが甘い）馬」のことです。 競馬は参加者同士の賭け合いなので、強い馬を当てるだけでは勝てません。どれだけ強い馬でも、全員が強いと分かっていればオッズは低くなり、的中しても元が取れないからです。勝つために...",
-          "content": "はじめに 前回は、オッズの時系列データを使って市場の動きを観測する取り組みについて書きました。 第8回となる今回は、そもそも「勝てる馬券」とは何なのか、という根本に戻って「オーバーレイ」という考え方と、ここまでの検証を踏まえた現実的な探索の落とし所について書きます。 オーバーレイとは オーバーレイとは、期待値が1を超えている状態、つまり「実力に対して市場から過小評価されている（オッズが甘い）馬」のことです。 競馬は参加者同士の賭け合いなので、強い馬を当てるだけでは勝てません。どれだけ強い馬でも、全員が強いと分かっていればオッズは低くなり、的中しても元が取れないからです。勝つために...",
-          "pubDate": "Sat, 03 Oct 2026 00:03:00 GMT",
-          "guid": "https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-08-overlay-search",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "はじめに 前回は、オッズの時系列データを使って市場の動きを観測する取り組みについて書きました。 第8回となる今回は、そもそも「勝てる馬券」とは何なのか、という根本に戻って「オーバーレイ」という考え方と、ここまでの検証を踏まえた現実的な探索の落とし所について書きます。 オーバーレイとは オーバーレイとは、期待値が1を超えている状態、つまり「実力に対して市場から過小評価されている（オッズが甘い）馬」のことです。 競馬は参加者同士の賭け合いな...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--8GdcLwMe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A8%25E4%25BD%259C%25E3%2582%258B%25E7%25AB%25B6%25E9%25A6%25AC%25E4%25BA%2588%25E6%25B8%25AC%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%25E8%25A8%2598%25288%2529%2520%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25A4%25E6%258E%25A2%25E7%25B4%25A2%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2594%25B0%25E5%25B4%258E%25E8%25BC%259D%25E4%25BB%25A3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvdC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "手を動かして学ぶ LLMファインチューニングとモデル最適化 ― SFT・LoRA・DPO・量子化・蒸留をCPUだけで一巡させる",
-          "link": "https://zenn.dev/pakku8914/books/llm_finetuning_optimization",
-          "description": "<<教材の目的と対象者>> 本教材は、プロンプトと RAG では届かない要求（出力形式を厳密に守らせる、専門用語の言い回しを揃える、小さく安く速いモデルで済ませる）に対して、モデル自体を学習・軽量化して応える力を身につけるための実践教材です。GPU は不要です。すべての演習を CPU の Docker 環境で完走できるよう、1億3千万パラメータ級の小型モデルと数百件のデータで設計してあります。「GPU が無いから学習は試せない」で止まっていた方が、SFT・LoRA・DPO・量子化・蒸留の一巡を自分の手で回し、実務でどこに投資すべきかを判断できるようになることを目的としています。 <<学習内容と目標>> プロンプト・RAG・ファインチューニングの判断表を自分で書けるようになり、SFT データの設計（収集・重複除去・汚染対策・chat template・ライセンス）とトークナイザの扱い（loss マスクでプロンプト部を学習させない）を実装できるようになります。フル微調整と LoRA を同じ題材で比較し、rank・alpha・target_modules の効き方とメモリ削減を実測できるようになります。学習が失敗したときの診断（loss が下がらない・NaN・学習率・勾配累積・シード再現性）、DPO による選好学習とペアデータ作成、学習後の回帰（忘却）の検出、int8/int4 量子化の原理と GGUF 変換・ONNX Runtime での量子化、蒸留による小型化、プルーニングや MoE の位置づけ、実験管理とモデルカードによる再現性の担保、そしてサービングを見据えた学習側の設計まで、モデルを預かる立場で判断できる状態を目指します。",
-          "content": "<<教材の目的と対象者>> 本教材は、プロンプトと RAG では届かない要求（出力形式を厳密に守らせる、専門用語の言い回しを揃える、小さく安く速いモデルで済ませる）に対して、モデル自体を学習・軽量化して応える力を身につけるための実践教材です。GPU は不要です。すべての演習を CPU の Docker 環境で完走できるよう、1億3千万パラメータ級の小型モデルと数百件のデータで設計してあります。「GPU が無いから学習は試せない」で止まっていた方が、SFT・LoRA・DPO・量子化・蒸留の一巡を自分の手で回し、実務でどこに投資すべきかを判断できるようになることを目的としています。 <<学習内容と目標>> プロンプト・RAG・ファインチューニングの判断表を自分で書けるようになり、SFT データの設計（収集・重複除去・汚染対策・chat template・ライセンス）とトークナイザの扱い（loss マスクでプロンプト部を学習させない）を実装できるようになります。フル微調整と LoRA を同じ題材で比較し、rank・alpha・target_modules の効き方とメモリ削減を実測できるようになります。学習が失敗したときの診断（loss が下がらない・NaN・学習率・勾配累積・シード再現性）、DPO による選好学習とペアデータ作成、学習後の回帰（忘却）の検出、int8/int4 量子化の原理と GGUF 変換・ONNX Runtime での量子化、蒸留による小型化、プルーニングや MoE の位置づけ、実験管理とモデルカードによる再現性の担保、そしてサービングを見据えた学習側の設計まで、モデルを預かる立場で判断できる状態を目指します。",
-          "pubDate": "Fri, 02 Oct 2026 15:28:55 GMT",
-          "guid": "https://zenn.dev/pakku8914/books/llm_finetuning_optimization",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "<<教材の目的と対象者>> 本教材は、プロンプトと RAG では届かない要求（出力形式を厳密に守らせる、専門用語の言い回しを揃える、小さく安く速いモデルで済ませる）に対して、モデル自体を学習・軽量化して応える力を身につけるための実践教材です。GPU は不要です。すべての演習を CPU の Docker 環境で完走できるよう、1億3千万パラメータ級の小型モデルと数百件のデータで設計してあります。「GPU が無いから学習は試せない」で止まっ...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--GfltqnQJ--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9hN2Y3NDJiM2M0LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1791029086660,
+      "lastUpdated": 1791032687023,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791029086730,
+      "lastUpdated": 1791032687102,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791029086806,
+      "lastUpdated": 1791032687168,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791029086897,
+      "lastUpdated": 1791032687257,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791029086954,
+      "lastUpdated": 1791032687326,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791029087009,
+      "lastUpdated": 1791032687399,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
