@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791032685740,
+      "lastUpdated": 1791036286232,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx-768x432.png"
         }
       ],
-      "lastUpdated": 1791032686546,
+      "lastUpdated": 1791036287035,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1104,6 +1104,29 @@
       "url": "https://note.com/npaka/rss",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "AIエージェントハーネス「Pi 1.0」のクイックスタート",
+          "link": "https://note.com/npaka/n/nc6ace5304805",
+          "description": "<p name=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\" id=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\">AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。</p><table-of-contents name=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\" id=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nc6ace5304805\">続きをみる</a>",
+          "content": "<p name=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\" id=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\">AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。</p><table-of-contents name=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\" id=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nc6ace5304805\">続きをみる</a>",
+          "pubDate": "Sat, 03 Oct 2026 22:01:11 +0900",
+          "guid": "https://note.com/npaka/n/nc6ace5304805",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "NVIDIA DGX Spark 64GB版 の概要",
           "link": "https://note.com/npaka/n/nf9d4b76e18a6",
@@ -1655,32 +1678,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "AIエージェントハーネス「Pi 1.0」のクイックスタート",
-          "link": "https://note.com/npaka/n/nc6ace5304805",
-          "description": "<p name=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\" id=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\">AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。</p><table-of-contents name=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\" id=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nc6ace5304805\">続きをみる</a>",
-          "content": "<p name=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\" id=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\">AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。</p><table-of-contents name=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\" id=\"a0497742-f3b6-48dd-ac8b-5cf26ed44931\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nc6ace5304805\">続きをみる</a>",
-          "pubDate": "Sat, 03 Oct 2026 22:01:11 +0900",
-          "guid": "https://note.com/npaka/n/nc6ace5304805",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1791032686843,
+      "lastUpdated": 1791036287280,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1791032687023,
+      "lastUpdated": 1791036287453,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791032687102,
+      "lastUpdated": 1791036287528,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791032687168,
+      "lastUpdated": 1791036287594,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791032687257,
+      "lastUpdated": 1791036287674,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791032687326,
+      "lastUpdated": 1791036287781,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791032687399,
+      "lastUpdated": 1791036287867,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
