@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791119085679,
+      "lastUpdated": 1791122685998,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx-768x432.png"
         }
       ],
-      "lastUpdated": 1791119086371,
+      "lastUpdated": 1791122686949,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "Grok 4.7 の概要",
-          "link": "https://note.com/npaka/n/nfeb40d10ea43",
-          "description": "<p name=\"54e26a15-15df-408a-b4b1-4611e80c1545\" id=\"54e26a15-15df-408a-b4b1-4611e80c1545\">「Grok 4.7」の概要をまとめました。</p><table-of-contents name=\"7a5354e1-079e-4e64-b6ba-13dbb75b9f98\" id=\"7a5354e1-079e-4e64-b6ba-13dbb75b9f98\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nfeb40d10ea43\">続きをみる</a>",
-          "content": "<p name=\"54e26a15-15df-408a-b4b1-4611e80c1545\" id=\"54e26a15-15df-408a-b4b1-4611e80c1545\">「Grok 4.7」の概要をまとめました。</p><table-of-contents name=\"7a5354e1-079e-4e64-b6ba-13dbb75b9f98\" id=\"7a5354e1-079e-4e64-b6ba-13dbb75b9f98\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nfeb40d10ea43\">続きをみる</a>",
-          "pubDate": "Wed, 23 Sep 2026 07:12:02 +0900",
-          "guid": "https://note.com/npaka/n/nfeb40d10ea43",
+          "title": "OpenCode 2.0 の概要",
+          "link": "https://note.com/npaka/n/n124579373d23",
+          "description": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
+          "content": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
+          "pubDate": "Sun, 04 Oct 2026 22:04:45 +0900",
+          "guid": "https://note.com/npaka/n/n124579373d23",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "「Grok 4.7」の概要をまとめました。続きをみる",
+          "summary": "「OpenCode 2.0」の概要についてまとめました。続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791119086783,
+      "lastUpdated": 1791122687219,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1791119086983,
+      "lastUpdated": 1791122687429,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791119087040,
+      "lastUpdated": 1791122687514,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791119087096,
+      "lastUpdated": 1791122687589,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1791119087191,
+      "lastUpdated": 1791122687666,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1791119087255,
+      "lastUpdated": 1791122687734,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5107,7 +5107,7 @@
           }
         }
       ],
-      "lastUpdated": 1791119087330,
+      "lastUpdated": 1791122687824,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
