@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791122685998,
+      "lastUpdated": 1791126285526,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx-768x432.png"
         }
       ],
-      "lastUpdated": 1791122686949,
+      "lastUpdated": 1791126287289,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1104,6 +1104,29 @@
       "url": "https://note.com/npaka/rss",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "OpenCode 2.0 の概要",
+          "link": "https://note.com/npaka/n/n124579373d23",
+          "description": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
+          "content": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
+          "pubDate": "Sun, 04 Oct 2026 22:04:45 +0900",
+          "guid": "https://note.com/npaka/n/n124579373d23",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "「OpenCode 2.0」の概要についてまとめました。続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "常駐AIエージェントで何が変わるのか？",
           "link": "https://note.com/npaka/n/n341b20a052c6",
@@ -1655,32 +1678,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "OpenCode 2.0 の概要",
-          "link": "https://note.com/npaka/n/n124579373d23",
-          "description": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
-          "content": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
-          "pubDate": "Sun, 04 Oct 2026 22:04:45 +0900",
-          "guid": "https://note.com/npaka/n/n124579373d23",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "「OpenCode 2.0」の概要についてまとめました。続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1791122687219,
+      "lastUpdated": 1791126287483,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1791122687429,
+      "lastUpdated": 1791126287679,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791122687514,
+      "lastUpdated": 1791126287750,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791122687589,
+      "lastUpdated": 1791126287841,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1791122687666,
+      "lastUpdated": 1791126287935,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1791122687734,
+      "lastUpdated": 1791126288012,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5107,7 +5107,7 @@
           }
         }
       ],
-      "lastUpdated": 1791122687824,
+      "lastUpdated": 1791126288070,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
