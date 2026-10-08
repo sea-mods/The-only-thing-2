@@ -13,5 +13,21 @@ queueを使い、隣接する点を一つずつ追加する。
 
 ## 実装例
 ```c++
+vector<vector<int>> G(N);
+queue<int> que;
 
+while (!que.empty())
+{
+    int C;
+    C=que.front();
+    que.pop();
+
+    for(auto a:G[C])
+    {
+        if(!pass[a])
+        {
+            que.push(a);
+        }
+    }
+}
 ```
