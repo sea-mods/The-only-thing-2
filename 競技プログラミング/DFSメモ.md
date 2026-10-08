@@ -32,7 +32,7 @@ void dfs(vector<vector<int>> &G,int v)
 }
 ```
 
-以下、コートの説明。
+以下、コードの説明。
 
 seenは添え字に対応する地点に訪れたかどうかを示すboolリスト。
 GはDFSを行うグラフを指す。
