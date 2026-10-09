@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791509370369,
+      "lastUpdated": 1791516608117,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg"
         }
       ],
-      "lastUpdated": 1791509371319,
+      "lastUpdated": 1791516608300,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由",
-          "link": "https://note.com/npaka/n/n557fb948c3cf",
-          "description": "<p name=\"c2831d12-82e7-4e81-ba20-bfbc31050afc\" id=\"c2831d12-82e7-4e81-ba20-bfbc31050afc\">AIデバッグはなぜ収束しないのかについてまとめました。<br></p><table-of-contents name=\"10cdbcb3-0601-428f-9ff2-b6a56859fbfa\" id=\"10cdbcb3-0601-428f-9ff2-b6a56859fbfa\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n557fb948c3cf\">続きをみる</a>",
-          "content": "<p name=\"c2831d12-82e7-4e81-ba20-bfbc31050afc\" id=\"c2831d12-82e7-4e81-ba20-bfbc31050afc\">AIデバッグはなぜ収束しないのかについてまとめました。<br></p><table-of-contents name=\"10cdbcb3-0601-428f-9ff2-b6a56859fbfa\" id=\"10cdbcb3-0601-428f-9ff2-b6a56859fbfa\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n557fb948c3cf\">続きをみる</a>",
-          "pubDate": "Sun, 27 Sep 2026 14:44:18 +0900",
-          "guid": "https://note.com/npaka/n/n557fb948c3cf",
+          "title": "ロボットは肉体労働の74%を実行可能、しかし人間より安いのは0.3% - Anthropicの調査",
+          "link": "https://note.com/npaka/n/nec2c2032850c",
+          "description": "<p name=\"6e0009c1-a772-40a4-84a6-7dd0133b5d8d\" id=\"6e0009c1-a772-40a4-84a6-7dd0133b5d8d\">Anthropicの調査結果から、現在のロボットができる仕事と、普及に向けた課題を見ていきます。</p><table-of-contents name=\"e3c8f70a-4aa3-42c2-91f2-e970484d7c1a\" id=\"e3c8f70a-4aa3-42c2-91f2-e970484d7c1a\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nec2c2032850c\">続きをみる</a>",
+          "content": "<p name=\"6e0009c1-a772-40a4-84a6-7dd0133b5d8d\" id=\"6e0009c1-a772-40a4-84a6-7dd0133b5d8d\">Anthropicの調査結果から、現在のロボットができる仕事と、普及に向けた課題を見ていきます。</p><table-of-contents name=\"e3c8f70a-4aa3-42c2-91f2-e970484d7c1a\" id=\"e3c8f70a-4aa3-42c2-91f2-e970484d7c1a\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nec2c2032850c\">続きをみる</a>",
+          "pubDate": "Fri, 09 Oct 2026 11:05:27 +0900",
+          "guid": "https://note.com/npaka/n/nec2c2032850c",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "AIデバッグはなぜ収束しないのかについてまとめました。続きをみる",
+          "summary": "Anthropicの調査結果から、現在のロボットができる仕事と、普及に向けた課題を見ていきます。続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791509371443,
+      "lastUpdated": 1791516608353,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2140,19 +2140,19 @@
           }
         },
         {
-          "title": "競馬AIでROI 177%を出して、それが幻だと証明するのに2年かかった",
-          "link": "https://zenn.dev/marunage_kacho/articles/keiba-ai-4-mirages",
-          "description": "! この記事は、有料本『競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話』のダイジェストです。記事だけでも完結して読めます。 TL;DR 2020〜2026年のJRA全レース(18,777レース・約25万出走)を自動収集し、LightGBMで予測モデルを作った バックテストは最高でROI 177%。しかし精査するとこれは幻で、以後も「勝てているように見える結果」に合計4回出会い、4回とも自分で棄却することになった 最終結論: 公開データの特徴量が市場(オッズ)に追加できる情報量はゼロ。そもそもJRAの締切オッズは18万頭の実測で誤差±1ポイントの較正済み予測器...",
-          "content": "! この記事は、有料本『競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話』のダイジェストです。記事だけでも完結して読めます。 TL;DR 2020〜2026年のJRA全レース(18,777レース・約25万出走)を自動収集し、LightGBMで予測モデルを作った バックテストは最高でROI 177%。しかし精査するとこれは幻で、以後も「勝てているように見える結果」に合計4回出会い、4回とも自分で棄却することになった 最終結論: 公開データの特徴量が市場(オッズ)に追加できる情報量はゼロ。そもそもJRAの締切オッズは18万頭の実測で誤差±1ポイントの較正済み予測器...",
-          "pubDate": "Wed, 07 Oct 2026 08:21:09 GMT",
-          "guid": "https://zenn.dev/marunage_kacho/articles/keiba-ai-4-mirages",
+          "title": "LLM Agentの長時間シミュレーションで見えた、推論力だけでは分からないモデル差",
+          "link": "https://zenn.dev/scien/articles/206a6c90fd8345",
+          "description": "はじめに LLM Agentは、情報を覚えていれば本当に「うまく行動できる」のでしょうか。 最近はLong Contextや長期記憶の研究が進み、過去の情報を保持し、必要なときに取り出せるかがよく評価されています。 でも、実際にAgentとして動かすと、必要なのはそれだけではありません。 例えば、数時間前に得た情報を覚えていても、 その情報を今使うべきだと気づく 誰に働きかけるかを決める 新しい情報と組み合わせる 最終的な意思決定まで進める ところまでできなければ、タスクは前に進みません。 そこで本記事では、6人のLLM Agentを8時間の環境で動かし、「覚えているか」ではなく...",
+          "content": "はじめに LLM Agentは、情報を覚えていれば本当に「うまく行動できる」のでしょうか。 最近はLong Contextや長期記憶の研究が進み、過去の情報を保持し、必要なときに取り出せるかがよく評価されています。 でも、実際にAgentとして動かすと、必要なのはそれだけではありません。 例えば、数時間前に得た情報を覚えていても、 その情報を今使うべきだと気づく 誰に働きかけるかを決める 新しい情報と組み合わせる 最終的な意思決定まで進める ところまでできなければ、タスクは前に進みません。 そこで本記事では、6人のLLM Agentを8時間の環境で動かし、「覚えているか」ではなく...",
+          "pubDate": "Fri, 09 Oct 2026 00:41:37 GMT",
+          "guid": "https://zenn.dev/scien/articles/206a6c90fd8345",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "! この記事は、有料本『競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話』のダイジェストです。記事だけでも完結して読めます。 TL;DR 2020〜2026年のJRA全レース(18,777レース・約25万出走)を自動収集し、LightGBMで予測モデルを作った バックテストは最高でROI 177%。しかし精査するとこれは幻で、以後も「勝てているように見える結果」に合計4回出会い、4回とも自分で棄却することになった 最...",
+          "summary": "はじめに LLM Agentは、情報を覚えていれば本当に「うまく行動できる」のでしょうか。 最近はLong Contextや長期記憶の研究が進み、過去の情報を保持し、必要なときに取り出せるかがよく評価されています。 でも、実際にAgentとして動かすと、必要なのはそれだけではありません。 例えば、数時間前に得た情報を覚えていても、 その情報を今使うべきだと気づく 誰に働きかけるかを決める 新しい情報と組み合わせる 最終的な意思決定まで進...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2162,25 +2162,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--grWxm1AT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25AB%25B6%25E9%25A6%25ACAI%25E3%2581%25A7ROI%2520177%2525%25E3%2582%2592%25E5%2587%25BA%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E3%2581%259D%25E3%2582%258C%25E3%2581%258C%25E5%25B9%25BB%25E3%2581%25A0%25E3%2581%25A8%25E8%25A8%25BC%25E6%2598%258E%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AB2%25E5%25B9%25B4%25E3%2581%258B%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%25B8%25E6%258A%2595%25E3%2581%2592%25E8%25AA%25B2%25E9%2595%25B7%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0ZGM2ZTdlYzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--0h35KiRh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%2520Agent%25E3%2581%25AE%25E9%2595%25B7%25E6%2599%2582%25E9%2596%2593%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25E3%2580%2581%25E6%258E%25A8%25E8%25AB%2596%25E5%258A%259B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2581%25AF%25E5%2588%2586%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%258F%25A4%25E8%25B0%25B7%25E4%25BC%258A%25E7%25B9%2594%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MxYzBmOGI5YjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SCIEN%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJmNWI3ZDcxN2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話",
-          "link": "https://zenn.dev/marunage_kacho/books/keiba-ai-verification",
-          "description": "LightGBMと2020〜2026年のレースデータで競馬予測AIを作り、バックテストでROI 177%を叩き出し、そして全てが幻だと自分で証明するまでの記録。データリーク、multiple testing、市場データの汚染、後知恵バイアス — MLプロジェクトを殺す4つの罠を実データで踏み抜き、最後にパリミュチュエル市場の効率性を18万頭分の実測で確認した。勝ちたい人には残念な、しかし機械学習の検証を仕事にする人には役立つ話。",
-          "content": "LightGBMと2020〜2026年のレースデータで競馬予測AIを作り、バックテストでROI 177%を叩き出し、そして全てが幻だと自分で証明するまでの記録。データリーク、multiple testing、市場データの汚染、後知恵バイアス — MLプロジェクトを殺す4つの罠を実データで踏み抜き、最後にパリミュチュエル市場の効率性を18万頭分の実測で確認した。勝ちたい人には残念な、しかし機械学習の検証を仕事にする人には役立つ話。",
-          "pubDate": "Wed, 07 Oct 2026 08:17:22 GMT",
-          "guid": "https://zenn.dev/marunage_kacho/books/keiba-ai-verification",
+          "title": "Python機械学習の実践書4選",
+          "link": "https://zenn.dev/komatsu_ops/articles/20261009_book_ref",
+          "description": "はじめに 数年前、自分は社内の需要予測モデルをひとりで抱えていた。検証データでのスコアは悪くない。それなのに本番に出すと予測が外れる。コードを何度見直してもバグはない。原因は交差検証の切り方で、時系列の未来の情報が学習側に漏れていた。 この手の失敗は、ネットの断片的なチュートリアルでは見つけにくい。手順は書いてあっても、なぜその手順なのかは書かれていない。自分がつまずいていたのは実装の腕ではなく、その前提にある考え方だった。 そこから機械学習の本をまとめて読み直した。読む順番を間違えるとかなり苦しい、というのが正直な感想である。最初に分厚い理論書を開けば挫折する。軽い入門書だけで止め...",
+          "content": "はじめに 数年前、自分は社内の需要予測モデルをひとりで抱えていた。検証データでのスコアは悪くない。それなのに本番に出すと予測が外れる。コードを何度見直してもバグはない。原因は交差検証の切り方で、時系列の未来の情報が学習側に漏れていた。 この手の失敗は、ネットの断片的なチュートリアルでは見つけにくい。手順は書いてあっても、なぜその手順なのかは書かれていない。自分がつまずいていたのは実装の腕ではなく、その前提にある考え方だった。 そこから機械学習の本をまとめて読み直した。読む順番を間違えるとかなり苦しい、というのが正直な感想である。最初に分厚い理論書を開けば挫折する。軽い入門書だけで止め...",
+          "pubDate": "Fri, 09 Oct 2026 00:03:35 GMT",
+          "guid": "https://zenn.dev/komatsu_ops/articles/20261009_book_ref",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "LightGBMと2020〜2026年のレースデータで競馬予測AIを作り、バックテストでROI 177%を叩き出し、そして全てが幻だと自分で証明するまでの記録。データリーク、multiple testing、市場データの汚染、後知恵バイアス — MLプロジェクトを殺す4つの罠を実データで踏み抜き、最後にパリミュチュエル市場の効率性を18万頭分の実測で確認した。勝ちたい人には残念な、しかし機械学習の検証を仕事にする人には役立つ話。",
+          "summary": "はじめに 数年前、自分は社内の需要予測モデルをひとりで抱えていた。検証データでのスコアは悪くない。それなのに本番に出すと予測が外れる。コードを何度見直してもバグはない。原因は交差検証の切り方で、時系列の未来の情報が学習側に漏れていた。 この手の失敗は、ネットの断片的なチュートリアルでは見つけにくい。手順は書いてあっても、なぜその手順なのかは書かれていない。自分がつまずいていたのは実装の腕ではなく、その前提にある考え方だった。 そこから機...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2190,25 +2190,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--5IfNcf2H--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9hNzVmNWNiMjZmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--k0wI2Md3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5%25E6%259B%25B84%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:komatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkZDUzNmNmNzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "Selective State Space Modelを実装目線で理解する",
-          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-31-mamba-ssm",
-          "description": "Mambaの実装を読むと、selective_scan、d_state、dt_projといった名前が一度に現れます。どれがmodelの表現力を担い、どれが計算を速くする仕組みなのかを分けないと、全体像をつかみにくくなります。 先に結論を示すと、Mambaは次の三層に分けると理解できます。 Selective SSM：入力に応じて何をstateへ残すかを決める Selective Scan：入力依存のrecurrent updateをsequence方向へ効率よく計算する Mamba block：local Conv1D、Selective SSM、gate、residualを統合...",
-          "content": "Mambaの実装を読むと、selective_scan、d_state、dt_projといった名前が一度に現れます。どれがmodelの表現力を担い、どれが計算を速くする仕組みなのかを分けないと、全体像をつかみにくくなります。 先に結論を示すと、Mambaは次の三層に分けると理解できます。 Selective SSM：入力に応じて何をstateへ残すかを決める Selective Scan：入力依存のrecurrent updateをsequence方向へ効率よく計算する Mamba block：local Conv1D、Selective SSM、gate、residualを統合...",
-          "pubDate": "Wed, 07 Oct 2026 06:03:20 GMT",
-          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-31-mamba-ssm",
+          "title": "半陽的微分代数方程式の解を微分する：VJP編",
+          "link": "https://zenn.dev/wheatear11/articles/c293bb49ad3ae7",
+          "description": "概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \\in \\mathbb{R}^{N_x}と y_1, \\dot y_1 \\in \\mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \\dot y_1) と与えられていて、x_1, y_1, \\dot y_1が指数1の半陽的微分代数方程式の初期値問題 \\begin{align*} \\dot y &= f(t, x, y; \\alpha) \\\\...",
+          "content": "概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \\in \\mathbb{R}^{N_x}と y_1, \\dot y_1 \\in \\mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \\dot y_1) と与えられていて、x_1, y_1, \\dot y_1が指数1の半陽的微分代数方程式の初期値問題 \\begin{align*} \\dot y &= f(t, x, y; \\alpha) \\\\...",
+          "pubDate": "Thu, 08 Oct 2026 17:45:45 GMT",
+          "guid": "https://zenn.dev/wheatear11/articles/c293bb49ad3ae7",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "Mambaの実装を読むと、selective_scan、d_state、dt_projといった名前が一度に現れます。どれがmodelの表現力を担い、どれが計算を速くする仕組みなのかを分けないと、全体像をつかみにくくなります。 先に結論を示すと、Mambaは次の三層に分けると理解できます。 Selective SSM：入力に応じて何をstateへ残すかを決める Selective Scan：入力依存のrecurrent updateをse...",
+          "summary": "概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \\in \\mathbb{R}^{N_x}と y_1, \\dot y_1 \\in \\mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \\dot y_1) と与えられていて、x_1, y_1, \\dot y_1が...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2218,25 +2218,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--u4EaTrfV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Selective%2520State%2520Space%2520Model%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E7%259B%25AE%25E7%25B7%259A%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--VBmC1nrh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258D%258A%25E9%2599%25BD%25E7%259A%2584%25E5%25BE%25AE%25E5%2588%2586%25E4%25BB%25A3%25E6%2595%25B0%25E6%2596%25B9%25E7%25A8%258B%25E5%25BC%258F%25E3%2581%25AE%25E8%25A7%25A3%25E3%2582%2592%25E5%25BE%25AE%25E5%2588%2586%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259AVJP%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wheatear11%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXh0M0xKbHMzWmVWM1UwTDk2VkZIWHprM21PbE00YTZRcGNqZHlrUnlfPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "Jev で作る、旅の希望に応える Zero-shot レコメンド",
-          "link": "https://zenn.dev/temple_c_tech/articles/jev-zero-shot-area-recommend",
-          "description": "はじめに 個人開発で、漫画『ざつ旅 -That's Journey-』の聖地巡礼を支援する Web アプリを作っています[1]。作中に登場するエリアやスポットを地図で探したり、ルーレットで旅先を決めたりできるアプリです。 今回、このアプリに「温泉でのんびりしたい」「電車だけで行けてレトロな街を歩きたい」のような自然文の希望から、合いそうなエリアを提示するレコメンド機能を追加しました。 リリース時のツイート https://x.com/tmp_friends/status/2103842466789208217 上記のレコメンド機能を実現するにあたって、以下の制約がありました。 ユ...",
-          "content": "はじめに 個人開発で、漫画『ざつ旅 -That's Journey-』の聖地巡礼を支援する Web アプリを作っています[1]。作中に登場するエリアやスポットを地図で探したり、ルーレットで旅先を決めたりできるアプリです。 今回、このアプリに「温泉でのんびりしたい」「電車だけで行けてレトロな街を歩きたい」のような自然文の希望から、合いそうなエリアを提示するレコメンド機能を追加しました。 リリース時のツイート https://x.com/tmp_friends/status/2103842466789208217 上記のレコメンド機能を実現するにあたって、以下の制約がありました。 ユ...",
-          "pubDate": "Wed, 07 Oct 2026 00:40:35 GMT",
-          "guid": "https://zenn.dev/temple_c_tech/articles/jev-zero-shot-area-recommend",
+          "title": "CLIPを実装目線で理解する：対称Contrastive Lossとzero-shot分類",
+          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-32-clip",
+          "description": "CLIPの実装は、画像とtextをencodeして内積を取るだけに見えます。しかし、その内積を何に対して分類lossへ変えるのか、学習時のlogitsとzero-shot推論時のlogitsがどう対応するのかを追わないと、logit_scaleやpromptの役割を誤解しやすくなります。 先に結論を示すと、CLIPは次の三つの計算へ分けると読みやすくなります。 画像とtextを別々のencoderで処理し、同じ次元の正規化vectorへ写す batch内の全組み合わせからN\\times N logitsを作り、対角要素を正解にする 推論時はclass promptのtext embed...",
+          "content": "CLIPの実装は、画像とtextをencodeして内積を取るだけに見えます。しかし、その内積を何に対して分類lossへ変えるのか、学習時のlogitsとzero-shot推論時のlogitsがどう対応するのかを追わないと、logit_scaleやpromptの役割を誤解しやすくなります。 先に結論を示すと、CLIPは次の三つの計算へ分けると読みやすくなります。 画像とtextを別々のencoderで処理し、同じ次元の正規化vectorへ写す batch内の全組み合わせからN\\times N logitsを作り、対角要素を正解にする 推論時はclass promptのtext embed...",
+          "pubDate": "Thu, 08 Oct 2026 17:25:51 GMT",
+          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-32-clip",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 個人開発で、漫画『ざつ旅 -That's Journey-』の聖地巡礼を支援する Web アプリを作っています[1]。作中に登場するエリアやスポットを地図で探したり、ルーレットで旅先を決めたりできるアプリです。 今回、このアプリに「温泉でのんびりしたい」「電車だけで行けてレトロな街を歩きたい」のような自然文の希望から、合いそうなエリアを提示するレコメンド機能を追加しました。 リリース時のツイート https://x.com/t...",
+          "summary": "CLIPの実装は、画像とtextをencodeして内積を取るだけに見えます。しかし、その内積を何に対して分類lossへ変えるのか、学習時のlogitsとzero-shot推論時のlogitsがどう対応するのかを追わないと、logit_scaleやpromptの役割を誤解しやすくなります。 先に結論を示すと、CLIPは次の三つの計算へ分けると読みやすくなります。 画像とtextを別々のencoderで処理し、同じ次元の正規化vectorへ...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2246,13 +2246,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--_0mgHwGp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%2520%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%2581%25E6%2597%2585%25E3%2581%25AE%25E5%25B8%258C%25E6%259C%259B%25E3%2581%25AB%25E5%25BF%259C%25E3%2581%2588%25E3%2582%258B%2520Zero-shot%2520%25E3%2583%25AC%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Komekami%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI1ODc4ODQwYWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--a7e_ynmz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLIP%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E7%259B%25AE%25E7%25B7%259A%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E5%25AF%25BE%25E7%25A7%25B0Contrastive%2520Loss%25E3%2581%25A8zero-shot%25E5%2588%2586%25E9%25A1%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1791509371525,
+      "lastUpdated": 1791516608396,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791509371575,
+      "lastUpdated": 1791516608419,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791509371645,
+      "lastUpdated": 1791516608439,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791509371703,
+      "lastUpdated": 1791516608457,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791509371737,
+      "lastUpdated": 1791516608478,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791509371773,
+      "lastUpdated": 1791516608496,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
