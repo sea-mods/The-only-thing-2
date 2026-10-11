@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791729087621,
+      "lastUpdated": 1791754074396,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg"
         }
       ],
-      "lastUpdated": 1791729088408,
+      "lastUpdated": 1791754075454,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791729088684,
+      "lastUpdated": 1791754075574,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1750,8 +1750,8 @@
         {
           "title": "【PyTorch実装】絶縁トランスとフォトカプラ（OE/EO）に基づくアイソレーション・アテンション",
           "link": "https://zenn.dev/nanashi_os/articles/475f7fde24dc0b",
-          "description": "─ 結合係数 k と光結合によるコンタミネーション防止 ─ 1. はじめに：GND直結されたアテンションへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、入力と出力、あるいは制御トークンと一般トークンが同一の計算空間で「完全導通（Full Connection）」しています。 電子回路で言えば、これは**「すべてのモジュールが共通のグラウンド（GND）で無防備に直結された状態」**です。一次側（ユーザー入力や外部コンテキスト）で発生したプロンプトインジェクションやファクトの崩壊（スパイクノイズ）は、共通GNDを伝って二...",
-          "content": "─ 結合係数 k と光結合によるコンタミネーション防止 ─ 1. はじめに：GND直結されたアテンションへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、入力と出力、あるいは制御トークンと一般トークンが同一の計算空間で「完全導通（Full Connection）」しています。 電子回路で言えば、これは**「すべてのモジュールが共通のグラウンド（GND）で無防備に直結された状態」**です。一次側（ユーザー入力や外部コンテキスト）で発生したプロンプトインジェクションやファクトの崩壊（スパイクノイズ）は、共通GNDを伝って二...",
+          "description": "─ 結合係数 k と光結合によるコンタミネーション防止 ─ 1. はじめに：GND直結されたアテンションへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、入力と出力、あるいは制御トークンと一般トークンが同一の計算空間で「完全導通（Full Connection）」しています。 電子回路で言えば、これは「すべてのモジュールが共通のグラウンド（GND）で無防備に直結された状態」です。一次側（ユーザー入力や外部コンテキスト）で発生したプロンプトインジェクションやファクトの崩壊（スパイクノイズ）は、共通GNDを伝って二次側（生...",
+          "content": "─ 結合係数 k と光結合によるコンタミネーション防止 ─ 1. はじめに：GND直結されたアテンションへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、入力と出力、あるいは制御トークンと一般トークンが同一の計算空間で「完全導通（Full Connection）」しています。 電子回路で言えば、これは「すべてのモジュールが共通のグラウンド（GND）で無防備に直結された状態」です。一次側（ユーザー入力や外部コンテキスト）で発生したプロンプトインジェクションやファクトの崩壊（スパイクノイズ）は、共通GNDを伝って二次側（生...",
           "pubDate": "Sat, 10 Oct 2026 12:25:05 GMT",
           "guid": "https://zenn.dev/nanashi_os/articles/475f7fde24dc0b",
           "read": false,
@@ -1760,7 +1760,7 @@
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "─ 結合係数 k と光結合によるコンタミネーション防止 ─ 1. はじめに：GND直結されたアテンションへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、入力と出力、あるいは制御トークンと一般トークンが同一の計算空間で「完全導通（Full Connection）」しています。 電子回路で言えば、これは**「すべてのモジュールが共通のグラウンド（GND）で無防備に直結された状態...",
+          "summary": "─ 結合係数 k と光結合によるコンタミネーション防止 ─ 1. はじめに：GND直結されたアテンションへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、入力と出力、あるいは制御トークンと一般トークンが同一の計算空間で「完全導通（Full Connection）」しています。 電子回路で言えば、これは「すべてのモジュールが共通のグラウンド（GND）で無防備に直結された状態」で...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2112,19 +2112,19 @@
           }
         },
         {
-          "title": "論文で読み違える英単語22選：significant は「重要な」ではない",
-          "link": "https://zenn.dev/matthewstry/articles/ba0445b5ffeafc",
-          "description": "英語の論文を読んでいて、単語の意味は全部わかるのに文の意味が通らない、ということがあります。 多くの場合、原因は知っている単語を、辞書の最初の意味で読んでいることです。 significant を「重要な」と読むと、「その差は統計的に重要だった」という、それらしいけれど違う文になります。正しくは「有意だった」で、主張の強さがまるで変わります。 この記事では、分野ごとに意味が変わる英単語を22個まとめました。どれも中学・高校で習う「知っている単語」です。 統計・実験計画 英単語 辞書の最初の意味 論文での意味 significant 重要な 有意な（statistical...",
-          "content": "英語の論文を読んでいて、単語の意味は全部わかるのに文の意味が通らない、ということがあります。 多くの場合、原因は知っている単語を、辞書の最初の意味で読んでいることです。 significant を「重要な」と読むと、「その差は統計的に重要だった」という、それらしいけれど違う文になります。正しくは「有意だった」で、主張の強さがまるで変わります。 この記事では、分野ごとに意味が変わる英単語を22個まとめました。どれも中学・高校で習う「知っている単語」です。 統計・実験計画 英単語 辞書の最初の意味 論文での意味 significant 重要な 有意な（statistical...",
-          "pubDate": "Thu, 08 Oct 2026 11:18:12 GMT",
-          "guid": "https://zenn.dev/matthewstry/articles/ba0445b5ffeafc",
+          "title": "MICE・MissForest と欠損インジケータ — 欠損値処理の選び方ガイド",
+          "link": "https://zenn.dev/salesanalytics/articles/b02afcf677ce17",
+          "description": "欠損値処理には、削除、単変量補完、時系列補完、KNN補完など、さまざまな方法があります。この記事では、より高度な多変量補完である「MICE」と「MissForest」、補完と組み合わせて使う「欠損インジケータ」、そして手法の選び方の要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データです。数値列（age・fare・pclass・sibsp・parch）だけを使います。 MICE と MissForest MICE（Multivariate Imputation by Chained Equations）は、多変量補完の代表的な手...",
+          "content": "欠損値処理には、削除、単変量補完、時系列補完、KNN補完など、さまざまな方法があります。この記事では、より高度な多変量補完である「MICE」と「MissForest」、補完と組み合わせて使う「欠損インジケータ」、そして手法の選び方の要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データです。数値列（age・fare・pclass・sibsp・parch）だけを使います。 MICE と MissForest MICE（Multivariate Imputation by Chained Equations）は、多変量補完の代表的な手...",
+          "pubDate": "Sun, 11 Oct 2026 12:22:04 GMT",
+          "guid": "https://zenn.dev/salesanalytics/articles/b02afcf677ce17",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "英語の論文を読んでいて、単語の意味は全部わかるのに文の意味が通らない、ということがあります。 多くの場合、原因は知っている単語を、辞書の最初の意味で読んでいることです。 significant を「重要な」と読むと、「その差は統計的に重要だった」という、それらしいけれど違う文になります。正しくは「有意だった」で、主張の強さがまるで変わります。 この記事では、分野ごとに意味が変わる英単語を22個まとめました。どれも中学・高校で習う「知って...",
+          "summary": "欠損値処理には、削除、単変量補完、時系列補完、KNN補完など、さまざまな方法があります。この記事では、より高度な多変量補完である「MICE」と「MissForest」、補完と組み合わせて使う「欠損インジケータ」、そして手法の選び方の要点をコンパクトにまとめます。 ! 題材は seaborn に組み込まれているタイタニック号の乗客データです。数値列（age・fare・pclass・sibsp・parch）だけを使います。 MICE と M...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2134,25 +2134,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--4CJVigES--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AB%2596%25E6%2596%2587%25E3%2581%25A7%25E8%25AA%25AD%25E3%2581%25BF%25E9%2581%2595%25E3%2581%2588%25E3%2582%258B%25E8%258B%25B1%25E5%258D%2598%25E8%25AA%259E22%25E9%2581%25B8%25EF%25BC%259Asignificant%2520%25E3%2581%25AF%25E3%2580%258C%25E9%2587%258D%25E8%25A6%2581%25E3%2581%25AA%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Matthew%2520%257C%2520Cortex%2520D...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3p1Z0dQekR0bUh1dmlJOWNTRlduOWlDenNLSkljbVBHU243MUhkbUtRN2dfWUVOekljUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--86ivJuQm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MICE%25E3%2583%25BBMissForest%2520%25E3%2581%25A8%25E6%25AC%25A0%25E6%2590%258D%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B8%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25BF%2520%25E2%2580%2594%2520%25E6%25AC%25A0%25E6%2590%258D%25E5%2580%25A4%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25AE%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%2581%25E3%2583%25AD%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxYTU0MzZmMjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "Databricks Feature Viewsと僕の妄想",
-          "link": "https://zenn.dev/hirayuki/articles/6789989fe7cd6a",
-          "description": "Databricks Feature Viewsとは？ Databricks Feature Viewsというものが1ヶ月以上前なのですが、 Previewされました。 https://docs.databricks.com/aws/en/machine-learning/feature-store/feature-views 最初の感想は正直いうと、なんこれ？・・・いる？・・・このご時世に・・・ （4年前くらいにあったFeature Storeも最近聞かないし・・・ 今この時期にFeature Engineering・・・？ って思いました。 けど、ある日ふっと思ったわけです。 「...",
-          "content": "Databricks Feature Viewsとは？ Databricks Feature Viewsというものが1ヶ月以上前なのですが、 Previewされました。 https://docs.databricks.com/aws/en/machine-learning/feature-store/feature-views 最初の感想は正直いうと、なんこれ？・・・いる？・・・このご時世に・・・ （4年前くらいにあったFeature Storeも最近聞かないし・・・ 今この時期にFeature Engineering・・・？ って思いました。 けど、ある日ふっと思ったわけです。 「...",
-          "pubDate": "Thu, 08 Oct 2026 10:43:09 GMT",
-          "guid": "https://zenn.dev/hirayuki/articles/6789989fe7cd6a",
+          "title": "RTX 3060でLLMの重み行列を約50分の1に圧縮した時、元の計算は再現するのか",
+          "link": "https://zenn.dev/skot2km/articles/5007884357200f",
+          "description": "RTX 3060でLLMの重み行列を約50分の1に圧縮した時、元の計算は再現るのか はじめに 大切な事としてこの記事はLittleBit-2の最終性能を再現・評価するものではありません。家庭用GPUで実行できる初期圧縮の段階を切り出し、どの工程でどれだけ数値誤差が生じるかを調べた記録です。 ゲームのNPCに、ローカルLLMを使って自然な日本語で会話させたい。簡単に言えば自前でRaizaChatのようなシステムを作ってみたい。 ただし、使えるGPUはRTX 3060 12GB。ゲーム本体も同じPCで動かすので、VRAMには余裕がほしい。ついでに言うと友人にローカルLLMに触れてもら...",
+          "content": "RTX 3060でLLMの重み行列を約50分の1に圧縮した時、元の計算は再現るのか はじめに 大切な事としてこの記事はLittleBit-2の最終性能を再現・評価するものではありません。家庭用GPUで実行できる初期圧縮の段階を切り出し、どの工程でどれだけ数値誤差が生じるかを調べた記録です。 ゲームのNPCに、ローカルLLMを使って自然な日本語で会話させたい。簡単に言えば自前でRaizaChatのようなシステムを作ってみたい。 ただし、使えるGPUはRTX 3060 12GB。ゲーム本体も同じPCで動かすので、VRAMには余裕がほしい。ついでに言うと友人にローカルLLMに触れてもら...",
+          "pubDate": "Sun, 11 Oct 2026 10:46:05 GMT",
+          "guid": "https://zenn.dev/skot2km/articles/5007884357200f",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "Databricks Feature Viewsとは？ Databricks Feature Viewsというものが1ヶ月以上前なのですが、 Previewされました。 https://docs.databricks.com/aws/en/machine-learning/feature-store/feature-views 最初の感想は正直いうと、なんこれ？・・・いる？・・・このご時世に・・・ （4年前くらいにあったFeature ...",
+          "summary": "RTX 3060でLLMの重み行列を約50分の1に圧縮した時、元の計算は再現るのか はじめに 大切な事としてこの記事はLittleBit-2の最終性能を再現・評価するものではありません。家庭用GPUで実行できる初期圧縮の段階を切り出し、どの工程でどれだけ数値誤差が生じるかを調べた記録です。 ゲームのNPCに、ローカルLLMを使って自然な日本語で会話させたい。簡単に言えば自前でRaizaChatのようなシステムを作ってみたい。 ただし、使...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2162,25 +2162,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--qWzOcxRC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Databricks%2520Feature%2520Views%25E3%2581%25A8%25E5%2583%2595%25E3%2581%25AE%25E5%25A6%2584%25E6%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hirayuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEzYmU5ZDM0OTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--gOE7rcpj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RTX%25203060%25E3%2581%25A7LLM%25E3%2581%25AE%25E9%2587%258D%25E3%2581%25BF%25E8%25A1%258C%25E5%2588%2597%25E3%2582%2592%25E7%25B4%258450%25E5%2588%2586%25E3%2581%25AE1%25E3%2581%25AB%25E5%259C%25A7%25E7%25B8%25AE%25E3%2581%2597%25E3%2581%259F%25E6%2599%2582%25E3%2580%2581%25E5%2585%2583%25E3%2581%25AE%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%25AF%25E5%2586%258D%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%25A2%25E3%2583%2596%25E3%2581%258A%25E3%2581%2598%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk03QUtvZmt3SzhvOVZjcGNFa1h4TldwOVJYYVpDcUpuU3NTaVRYbTN3TzFzRWp3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "EmbeddingGemma 2の検索評価：量子化の数値誤差と正解資料の順位を分ける",
-          "link": "https://zenn.dev/tsukaima_kobo/articles/f424d79491b4fb",
-          "description": "EmbeddingGemma 2の導入を判断するには、実装が参照モデルの出力に近いことと、検索で欲しい資料が見つかることを、それぞれ確かめる必要がある。正解と負例のスコアが近ければ、小さなベクトル差でも順位は変わる。 この記事では、MLX-VLM作者の数値検証をどう読むか、正解資料と難しい負例を持つ評価データをどう作るかを考える。最後に、手入力の合成ベクトルで「数値差が小さくても順位が逆転する」例を純Pythonで再現する。 実行したのは合成ベクトルの評価コードだけ。EmbeddingGemma 2本体、BF16・4bit推論、日本語の検索品質、実RAMや速度は測定していない。 新モ...",
-          "content": "EmbeddingGemma 2の導入を判断するには、実装が参照モデルの出力に近いことと、検索で欲しい資料が見つかることを、それぞれ確かめる必要がある。正解と負例のスコアが近ければ、小さなベクトル差でも順位は変わる。 この記事では、MLX-VLM作者の数値検証をどう読むか、正解資料と難しい負例を持つ評価データをどう作るかを考える。最後に、手入力の合成ベクトルで「数値差が小さくても順位が逆転する」例を純Pythonで再現する。 実行したのは合成ベクトルの評価コードだけ。EmbeddingGemma 2本体、BF16・4bit推論、日本語の検索品質、実RAMや速度は測定していない。 新モ...",
-          "pubDate": "Thu, 08 Oct 2026 05:04:59 GMT",
-          "guid": "https://zenn.dev/tsukaima_kobo/articles/f424d79491b4fb",
+          "title": "文字列を生成しないモデル Jev の仕組み",
+          "link": "https://zenn.dev/kazunorishinoya/articles/jev-system-one",
+          "description": "チャットモデルは人間と話すためのものです。TypeSafe AIは「自動化はどこにあるのか」と問いかけ、System Oneモデルと、その最初のモデルJevを発表しました。2026年9月15日に早期アクセス版として公開されています（公式ブログ）。Jevは文章を生成しません。状態（state）を受け取り、型の付いた確率的な判定を返します。 TypeSafeは、チャットモデルが自動化に向かない理由を挙げています。frontierモデルでは応答に3〜329秒かかり、コードに組み込むとボトルネックになります。応答が文字列のため、使う前にパースと検証が必要です。自由度が高いぶん脱線の危険も残り、人...",
+          "content": "チャットモデルは人間と話すためのものです。TypeSafe AIは「自動化はどこにあるのか」と問いかけ、System Oneモデルと、その最初のモデルJevを発表しました。2026年9月15日に早期アクセス版として公開されています（公式ブログ）。Jevは文章を生成しません。状態（state）を受け取り、型の付いた確率的な判定を返します。 TypeSafeは、チャットモデルが自動化に向かない理由を挙げています。frontierモデルでは応答に3〜329秒かかり、コードに組み込むとボトルネックになります。応答が文字列のため、使う前にパースと検証が必要です。自由度が高いぶん脱線の危険も残り、人...",
+          "pubDate": "Sun, 11 Oct 2026 08:34:29 GMT",
+          "guid": "https://zenn.dev/kazunorishinoya/articles/jev-system-one",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "EmbeddingGemma 2の導入を判断するには、実装が参照モデルの出力に近いことと、検索で欲しい資料が見つかることを、それぞれ確かめる必要がある。正解と負例のスコアが近ければ、小さなベクトル差でも順位は変わる。 この記事では、MLX-VLM作者の数値検証をどう読むか、正解資料と難しい負例を持つ評価データをどう作るかを考える。最後に、手入力の合成ベクトルで「数値差が小さくても順位が逆転する」例を純Pythonで再現する。 実行したの...",
+          "summary": "チャットモデルは人間と話すためのものです。TypeSafe AIは「自動化はどこにあるのか」と問いかけ、System Oneモデルと、その最初のモデルJevを発表しました。2026年9月15日に早期アクセス版として公開されています（公式ブログ）。Jevは文章を生成しません。状態（state）を受け取り、型の付いた確率的な判定を返します。 TypeSafeは、チャットモデルが自動化に向かない理由を挙げています。frontierモデルでは応...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2190,25 +2190,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--wzaD6OoE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:EmbeddingGemma%25202%25E3%2581%25AE%25E6%25A4%259C%25E7%25B4%25A2%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%259A%25E9%2587%258F%25E5%25AD%2590%25E5%258C%2596%25E3%2581%25AE%25E6%2595%25B0%25E5%2580%25A4%25E8%25AA%25A4%25E5%25B7%25AE%25E3%2581%25A8%25E6%25AD%25A3%25E8%25A7%25A3%25E8%25B3%2587%25E6%2596%2599%25E3%2581%25AE%25E9%25A0%2586%25E4%25BD%258D%25E3%2582%2592%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BD%25BF%25E3%2581%2584%25E9%25AD%2594%25E5%25B7%25A5%25E6%2588%25BF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiZTViMTJhODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--tI-e7P88--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%2587%25E5%25AD%2597%25E5%2588%2597%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2520Jev%2520%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kazunori%2520Shinoya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkdTZW12MkxVVlV1T2h5V05uR1ZkRlRrbnVrXzB6ZXQ2Wm5URy1EZ2h2dHBobTh3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "同じ公式データなのに数字が違う。入力の出どころを残す",
-          "link": "https://zenn.dev/data_boatrace/articles/776e57b24fc484",
-          "description": "モデルの金額を精算できても、モデルへ渡した数字の説明ができるとは限りません。 第6回で使用した2026年1月8日・戸田1Rを確認したところ、配布Bと公式Web出走表で当地勝率が一致しませんでした。1号艇はBが6.88、Webが6.76です。6艇中5艇に差がありました。 今回の結論を先に書くと、差は再現できましたが、原因は確定していません。 原因を推測で埋める代わりに、何を入力に使ったか、どこが一致しなかったかを記録します。 「公式だから同じ」と決めつけない 照合したのは、同じ日付・場・レースにある次の情報です。 登録番号 艇番 全国勝率 当地勝率 モーター2連率 最初に登録番号を...",
-          "content": "モデルの金額を精算できても、モデルへ渡した数字の説明ができるとは限りません。 第6回で使用した2026年1月8日・戸田1Rを確認したところ、配布Bと公式Web出走表で当地勝率が一致しませんでした。1号艇はBが6.88、Webが6.76です。6艇中5艇に差がありました。 今回の結論を先に書くと、差は再現できましたが、原因は確定していません。 原因を推測で埋める代わりに、何を入力に使ったか、どこが一致しなかったかを記録します。 「公式だから同じ」と決めつけない 照合したのは、同じ日付・場・レースにある次の情報です。 登録番号 艇番 全国勝率 当地勝率 モーター2連率 最初に登録番号を...",
-          "pubDate": "Thu, 08 Oct 2026 03:00:06 GMT",
-          "guid": "https://zenn.dev/data_boatrace/articles/776e57b24fc484",
+          "title": "生成AI、正直よくわかってないので機械学習の基礎から勉強することにした",
+          "link": "https://zenn.dev/ok_ml/articles/dfb0c4e9d09f10",
+          "description": "はじめに ここ数年、生成AIの進化は本当に速く、新しいモデルやサービスが次々に登場しています。 ChatGPTやClaudeなどの生成AIは普段から使っていますし、新しいものが出れば、とりあえず触ってみることもあります。 ただ、以前からずっと気になっていたことがあります。 新しいモデルが出るたびに「すごい」とは思うものの、具体的に何がすごいのか、以前のモデルと何が違うのかを、自分の知識をもとに判断できていないということです。 SNSで話題になっているモデルを試してみて、「前より賢くなった気がする」「かなり性能が上がったらしい」と感じる。けれど、その変化がどのような技術によるものなのか...",
+          "content": "はじめに ここ数年、生成AIの進化は本当に速く、新しいモデルやサービスが次々に登場しています。 ChatGPTやClaudeなどの生成AIは普段から使っていますし、新しいものが出れば、とりあえず触ってみることもあります。 ただ、以前からずっと気になっていたことがあります。 新しいモデルが出るたびに「すごい」とは思うものの、具体的に何がすごいのか、以前のモデルと何が違うのかを、自分の知識をもとに判断できていないということです。 SNSで話題になっているモデルを試してみて、「前より賢くなった気がする」「かなり性能が上がったらしい」と感じる。けれど、その変化がどのような技術によるものなのか...",
+          "pubDate": "Sun, 11 Oct 2026 07:26:41 GMT",
+          "guid": "https://zenn.dev/ok_ml/articles/dfb0c4e9d09f10",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "モデルの金額を精算できても、モデルへ渡した数字の説明ができるとは限りません。 第6回で使用した2026年1月8日・戸田1Rを確認したところ、配布Bと公式Web出走表で当地勝率が一致しませんでした。1号艇はBが6.88、Webが6.76です。6艇中5艇に差がありました。 今回の結論を先に書くと、差は再現できましたが、原因は確定していません。 原因を推測で埋める代わりに、何を入力に使ったか、どこが一致しなかったかを記録します。 「公式だから...",
+          "summary": "はじめに ここ数年、生成AIの進化は本当に速く、新しいモデルやサービスが次々に登場しています。 ChatGPTやClaudeなどの生成AIは普段から使っていますし、新しいものが出れば、とりあえず触ってみることもあります。 ただ、以前からずっと気になっていたことがあります。 新しいモデルが出るたびに「すごい」とは思うものの、具体的に何がすごいのか、以前のモデルと何が違うのかを、自分の知識をもとに判断できていないということです。 SNSで話...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2218,25 +2218,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--2K5xEw32--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2590%258C%25E3%2581%2598%25E5%2585%25AC%25E5%25BC%258F%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E6%2595%25B0%25E5%25AD%2597%25E3%2581%258C%25E9%2581%2595%25E3%2581%2586%25E3%2580%2582%25E5%2585%25A5%25E5%258A%259B%25E3%2581%25AE%25E5%2587%25BA%25E3%2581%25A9%25E3%2581%2593%25E3%2582%258D%25E3%2582%2592%25E6%25AE%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25A7%25E8%25A6%258B%25E3%2582%258B%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVh3SHFLZDdVVFJzeHBjc050RmVrbVhGZ2JDYXJjLVZwZ0ZFZHZYV3h6em5Ydj1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--w4DnMa5q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4%25E3%2582%2588%25E3%2581%258F%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25A7%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2581%258B%25E3%2582%2589%25E5%258B%2589%25E5%25BC%25B7%25E3%2581%2599%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sai%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMxZDhhMzYxNTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "KaggleっぽいSelf-Play RLの論文を紹介",
-          "link": "https://zenn.dev/mkj/articles/generals-io-self-play-rl",
-          "description": "はじめに こんにちは、松尾研究所の奥村です。 最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。他のジャンルにはない中毒性があると思っています。 今回は、先月開催されたRLVG 2026というワークショップで発表された、シミュレーションコンペのようなSelf-Play RLに関する論文...",
-          "content": "はじめに こんにちは、松尾研究所の奥村です。 最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。他のジャンルにはない中毒性があると思っています。 今回は、先月開催されたRLVG 2026というワークショップで発表された、シミュレーションコンペのようなSelf-Play RLに関する論文...",
-          "pubDate": "Thu, 08 Oct 2026 02:50:05 GMT",
-          "guid": "https://zenn.dev/mkj/articles/generals-io-self-play-rl",
+          "title": "学習なしで需要予測できる Chronos-2 に、ウォルマートの販売データを予測させてみた",
+          "link": "https://zenn.dev/aws_japan/articles/chronos2-retail-demand-forecast-m5",
+          "description": "はじめに こんにちは！ AWS でソリューションアーキテクトをしている齋藤 拓巳です。 小売の需要予測の相談で、現場の方から最初に出てくる質問はだいたい決まっています。「来週セールをやるんですが、それは考慮できますか」「新商品はデータがないんですが」「SKU が 3 万あるんですが、全部モデルを作るんですか」。 2025 年 10 月に公開された時系列基盤モデル Chronos-2 は、この 3 つの課題に対応できる設計になっています。学習なし（ゼロショット）で動き、価格や販促、祝日といった 共変量（covariates） を入力でき、複数系列の文脈をまとめて読む in-contex...",
+          "content": "はじめに こんにちは！ AWS でソリューションアーキテクトをしている齋藤 拓巳です。 小売の需要予測の相談で、現場の方から最初に出てくる質問はだいたい決まっています。「来週セールをやるんですが、それは考慮できますか」「新商品はデータがないんですが」「SKU が 3 万あるんですが、全部モデルを作るんですか」。 2025 年 10 月に公開された時系列基盤モデル Chronos-2 は、この 3 つの課題に対応できる設計になっています。学習なし（ゼロショット）で動き、価格や販促、祝日といった 共変量（covariates） を入力でき、複数系列の文脈をまとめて読む in-contex...",
+          "pubDate": "Sun, 11 Oct 2026 04:22:47 GMT",
+          "guid": "https://zenn.dev/aws_japan/articles/chronos2-retail-demand-forecast-m5",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに こんにちは、松尾研究所の奥村です。 最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。他のジャンルにはない中毒性があると思って...",
+          "summary": "はじめに こんにちは！ AWS でソリューションアーキテクトをしている齋藤 拓巳です。 小売の需要予測の相談で、現場の方から最初に出てくる質問はだいたい決まっています。「来週セールをやるんですが、それは考慮できますか」「新商品はデータがないんですが」「SKU が 3 万あるんですが、全部モデルを作るんですか」。 2025 年 10 月に公開された時系列基盤モデル Chronos-2 は、この 3 つの課題に対応できる設計になっています。...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2246,13 +2246,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--1LJVTCCP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584Self-Play%2520RL%25E3%2581%25AE%25E8%25AB%2596%25E6%2596%2587%25E3%2582%2592%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okumura%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NhZjJkMTA5ZjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--rzfBEPqy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E9%259C%2580%25E8%25A6%2581%25E4%25BA%2588%25E6%25B8%25AC%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%2520Chronos-2%2520%25E3%2581%25AB%25E3%2580%2581%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25AB%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AE%25E8%25B2%25A9%25E5%25A3%25B2%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E4%25BA%2588%25E6%25B8%25AC%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Takumi%2520Saito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRjNzYzZjc1MzAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1791729088949,
+      "lastUpdated": 1791754075694,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791729089085,
+      "lastUpdated": 1791754075736,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791729089141,
+      "lastUpdated": 1791754075782,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791729089294,
+      "lastUpdated": 1791754075820,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791729089355,
+      "lastUpdated": 1791754075868,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791729089494,
+      "lastUpdated": 1791754075917,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
