@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791768607798,
+      "lastUpdated": 1791776129731,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg"
         }
       ],
-      "lastUpdated": 1791768608299,
+      "lastUpdated": 1791776130028,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1104,6 +1104,29 @@
       "url": "https://note.com/npaka/rss",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "Google Colab の Qwen3.8-27B をローカルのPiで利用する方法",
+          "link": "https://note.com/npaka/n/n431d99ea7570",
+          "description": "<p name=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\" id=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\">Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\" id=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\"><blockquote><p name=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\" id=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\"><strong>・セットアップ：約10分<br>・ブロック崩し作成：約22.6秒（piの計測）</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n431d99ea7570\">続きをみる</a>",
+          "content": "<p name=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\" id=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\">Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\" id=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\"><blockquote><p name=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\" id=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\"><strong>・セットアップ：約10分<br>・ブロック崩し作成：約22.6秒（piの計測）</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n431d99ea7570\">続きをみる</a>",
+          "pubDate": "Mon, 12 Oct 2026 09:18:08 +0900",
+          "guid": "https://note.com/npaka/n/n431d99ea7570",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。・セットアップ：約10分・ブロック崩し作成：約22.6秒（piの計測） 続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "ロボットは肉体労働の74%を実行可能、しかし人間より安いのは0.3% - Anthropicの調査",
           "link": "https://note.com/npaka/n/nec2c2032850c",
@@ -1655,32 +1678,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Google Colab の Qwen3.8-27B をローカルのPiで利用する方法",
-          "link": "https://note.com/npaka/n/n431d99ea7570",
-          "description": "<p name=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\" id=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\">Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\" id=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\"><blockquote><p name=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\" id=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\"><strong>・セットアップ：約10分<br>・ブロック崩し作成：約22.6秒（piの計測）</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n431d99ea7570\">続きをみる</a>",
-          "content": "<p name=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\" id=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\">Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\" id=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\"><blockquote><p name=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\" id=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\"><strong>・セットアップ：約10分<br>・ブロック崩し作成：約22.6秒（piの計測）</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n431d99ea7570\">続きをみる</a>",
-          "pubDate": "Mon, 12 Oct 2026 09:18:08 +0900",
-          "guid": "https://note.com/npaka/n/n431d99ea7570",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。・セットアップ：約10分・ブロック崩し作成：約22.6秒（piの計測） 続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1791768608443,
+      "lastUpdated": 1791776130089,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1791768608532,
+      "lastUpdated": 1791776130136,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791768608809,
+      "lastUpdated": 1791776130159,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791768608948,
+      "lastUpdated": 1791776130185,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791768609028,
+      "lastUpdated": 1791776130212,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791768609082,
+      "lastUpdated": 1791776130235,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791768609113,
+      "lastUpdated": 1791776130254,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
