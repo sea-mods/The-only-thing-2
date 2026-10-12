@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791764984076,
+      "lastUpdated": 1791768607798,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg"
         }
       ],
-      "lastUpdated": 1791764984675,
+      "lastUpdated": 1791768608299,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "Claude Sonnet 5.5 の概要",
-          "link": "https://note.com/npaka/n/ncb7b4c63e455",
-          "description": "<p name=\"596778e2-519d-4bcc-a124-6c71f7d97c0f\" id=\"596778e2-519d-4bcc-a124-6c71f7d97c0f\">「Claude Sonnet 5.5」の概要をまとめました。</p><figure name=\"76077856-9ae2-4958-ad79-5f5501892a7d\" id=\"76077856-9ae2-4958-ad79-5f5501892a7d\"><blockquote><p name=\"93e5c815-7cf8-4315-929e-53289c111d43\" id=\"93e5c815-7cf8-4315-929e-53289c111d43\"><strong>・</strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\" target=\"_blank\" rel=\"nofollow noopener\"><strong>Claude Sonnet 5.5</strong></a></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/ncb7b4c63e455\">続きをみる</a>",
-          "content": "<p name=\"596778e2-519d-4bcc-a124-6c71f7d97c0f\" id=\"596778e2-519d-4bcc-a124-6c71f7d97c0f\">「Claude Sonnet 5.5」の概要をまとめました。</p><figure name=\"76077856-9ae2-4958-ad79-5f5501892a7d\" id=\"76077856-9ae2-4958-ad79-5f5501892a7d\"><blockquote><p name=\"93e5c815-7cf8-4315-929e-53289c111d43\" id=\"93e5c815-7cf8-4315-929e-53289c111d43\"><strong>・</strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\" target=\"_blank\" rel=\"nofollow noopener\"><strong>Claude Sonnet 5.5</strong></a></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/ncb7b4c63e455\">続きをみる</a>",
-          "pubDate": "Tue, 29 Sep 2026 06:45:46 +0900",
-          "guid": "https://note.com/npaka/n/ncb7b4c63e455",
+          "title": "Google Colab の Qwen3.8-27B をローカルのPiで利用する方法",
+          "link": "https://note.com/npaka/n/n431d99ea7570",
+          "description": "<p name=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\" id=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\">Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\" id=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\"><blockquote><p name=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\" id=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\"><strong>・セットアップ：約10分<br>・ブロック崩し作成：約22.6秒（piの計測）</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n431d99ea7570\">続きをみる</a>",
+          "content": "<p name=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\" id=\"0b7af017-0980-49c4-bff7-ee9110f4baf0\">Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\" id=\"c0f141ab-9da1-44f4-847a-981ab2fc5d35\"><blockquote><p name=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\" id=\"d9a9ac95-9d90-47e3-be49-4a1ba1fbda5a\"><strong>・セットアップ：約10分<br>・ブロック崩し作成：約22.6秒（piの計測）</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n431d99ea7570\">続きをみる</a>",
+          "pubDate": "Mon, 12 Oct 2026 09:18:08 +0900",
+          "guid": "https://note.com/npaka/n/n431d99ea7570",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "「Claude Sonnet 5.5」の概要をまとめました。・Claude Sonnet 5.5 続きをみる",
+          "summary": "Google ColabのA100で「Qwen3.8-27B」を動かし、ローカルの「Pi」から使ってみました。・セットアップ：約10分・ブロック崩し作成：約22.6秒（piの計測） 続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791764984839,
+      "lastUpdated": 1791768608443,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1791764984943,
+      "lastUpdated": 1791768608532,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791764984992,
+      "lastUpdated": 1791768608809,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791764985026,
+      "lastUpdated": 1791768608948,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791764985060,
+      "lastUpdated": 1791768609028,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791764985088,
+      "lastUpdated": 1791768609082,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791764985150,
+      "lastUpdated": 1791768609113,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
