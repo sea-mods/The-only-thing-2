@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791782981849,
+      "lastUpdated": 1791786583166,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg"
         }
       ],
-      "lastUpdated": 1791782982224,
+      "lastUpdated": 1791786583613,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "Ollama Benchmark Tool の使い方",
-          "link": "https://note.com/npaka/n/nf436fffa90da",
-          "description": "<p name=\"11426433-8993-44d7-b4b5-34b2f0e7775a\" id=\"11426433-8993-44d7-b4b5-34b2f0e7775a\">「Ollama Benchmark Tool」の使い方をまとめました。</p><table-of-contents name=\"c8256aa0-ddcb-4c59-91a7-4b0779562e86\" id=\"c8256aa0-ddcb-4c59-91a7-4b0779562e86\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nf436fffa90da\">続きをみる</a>",
-          "content": "<p name=\"11426433-8993-44d7-b4b5-34b2f0e7775a\" id=\"11426433-8993-44d7-b4b5-34b2f0e7775a\">「Ollama Benchmark Tool」の使い方をまとめました。</p><table-of-contents name=\"c8256aa0-ddcb-4c59-91a7-4b0779562e86\" id=\"c8256aa0-ddcb-4c59-91a7-4b0779562e86\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nf436fffa90da\">続きをみる</a>",
-          "pubDate": "Tue, 29 Sep 2026 14:56:04 +0900",
-          "guid": "https://note.com/npaka/n/nf436fffa90da",
+          "title": "ローカルLLMの無検閲化とは？ 3つの手法と性能・安全性への影響",
+          "link": "https://note.com/npaka/n/ndf0640b53e36",
+          "description": "<p name=\"210f98d7-0d7f-4696-89eb-fc8284b97d80\" id=\"210f98d7-0d7f-4696-89eb-fc8284b97d80\">ローカルLLMの無検閲化についてまとめました。</p><table-of-contents name=\"ed35cb00-5b15-4253-af93-54efeeca3bc1\" id=\"ed35cb00-5b15-4253-af93-54efeeca3bc1\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/ndf0640b53e36\">続きをみる</a>",
+          "content": "<p name=\"210f98d7-0d7f-4696-89eb-fc8284b97d80\" id=\"210f98d7-0d7f-4696-89eb-fc8284b97d80\">ローカルLLMの無検閲化についてまとめました。</p><table-of-contents name=\"ed35cb00-5b15-4253-af93-54efeeca3bc1\" id=\"ed35cb00-5b15-4253-af93-54efeeca3bc1\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/ndf0640b53e36\">続きをみる</a>",
+          "pubDate": "Mon, 12 Oct 2026 14:35:50 +0900",
+          "guid": "https://note.com/npaka/n/ndf0640b53e36",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "「Ollama Benchmark Tool」の使い方をまとめました。続きをみる",
+          "summary": "ローカルLLMの無検閲化についてまとめました。続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791782982271,
+      "lastUpdated": 1791786583703,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1791782982321,
+      "lastUpdated": 1791786583793,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791782982345,
+      "lastUpdated": 1791786583835,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791782982363,
+      "lastUpdated": 1791786583888,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791782982410,
+      "lastUpdated": 1791786583956,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791782982430,
+      "lastUpdated": 1791786584051,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791782982458,
+      "lastUpdated": 1791786584087,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
