@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791776129731,
+      "lastUpdated": 1791780050488,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg"
         }
       ],
-      "lastUpdated": 1791776130028,
+      "lastUpdated": 1791780050861,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "Ollamaのモデルのダウンロードが不安定なときの対処法",
-          "link": "https://note.com/npaka/n/n379958d8acdc",
-          "description": "<p name=\"d07a5ae5-8c1d-4f1d-a651-d904d66191b5\" id=\"d07a5ae5-8c1d-4f1d-a651-d904d66191b5\">Ollamaのモデルのダウンロードが不安定なときの対処法をまとめました。</p><table-of-contents name=\"a986284e-c4c2-4a2b-8745-c42b64124dce\" id=\"a986284e-c4c2-4a2b-8745-c42b64124dce\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n379958d8acdc\">続きをみる</a>",
-          "content": "<p name=\"d07a5ae5-8c1d-4f1d-a651-d904d66191b5\" id=\"d07a5ae5-8c1d-4f1d-a651-d904d66191b5\">Ollamaのモデルのダウンロードが不安定なときの対処法をまとめました。</p><table-of-contents name=\"a986284e-c4c2-4a2b-8745-c42b64124dce\" id=\"a986284e-c4c2-4a2b-8745-c42b64124dce\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n379958d8acdc\">続きをみる</a>",
-          "pubDate": "Tue, 29 Sep 2026 12:17:18 +0900",
-          "guid": "https://note.com/npaka/n/n379958d8acdc",
+          "title": "Google Colab の Strata+Qwen3.8-Flash-Next をローカルのPiで利用する方法",
+          "link": "https://note.com/npaka/n/n7e46a3c2752d",
+          "description": "<p name=\"73740774-644d-4d10-817c-234891249a3f\" id=\"73740774-644d-4d10-817c-234891249a3f\">Google ColabのA100で、Strataを使って「Qwen3.8-Flash-Next」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"984cb812-cc82-44d5-9f61-6eca139b6fbf\" id=\"984cb812-cc82-44d5-9f61-6eca139b6fbf\"><blockquote><p name=\"8c0c4425-c7e8-40dd-b6e3-8e4ea4b37980\" id=\"8c0c4425-c7e8-40dd-b6e3-8e4ea4b37980\"><strong>・セットアップ：約26分<br>・猫の3Dモデル作成：約1分</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n7e46a3c2752d\">続きをみる</a>",
+          "content": "<p name=\"73740774-644d-4d10-817c-234891249a3f\" id=\"73740774-644d-4d10-817c-234891249a3f\">Google ColabのA100で、Strataを使って「Qwen3.8-Flash-Next」を動かし、ローカルの「Pi」から使ってみました。</p><figure name=\"984cb812-cc82-44d5-9f61-6eca139b6fbf\" id=\"984cb812-cc82-44d5-9f61-6eca139b6fbf\"><blockquote><p name=\"8c0c4425-c7e8-40dd-b6e3-8e4ea4b37980\" id=\"8c0c4425-c7e8-40dd-b6e3-8e4ea4b37980\"><strong>・セットアップ：約26分<br>・猫の3Dモデル作成：約1分</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n7e46a3c2752d\">続きをみる</a>",
+          "pubDate": "Mon, 12 Oct 2026 12:20:58 +0900",
+          "guid": "https://note.com/npaka/n/n7e46a3c2752d",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "Ollamaのモデルのダウンロードが不安定なときの対処法をまとめました。続きをみる",
+          "summary": "Google ColabのA100で、Strataを使って「Qwen3.8-Flash-Next」を動かし、ローカルの「Pi」から使ってみました。・セットアップ：約26分・猫の3Dモデル作成：約1分 続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791776130089,
+      "lastUpdated": 1791780050932,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2140,19 +2140,19 @@
           }
         },
         {
-          "title": "半陽的微分代数方程式の解を微分する：VJP編",
-          "link": "https://zenn.dev/wheatear11/articles/c293bb49ad3ae7",
-          "description": "概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \\in \\mathbb{R}^{N_x}と y_1, \\dot y_1 \\in \\mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \\dot y_1) と与えられていて、x_1, y_1, \\dot y_1が指数1の半陽的微分代数方程式の初期値問題 \\begin{align*} \\dot y &= f(t, x, y; \\alpha) \\\\...",
-          "content": "概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \\in \\mathbb{R}^{N_x}と y_1, \\dot y_1 \\in \\mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \\dot y_1) と与えられていて、x_1, y_1, \\dot y_1が指数1の半陽的微分代数方程式の初期値問題 \\begin{align*} \\dot y &= f(t, x, y; \\alpha) \\\\...",
-          "pubDate": "Thu, 08 Oct 2026 17:45:45 GMT",
-          "guid": "https://zenn.dev/wheatear11/articles/c293bb49ad3ae7",
+          "title": "「2040年にロボティクスは終わる」Jim Fanが描くロボットAIの終着点を要点解説",
+          "link": "https://zenn.dev/talks_tldr_jp/articles/tldr05-jimfan-summary",
+          "description": "この記事について NVIDIA の Jim Fan が Sequoia AI Ascent で語ったロボティクスの講演を、要点だけ抜き出して日本語で解説します。ロボットAIの最前線から「終着点」までを大胆に描く回です。 ! 本記事は元動画の全文翻訳ではなく、紹介と論評を目的として筆者が要点を抜き出し、筆者の見解を主体に構成したものです。正確なニュアンスは元動画（Sequoia AI Ascent / Jim Fan）をご覧ください。 テーマ1：動画生成AIから「世界モデル」が生まれる わずか6年・3ステップでLLMがここまで来た経緯を、Ilya Sutskever の言葉とと...",
+          "content": "この記事について NVIDIA の Jim Fan が Sequoia AI Ascent で語ったロボティクスの講演を、要点だけ抜き出して日本語で解説します。ロボットAIの最前線から「終着点」までを大胆に描く回です。 ! 本記事は元動画の全文翻訳ではなく、紹介と論評を目的として筆者が要点を抜き出し、筆者の見解を主体に構成したものです。正確なニュアンスは元動画（Sequoia AI Ascent / Jim Fan）をご覧ください。 テーマ1：動画生成AIから「世界モデル」が生まれる わずか6年・3ステップでLLMがここまで来た経緯を、Ilya Sutskever の言葉とと...",
+          "pubDate": "Mon, 12 Oct 2026 01:00:12 GMT",
+          "guid": "https://zenn.dev/talks_tldr_jp/articles/tldr05-jimfan-summary",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \\in \\mathbb{R}^{N_x}と y_1, \\dot y_1 \\in \\mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \\dot y_1) と与えられていて、x_1, y_1, \\dot y_1が...",
+          "summary": "この記事について NVIDIA の Jim Fan が Sequoia AI Ascent で語ったロボティクスの講演を、要点だけ抜き出して日本語で解説します。ロボットAIの最前線から「終着点」までを大胆に描く回です。 ! 本記事は元動画の全文翻訳ではなく、紹介と論評を目的として筆者が要点を抜き出し、筆者の見解を主体に構成したものです。正確なニュアンスは元動画（Sequoia AI Ascent / Jim Fan）をご覧ください。 テ...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2162,25 +2162,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--VBmC1nrh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258D%258A%25E9%2599%25BD%25E7%259A%2584%25E5%25BE%25AE%25E5%2588%2586%25E4%25BB%25A3%25E6%2595%25B0%25E6%2596%25B9%25E7%25A8%258B%25E5%25BC%258F%25E3%2581%25AE%25E8%25A7%25A3%25E3%2582%2592%25E5%25BE%25AE%25E5%2588%2586%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259AVJP%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wheatear11%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXh0M0xKbHMzWmVWM1UwTDk2VkZIWHprM21PbE00YTZRcGNqZHlrUnlfPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--fiNe1Q35--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C2040%25E5%25B9%25B4%25E3%2581%25AB%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%25AF%25E7%25B5%2582%25E3%2582%258F%25E3%2582%258B%25E3%2580%258DJim%2520Fan%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588AI%25E3%2581%25AE%25E7%25B5%2582%25E7%259D%2580%25E7%2582%25B9%25E3%2582%2592%25E8%25A6%2581%25E7%2582%25B9%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%25AE%25A1%25E7%2590%2586%25E4%25BA%25BAK%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NmMmY3NjQ3NjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "CLIPを実装目線で理解する：対称Contrastive Lossとzero-shot分類",
-          "link": "https://zenn.dev/kas_blog/articles/20260509-llm-32-clip",
-          "description": "CLIPの実装は、画像とtextをencodeして内積を取るだけに見えます。しかし、その内積を何に対して分類lossへ変えるのか、学習時のlogitsとzero-shot推論時のlogitsがどう対応するのかを追わないと、logit_scaleやpromptの役割を誤解しやすくなります。 先に結論を示すと、CLIPは次の三つの計算へ分けると読みやすくなります。 画像とtextを別々のencoderで処理し、同じ次元の正規化vectorへ写す batch内の全組み合わせからN\\times N logitsを作り、対角要素を正解にする 推論時はclass promptのtext embed...",
-          "content": "CLIPの実装は、画像とtextをencodeして内積を取るだけに見えます。しかし、その内積を何に対して分類lossへ変えるのか、学習時のlogitsとzero-shot推論時のlogitsがどう対応するのかを追わないと、logit_scaleやpromptの役割を誤解しやすくなります。 先に結論を示すと、CLIPは次の三つの計算へ分けると読みやすくなります。 画像とtextを別々のencoderで処理し、同じ次元の正規化vectorへ写す batch内の全組み合わせからN\\times N logitsを作り、対角要素を正解にする 推論時はclass promptのtext embed...",
-          "pubDate": "Thu, 08 Oct 2026 17:25:51 GMT",
-          "guid": "https://zenn.dev/kas_blog/articles/20260509-llm-32-clip",
+          "title": "画像はどうやってベクトルになるのか — 正解の画像でも類似度が 0.5 に届かない理由",
+          "link": "https://zenn.dev/kotap/articles/clip-image-embedding",
+          "description": "テキストをベクトルにする話はよく見るが、画像はどうやってベクトルになるのか。 この記事では CLIP を手元で動かし、中間の値を実際に取り出しながら処理を追う。後半では、テキストで画像を検索したときのスコアが実際にどう分布するかを MS-COCO の 1,000 枚で測る。 スコアには、2 つのベクトルの向きがどれだけ揃っているかを表す コサイン類似度（以下 cos）を使う。同じ向きなら 1、直交していれば 0、逆向きなら −1。 実行は @huggingface/transformers（Transformers.js）のローカル推論。API キーは不要。使うモデルは Xenova/c...",
+          "content": "テキストをベクトルにする話はよく見るが、画像はどうやってベクトルになるのか。 この記事では CLIP を手元で動かし、中間の値を実際に取り出しながら処理を追う。後半では、テキストで画像を検索したときのスコアが実際にどう分布するかを MS-COCO の 1,000 枚で測る。 スコアには、2 つのベクトルの向きがどれだけ揃っているかを表す コサイン類似度（以下 cos）を使う。同じ向きなら 1、直交していれば 0、逆向きなら −1。 実行は @huggingface/transformers（Transformers.js）のローカル推論。API キーは不要。使うモデルは Xenova/c...",
+          "pubDate": "Mon, 12 Oct 2026 01:00:05 GMT",
+          "guid": "https://zenn.dev/kotap/articles/clip-image-embedding",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "CLIPの実装は、画像とtextをencodeして内積を取るだけに見えます。しかし、その内積を何に対して分類lossへ変えるのか、学習時のlogitsとzero-shot推論時のlogitsがどう対応するのかを追わないと、logit_scaleやpromptの役割を誤解しやすくなります。 先に結論を示すと、CLIPは次の三つの計算へ分けると読みやすくなります。 画像とtextを別々のencoderで処理し、同じ次元の正規化vectorへ...",
+          "summary": "テキストをベクトルにする話はよく見るが、画像はどうやってベクトルになるのか。 この記事では CLIP を手元で動かし、中間の値を実際に取り出しながら処理を追う。後半では、テキストで画像を検索したときのスコアが実際にどう分布するかを MS-COCO の 1,000 枚で測る。 スコアには、2 つのベクトルの向きがどれだけ揃っているかを表す コサイン類似度（以下 cos）を使う。同じ向きなら 1、直交していれば 0、逆向きなら −1。 実行...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2190,25 +2190,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--a7e_ynmz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLIP%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E7%259B%25AE%25E7%25B7%259A%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E5%25AF%25BE%25E7%25A7%25B0Contrastive%2520Loss%25E3%2581%25A8zero-shot%25E5%2588%2586%25E9%25A1%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kas%2527s%2520blog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTAxMWRjMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--j9c6nepC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%2520%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2581%25AE%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25A7%25E3%2582%2582%25E9%25A1%259E%25E4%25BC%25BC%25E5%25BA%25A6%25E3%2581%258C%25200.5%2520%25E3%2581%25AB%25E5%25B1%258A%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kota%2520Mizuno%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M0MDVjOGU4NTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "ChatGPTの中で動かす。スマホで体験できるAI関連シミュレーション50選",
-          "link": "https://zenn.dev/fibujrsl/articles/fb48005155d626",
-          "description": "はじめに 最近のChatGPTは、回答を読むだけでなく、チャット画面内でスライダーやグラフを操作できるようになってきました。 これが結構面白い。 これまではGoogle ColabでPythonを書いたり、Jupyter Notebookでグラフを描いたりしていたAIの学習教材も、簡単なものであればChatGPTのチャット画面内で再現できます。 例えば、学習率を変えるとニューラルネットワークの学習が発散する。Attentionの重みを変えると、単語同士の関連度が変わる。ノイズを増やすと画像が崩れていく。Q学習では、最初は迷路をうろうろしていたAIが、学習を重ねるとゴールを目指すように...",
-          "content": "はじめに 最近のChatGPTは、回答を読むだけでなく、チャット画面内でスライダーやグラフを操作できるようになってきました。 これが結構面白い。 これまではGoogle ColabでPythonを書いたり、Jupyter Notebookでグラフを描いたりしていたAIの学習教材も、簡単なものであればChatGPTのチャット画面内で再現できます。 例えば、学習率を変えるとニューラルネットワークの学習が発散する。Attentionの重みを変えると、単語同士の関連度が変わる。ノイズを増やすと画像が崩れていく。Q学習では、最初は迷路をうろうろしていたAIが、学習を重ねるとゴールを目指すように...",
-          "pubDate": "Thu, 08 Oct 2026 14:49:33 GMT",
-          "guid": "https://zenn.dev/fibujrsl/articles/fb48005155d626",
+          "title": "評価スクリプトだけが、4か月前のモデルを見ていた",
+          "link": "https://zenn.dev/kiribako_dev/articles/eval-pipeline-stale-detector",
+          "description": "個人開発でタナゴ釣果記録アプリ「KIRIBAKO」を作っています。写真から魚種を当てる 分類器を載せていて、今回ハゼに対応させました。 出荷前に「新しいモデルは本当に良くなっているか」を測り、数字が出て、出す判断をしました。 その数字が間違っていました。 モデルでもデータでもなく、測る側が壊れていた話です。 結論を先に書きます。 評価は、出荷する成果物そのものに当てる。 変換の中間生成物を指していると、 モデルを差し替えたときに評価系だけが古いまま取り残される。しかもそれは 「エラー」ではなく「もっともらしい数字」として出てくる。 測ったら、良い数字が出た アプリの分類器は 2...",
+          "content": "個人開発でタナゴ釣果記録アプリ「KIRIBAKO」を作っています。写真から魚種を当てる 分類器を載せていて、今回ハゼに対応させました。 出荷前に「新しいモデルは本当に良くなっているか」を測り、数字が出て、出す判断をしました。 その数字が間違っていました。 モデルでもデータでもなく、測る側が壊れていた話です。 結論を先に書きます。 評価は、出荷する成果物そのものに当てる。 変換の中間生成物を指していると、 モデルを差し替えたときに評価系だけが古いまま取り残される。しかもそれは 「エラー」ではなく「もっともらしい数字」として出てくる。 測ったら、良い数字が出た アプリの分類器は 2...",
+          "pubDate": "Sun, 11 Oct 2026 22:56:14 GMT",
+          "guid": "https://zenn.dev/kiribako_dev/articles/eval-pipeline-stale-detector",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 最近のChatGPTは、回答を読むだけでなく、チャット画面内でスライダーやグラフを操作できるようになってきました。 これが結構面白い。 これまではGoogle ColabでPythonを書いたり、Jupyter Notebookでグラフを描いたりしていたAIの学習教材も、簡単なものであればChatGPTのチャット画面内で再現できます。 例えば、学習率を変えるとニューラルネットワークの学習が発散する。Attentionの重みを変...",
+          "summary": "個人開発でタナゴ釣果記録アプリ「KIRIBAKO」を作っています。写真から魚種を当てる 分類器を載せていて、今回ハゼに対応させました。 出荷前に「新しいモデルは本当に良くなっているか」を測り、数字が出て、出す判断をしました。 その数字が間違っていました。 モデルでもデータでもなく、測る側が壊れていた話です。 結論を先に書きます。 評価は、出荷する成果物そのものに当てる。 変換の中間生成物を指していると、 モデルを差し替えたときに評価系だ...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2218,25 +2218,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--j0s2tEtc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ChatGPT%25E3%2581%25AE%25E4%25B8%25AD%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%25E3%2580%2582%25E3%2582%25B9%25E3%2583%259E%25E3%2583%259B%25E3%2581%25A7%25E4%25BD%2593%25E9%25A8%2593%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BAI%25E9%2596%25A2%25E9%2580%25A3%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B350%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%258D%25E5%2589%258D%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NmRmOWM2OTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--dA7xXAzG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A9%2595%25E4%25BE%25A1%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2588%25E3%2581%25A0%25E3%2581%2591%25E3%2581%258C%25E3%2580%25814%25E3%2581%258B%25E6%259C%2588%25E5%2589%258D%25E3%2581%25AE%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kiribako%2520project%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhZDQzYjY5NTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "【scikit-learn入門 #2】データの準備 ─ train_test_splitと標準化（StandardScaler）",
-          "link": "https://zenn.dev/haruhiro1020/articles/9fcd1b0e85dc9c",
-          "description": "はじめに 本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第2回です． 第1回では，すべての手法に共通する fit()（学習）→ predict()（予測） の流れを学びました． 第2回では，その学習に入る前の 「データの準備（前処理）」 を扱います． 地味な工程に見えますが，機械学習の精度はデータの準備で大きく決まります． 「良いモデルより，良いデータ」と言われるほど重要な工程なので，丁寧に押さえていきましょう． 私のscikit-learnライブラリのバージョンは \"1.5.2\" です． 本シリーズの構成 シリーズ構成予定（全11記事） インス...",
-          "content": "はじめに 本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第2回です． 第1回では，すべての手法に共通する fit()（学習）→ predict()（予測） の流れを学びました． 第2回では，その学習に入る前の 「データの準備（前処理）」 を扱います． 地味な工程に見えますが，機械学習の精度はデータの準備で大きく決まります． 「良いモデルより，良いデータ」と言われるほど重要な工程なので，丁寧に押さえていきましょう． 私のscikit-learnライブラリのバージョンは \"1.5.2\" です． 本シリーズの構成 シリーズ構成予定（全11記事） インス...",
-          "pubDate": "Thu, 08 Oct 2026 13:00:06 GMT",
-          "guid": "https://zenn.dev/haruhiro1020/articles/9fcd1b0e85dc9c",
+          "title": "競馬予想 AI で効いたのは、モデルより「市場のズレ」を学ぶ定式化だった",
+          "link": "https://zenn.dev/namespace/articles/keiba-ai-market-odds-residual",
+          "description": "競馬の予想アプリを作っています。約 93,000 レース分のデータを蓄積して、LightGBM で着順を予測するだけの、よくある個人開発です。 作り始めたころは「良いモデルを作れば勝てる」と思っていました。実際には違いました。モデルの精度を上げても回収率はほとんど動かず、効いたのは「何を予測対象にするか」の定式化のほうでした。 この記事はその話です。競馬に興味がなくても、「市場価格がすでに織り込んでいる情報をどう扱うか」という問題は、需要予測でも広告の入札でも同じ形で出てきます。 ! 馬券の購入は自己責任です。この記事は予測モデルの設計の話で、勝ち方の紹介ではありません。掲載している数値...",
+          "content": "競馬の予想アプリを作っています。約 93,000 レース分のデータを蓄積して、LightGBM で着順を予測するだけの、よくある個人開発です。 作り始めたころは「良いモデルを作れば勝てる」と思っていました。実際には違いました。モデルの精度を上げても回収率はほとんど動かず、効いたのは「何を予測対象にするか」の定式化のほうでした。 この記事はその話です。競馬に興味がなくても、「市場価格がすでに織り込んでいる情報をどう扱うか」という問題は、需要予測でも広告の入札でも同じ形で出てきます。 ! 馬券の購入は自己責任です。この記事は予測モデルの設計の話で、勝ち方の紹介ではありません。掲載している数値...",
+          "pubDate": "Sun, 11 Oct 2026 16:03:20 GMT",
+          "guid": "https://zenn.dev/namespace/articles/keiba-ai-market-odds-residual",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第2回です． 第1回では，すべての手法に共通する fit()（学習）→ predict()（予測） の流れを学びました． 第2回では，その学習に入る前の 「データの準備（前処理）」 を扱います． 地味な工程に見えますが，機械学習の精度はデータの準備で大きく決まります． 「良いモデルより，良いデータ」と言われるほど重要な工程なので，丁寧に押さえていきま...",
+          "summary": "競馬の予想アプリを作っています。約 93,000 レース分のデータを蓄積して、LightGBM で着順を予測するだけの、よくある個人開発です。 作り始めたころは「良いモデルを作れば勝てる」と思っていました。実際には違いました。モデルの精度を上げても回収率はほとんど動かず、効いたのは「何を予測対象にするか」の定式化のほうでした。 この記事はその話です。競馬に興味がなくても、「市場価格がすでに織り込んでいる情報をどう扱うか」という問題は、需...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2246,13 +2246,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--FlN_Y0jj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590scikit-learn%25E5%2585%25A5%25E9%2596%2580%2520%25232%25E3%2580%2591%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E6%25BA%2596%25E5%2582%2599%2520%25E2%2594%2580%2520train_test_split%25E3%2581%25A8%25E6%25A8%2599%25E6%25BA%2596%25E5%258C%2596%25EF%25BC%2588Standard...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruhiro1020%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkMDA5OGRkNjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--D5GBWBh_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25AB%25B6%25E9%25A6%25AC%25E4%25BA%2588%25E6%2583%25B3%2520AI%2520%25E3%2581%25A7%25E5%258A%25B9%25E3%2581%2584%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AF%25E3%2580%2581%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2588%25E3%2582%258A%25E3%2580%258C%25E5%25B8%2582%25E5%25A0%25B4%25E3%2581%25AE%25E3%2582%25BA%25E3%2583%25AC%25E3%2580%258D%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%25E5%25AE%259A%25E5%25BC%258F%25E5%258C%2596%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:namespace%2528%25E3%2583%258D%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25B9%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B9%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjBmSVpXeDZJX1FHYU8wUjJ0R3BwbGtMcGN6aHJickhNUk5qQ3dKald1T0MxTTYxYmk9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1791776130136,
+      "lastUpdated": 1791780051092,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791776130159,
+      "lastUpdated": 1791780051117,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791776130185,
+      "lastUpdated": 1791780051135,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791776130212,
+      "lastUpdated": 1791780051158,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1791776130235,
+      "lastUpdated": 1791780051301,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791776130254,
+      "lastUpdated": 1791780051320,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
