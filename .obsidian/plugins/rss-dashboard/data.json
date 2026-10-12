@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1791811783036,
+      "lastUpdated": 1791815383014,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg"
         }
       ],
-      "lastUpdated": 1791811783763,
+      "lastUpdated": 1791815383657,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1104,6 +1104,52 @@
       "url": "https://note.com/npaka/rss",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "Google Colabの MiniMax H3 をCodexから利用する方法",
+          "link": "https://note.com/npaka/n/n9b3870211b8d",
+          "description": "<p name=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\" id=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\">Google ColabのA100で、「MiniMax H3」を動かし、手元の「Codex」から使ってみました。</p><figure name=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\" id=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\"><blockquote><p name=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\" id=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\"><strong>・セットアップ : 約14秒<br>・動画生成 (960 × 544 10秒) : 約6分32秒</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n9b3870211b8d\">続きをみる</a>",
+          "content": "<p name=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\" id=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\">Google ColabのA100で、「MiniMax H3」を動かし、手元の「Codex」から使ってみました。</p><figure name=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\" id=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\"><blockquote><p name=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\" id=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\"><strong>・セットアップ : 約14秒<br>・動画生成 (960 × 544 10秒) : 約6分32秒</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n9b3870211b8d\">続きをみる</a>",
+          "pubDate": "Mon, 12 Oct 2026 17:33:59 +0900",
+          "guid": "https://note.com/npaka/n/n9b3870211b8d",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "Google ColabのA100で、「MiniMax H3」を動かし、手元の「Codex」から使ってみました。・セットアップ : 約14秒・動画生成 (960 × 544 10秒) : 約6分32秒 続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "Google AI Pro 月額2,900円 で何ができる？ Colab A100・動画・音楽生成まで",
+          "link": "https://note.com/npaka/n/nbfa8c0162e99",
+          "description": "<p name=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\" id=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\">月額2,900円でさまざまな特典を利用できる「Google AI Pro」について、できることをまとめました。</p><table-of-contents name=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\" id=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nbfa8c0162e99\">続きをみる</a>",
+          "content": "<p name=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\" id=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\">月額2,900円でさまざまな特典を利用できる「Google AI Pro」について、できることをまとめました。</p><table-of-contents name=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\" id=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nbfa8c0162e99\">続きをみる</a>",
+          "pubDate": "Mon, 12 Oct 2026 16:26:31 +0900",
+          "guid": "https://note.com/npaka/n/nbfa8c0162e99",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "月額2,900円でさまざまな特典を利用できる「Google AI Pro」について、できることをまとめました。続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "ローカルLLMの無検閲化とは？ 3つの手法と性能・安全性への影響",
           "link": "https://note.com/npaka/n/ndf0640b53e36",
@@ -1632,55 +1678,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Google Colabの MiniMax H3 をCodexから利用する方法",
-          "link": "https://note.com/npaka/n/n9b3870211b8d",
-          "description": "<p name=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\" id=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\">Google ColabのA100で、「MiniMax H3」を動かし、手元の「Codex」から使ってみました。</p><figure name=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\" id=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\"><blockquote><p name=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\" id=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\"><strong>・セットアップ : 約14秒<br>・動画生成 (960 × 544 10秒) : 約6分32秒</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n9b3870211b8d\">続きをみる</a>",
-          "content": "<p name=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\" id=\"0faaa9f4-8871-410d-a61a-94b5f1338cab\">Google ColabのA100で、「MiniMax H3」を動かし、手元の「Codex」から使ってみました。</p><figure name=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\" id=\"7f9105bc-31ea-432a-a933-f4d16054d1fd\"><blockquote><p name=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\" id=\"9b1d7a02-bc5a-4ce0-9ca0-796bcd95f176\"><strong>・セットアップ : 約14秒<br>・動画生成 (960 × 544 10秒) : 約6分32秒</strong></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/n9b3870211b8d\">続きをみる</a>",
-          "pubDate": "Mon, 12 Oct 2026 17:33:59 +0900",
-          "guid": "https://note.com/npaka/n/n9b3870211b8d",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "Google ColabのA100で、「MiniMax H3」を動かし、手元の「Codex」から使ってみました。・セットアップ : 約14秒・動画生成 (960 × 544 10秒) : 約6分32秒 続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "Google AI Pro 月額2,900円 で何ができる？ Colab A100・動画・音楽生成まで",
-          "link": "https://note.com/npaka/n/nbfa8c0162e99",
-          "description": "<p name=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\" id=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\">月額2,900円でさまざまな特典を利用できる「Google AI Pro」について、できることをまとめました。</p><table-of-contents name=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\" id=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nbfa8c0162e99\">続きをみる</a>",
-          "content": "<p name=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\" id=\"388bb7ab-9c02-46f3-8f8a-d6eb0c2b1dfe\">月額2,900円でさまざまな特典を利用できる「Google AI Pro」について、できることをまとめました。</p><table-of-contents name=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\" id=\"232e431f-b908-45a6-9bf3-585d3e1a0f12\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nbfa8c0162e99\">続きをみる</a>",
-          "pubDate": "Mon, 12 Oct 2026 16:26:31 +0900",
-          "guid": "https://note.com/npaka/n/nbfa8c0162e99",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "月額2,900円でさまざまな特典を利用できる「Google AI Pro」について、できることをまとめました。続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1791811783950,
+      "lastUpdated": 1791815383925,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1791811784165,
+      "lastUpdated": 1791815384112,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1791811784225,
+      "lastUpdated": 1791815384168,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1791811784295,
+      "lastUpdated": 1791815384230,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1791811784368,
+      "lastUpdated": 1791815384300,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3979,6 +3979,34 @@
       "url": "https://zenn.dev/topics/nlp/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "辞書は「2026」を読めない。数と助数詞の境目の音を Go で当てる",
+          "link": "https://zenn.dev/snknsk/articles/go-number-counter-reading",
+          "description": "https://github.com/shouni/audio 前回の記事では、TTS や歌唱 AI に渡す前に、日本語を「読み間違えようのないカタカナ」に変換する話を書きました。形態素解析（Kagome + IPA 辞書）の結果の上に、解析器が間違える語だけを上書きする方式です。 その記事では、数字に一度も触れていません。触れられなかった、が正確です。辞書は算用数字を読めないからです。 c, _ := phonetic.NewConverter() c.ConvertToReading(\"2026年8月25日\") // => \"2026ネン8ツキ25ニチ\" 数字がそのまま残り、し...",
+          "content": "https://github.com/shouni/audio 前回の記事では、TTS や歌唱 AI に渡す前に、日本語を「読み間違えようのないカタカナ」に変換する話を書きました。形態素解析（Kagome + IPA 辞書）の結果の上に、解析器が間違える語だけを上書きする方式です。 その記事では、数字に一度も触れていません。触れられなかった、が正確です。辞書は算用数字を読めないからです。 c, _ := phonetic.NewConverter() c.ConvertToReading(\"2026年8月25日\") // => \"2026ネン8ツキ25ニチ\" 数字がそのまま残り、し...",
+          "pubDate": "Mon, 12 Oct 2026 02:33:18 GMT",
+          "guid": "https://zenn.dev/snknsk/articles/go-number-counter-reading",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「NLP」のフィード",
+          "feedUrl": "https://zenn.dev/topics/nlp/feed",
+          "coverImage": "",
+          "summary": "https://github.com/shouni/audio 前回の記事では、TTS や歌唱 AI に渡す前に、日本語を「読み間違えようのないカタカナ」に変換する話を書きました。形態素解析（Kagome + IPA 辞書）の結果の上に、解析器が間違える語だけを上書きする方式です。 その記事では、数字に一度も触れていません。触れられなかった、が正確です。辞書は算用数字を読めないからです。 c, _ := phonetic.NewConv...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://zenn.dev/images/topic.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--zGRYQtku--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25BE%259E%25E6%259B%25B8%25E3%2581%25AF%25E3%2580%258C2026%25E3%2580%258D%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2581%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2582%25E6%2595%25B0%25E3%2581%25A8%25E5%258A%25A9%25E6%2595%25B0%25E8%25A9%259E%25E3%2581%25AE%25E5%25A2%2583%25E7%259B%25AE%25E3%2581%25AE%25E9%259F%25B3%25E3%2582%2592%2520Go%2520%25E3%2581%25A7%25E5%25BD%2593%25E3%2581%25A6%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shouni%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1ZWY4OWFmZWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "Reinforcement Learning with Verifiable Rewards",
           "link": "https://zenn.dev/yoshinn/articles/reinforcement_learning_with_vr",
@@ -4510,37 +4538,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "辞書は「2026」を読めない。数と助数詞の境目の音を Go で当てる",
-          "link": "https://zenn.dev/snknsk/articles/go-number-counter-reading",
-          "description": "https://github.com/shouni/audio 前回の記事では、TTS や歌唱 AI に渡す前に、日本語を「読み間違えようのないカタカナ」に変換する話を書きました。形態素解析（Kagome + IPA 辞書）の結果の上に、解析器が間違える語だけを上書きする方式です。 その記事では、数字に一度も触れていません。触れられなかった、が正確です。辞書は算用数字を読めないからです。 c, _ := phonetic.NewConverter() c.ConvertToReading(\"2026年8月25日\") // => \"2026ネン8ツキ25ニチ\" 数字がそのまま残り、し...",
-          "content": "https://github.com/shouni/audio 前回の記事では、TTS や歌唱 AI に渡す前に、日本語を「読み間違えようのないカタカナ」に変換する話を書きました。形態素解析（Kagome + IPA 辞書）の結果の上に、解析器が間違える語だけを上書きする方式です。 その記事では、数字に一度も触れていません。触れられなかった、が正確です。辞書は算用数字を読めないからです。 c, _ := phonetic.NewConverter() c.ConvertToReading(\"2026年8月25日\") // => \"2026ネン8ツキ25ニチ\" 数字がそのまま残り、し...",
-          "pubDate": "Mon, 12 Oct 2026 02:33:18 GMT",
-          "guid": "https://zenn.dev/snknsk/articles/go-number-counter-reading",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「NLP」のフィード",
-          "feedUrl": "https://zenn.dev/topics/nlp/feed",
-          "coverImage": "",
-          "summary": "https://github.com/shouni/audio 前回の記事では、TTS や歌唱 AI に渡す前に、日本語を「読み間違えようのないカタカナ」に変換する話を書きました。形態素解析（Kagome + IPA 辞書）の結果の上に、解析器が間違える語だけを上書きする方式です。 その記事では、数字に一度も触れていません。触れられなかった、が正確です。辞書は算用数字を読めないからです。 c, _ := phonetic.NewConv...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://zenn.dev/images/topic.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--zGRYQtku--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25BE%259E%25E6%259B%25B8%25E3%2581%25AF%25E3%2580%258C2026%25E3%2580%258D%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2581%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2582%25E6%2595%25B0%25E3%2581%25A8%25E5%258A%25A9%25E6%2595%25B0%25E8%25A9%259E%25E3%2581%25AE%25E5%25A2%2583%25E7%259B%25AE%25E3%2581%25AE%25E9%259F%25B3%25E3%2582%2592%2520Go%2520%25E3%2581%25A7%25E5%25BD%2593%25E3%2581%25A6%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shouni%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1ZWY4OWFmZWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1791811784423,
+      "lastUpdated": 1791815384363,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1791811784503,
+      "lastUpdated": 1791815384424,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
