@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1792291491886,
+      "lastUpdated": 1792310414530,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2025,8 +2025,8 @@
         {
           "title": "ローカルLLMに「こんにちは」と入れたら「coding!」と返ってきた理由",
           "link": "https://zenn.dev/ai_dissection/articles/chat-template-coding",
-          "description": "<!-- 下書き(2026-10-14、Claude作成)。管理表のID 002。 元データ: logs/2026-09-24-1811-phase3-check.md の1a/1b、claude-notes.md 2026-09-22〜24、2026-10-13の撮影時の結果。 画像: images/chat-template-coding/run-template-off-on.png(2026-10-14撮影、40トークン) --> はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。推論エ...",
-          "content": "<!-- 下書き(2026-10-14、Claude作成)。管理表のID 002。 元データ: logs/2026-09-24-1811-phase3-check.md の1a/1b、claude-notes.md 2026-09-22〜24、2026-10-13の撮影時の結果。 画像: images/chat-template-coding/run-template-off-on.png(2026-10-14撮影、40トークン) --> はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。推論エ...",
+          "description": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。推論エンジンを transformers を使わずにPyTorchで自前実装したのですが、動くようになって最初に「こんにちは」と入れたとき、返ってきたのはこれでした。 coding! こんにちは、お元気ですか？ こんにちは、お元気ですか？ こんにちは、お元気ですか？ … 挨拶を返してほしかったのに、「coding!」で始まり、同じ文を延々と繰り返します。モデルが壊れているのかと思いましたが、原因はチャットテンプレートを使っていなかったことでした。 同じモ...",
+          "content": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。推論エンジンを transformers を使わずにPyTorchで自前実装したのですが、動くようになって最初に「こんにちは」と入れたとき、返ってきたのはこれでした。 coding! こんにちは、お元気ですか？ こんにちは、お元気ですか？ こんにちは、お元気ですか？ … 挨拶を返してほしかったのに、「coding!」で始まり、同じ文を延々と繰り返します。モデルが壊れているのかと思いましたが、原因はチャットテンプレートを使っていなかったことでした。 同じモ...",
           "pubDate": "Thu, 15 Oct 2026 12:00:05 GMT",
           "guid": "https://zenn.dev/ai_dissection/articles/chat-template-coding",
           "read": false,
@@ -2035,7 +2035,7 @@
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。推論エ...",
+          "summary": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。推論エンジンを transformers を使わずにPyTorchで自前実装したのですが、動くようになって最初に「こんにちは」と入れたとき、返ってきたのはこれでした。 coding! こんにちは、お元気ですか？ こんにちは、お元気ですか？ こんにちは、お元気ですか？ … 挨拶を返してほしかったのに、「codin...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2053,8 +2053,8 @@
         {
           "title": "ローカルLLMの\"性格\"を1層だけいじる — Activation Steering実験記",
           "link": "https://zenn.dev/ai_dissection/articles/llm-steering-one-layer",
-          "description": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。モデルの層をノードとして表示し、繋ぎ替えたり、内部状態を観察したり、挙動を操ったりできるツールです。 この記事では、その中の Activation Steering(活性化ステアリング)を使って、Qwen2.5-0.5B-Instructの\"口調\"を変えようとした実験を紹介します。最初は失敗して出力が崩壊しましたが、そこから「層を重ねると効果が積み上がる」という、仕組みを知っていれば当たり前で、やってみるまで実感できなかったことがわかりました。 Act...",
-          "content": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。モデルの層をノードとして表示し、繋ぎ替えたり、内部状態を観察したり、挙動を操ったりできるツールです。 この記事では、その中の Activation Steering(活性化ステアリング)を使って、Qwen2.5-0.5B-Instructの\"口調\"を変えようとした実験を紹介します。最初は失敗して出力が崩壊しましたが、そこから「層を重ねると効果が積み上がる」という、仕組みを知っていれば当たり前で、やってみるまで実感できなかったことがわかりました。 Act...",
+          "description": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。モデルの層をノードとして表示し、繋ぎ替えたり、内部状態を観察したり、挙動を操ったりできるツールです。 この記事では、その中の Activation Steering(活性化ステアリング)を使って、Qwen2.5-0.5B-Instructの\"口調\"を変えようとした実験を紹介します。最初は失敗して出力が崩壊しましたが、そこから「層を重ねると効果が積み上がる」という、仕組みを知っていれば当たり前で、やってみるまで実感できなかったことがわかりました。 Acti...",
+          "content": "はじめに ローカルLLMの中身を\"解剖\"するデスクトップアプリ「AI Dissection Editor」を個人で作っています。モデルの層をノードとして表示し、繋ぎ替えたり、内部状態を観察したり、挙動を操ったりできるツールです。 この記事では、その中の Activation Steering(活性化ステアリング)を使って、Qwen2.5-0.5B-Instructの\"口調\"を変えようとした実験を紹介します。最初は失敗して出力が崩壊しましたが、そこから「層を重ねると効果が積み上がる」という、仕組みを知っていれば当たり前で、やってみるまで実感できなかったことがわかりました。 Acti...",
           "pubDate": "Thu, 15 Oct 2026 10:00:05 GMT",
           "guid": "https://zenn.dev/ai_dissection/articles/llm-steering-one-layer",
           "read": false,
@@ -2163,19 +2163,19 @@
           }
         },
         {
-          "title": "【PyTorch実装】磁気増幅器（Saturable Reactor）に基づく可変リアクタンス・アテンション",
-          "link": "https://zenn.dev/nanashi_os/articles/7bd7915abe00bc",
-          "description": "title: \"【PyTorch実装】磁気増幅器（Saturable Reactor）に基づく可変リアクタンス・アテンション\" emoji: \"🧲\" type: \"tech\" topics: [\"pytorch\", \"llm\", \"制御工学\", \"機械学習\", \"mamba\"] published: true ─ 大域的(global)バイアスによる自律的コンテキスト制御 ─ 1. はじめに：固定されたアテンション・スケールへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、アテンション・スコアのスケール因子として...",
-          "content": "title: \"【PyTorch実装】磁気増幅器（Saturable Reactor）に基づく可変リアクタンス・アテンション\" emoji: \"🧲\" type: \"tech\" topics: [\"pytorch\", \"llm\", \"制御工学\", \"機械学習\", \"mamba\"] published: true ─ 大域的(global)バイアスによる自律的コンテキスト制御 ─ 1. はじめに：固定されたアテンション・スケールへの疑問 標準的な Transformer の Scaled Dot-Product Attention では、アテンション・スコアのスケール因子として...",
-          "pubDate": "Wed, 14 Oct 2026 12:00:34 GMT",
-          "guid": "https://zenn.dev/nanashi_os/articles/7bd7915abe00bc",
+          "title": "Steeringで壊れたのは\"層の位置\"か\"層の数\"か — 24層を1つずつ測った",
+          "link": "https://zenn.dev/ai_dissection/articles/llm-steering-layer-sweep",
+          "description": "きっかけ 前の記事で、Qwen2.5-0.5B-Instructに\"ポジティブの矢印\"(Activation Steeringのベクトル)を足す実験を書きました。5つの層に足すと出力が崩壊し、13層目だけに足すと口調が変わる、という結果です。 これをXに投稿したところ、こんな質問をもらいました。 壊れる手前の「性格だけ変わる」境目は、層の位置で決まりますか？ 正直、答えられませんでした。崩壊した5層は「0・2・6・11・13層目」で、序盤の層を含んでいます。壊れた原因が 層の数 なのか、序盤の層に足したこと なのか、切り分けていなかったからです。そこで、足す層を1つずつずらして2...",
+          "content": "きっかけ 前の記事で、Qwen2.5-0.5B-Instructに\"ポジティブの矢印\"(Activation Steeringのベクトル)を足す実験を書きました。5つの層に足すと出力が崩壊し、13層目だけに足すと口調が変わる、という結果です。 これをXに投稿したところ、こんな質問をもらいました。 壊れる手前の「性格だけ変わる」境目は、層の位置で決まりますか？ 正直、答えられませんでした。崩壊した5層は「0・2・6・11・13層目」で、序盤の層を含んでいます。壊れた原因が 層の数 なのか、序盤の層に足したこと なのか、切り分けていなかったからです。そこで、足す層を1つずつずらして2...",
+          "pubDate": "Sun, 18 Oct 2026 03:29:22 GMT",
+          "guid": "https://zenn.dev/ai_dissection/articles/llm-steering-layer-sweep",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "title: \"【PyTorch実装】磁気増幅器（Saturable Reactor）に基づく可変リアクタンス・アテンション\" emoji: \"🧲\" type: \"tech\" topics: [\"pytorch\", \"llm\", \"制御工学\", \"機械学習\", \"mamba\"] published: true ─ 大域的(global)バイアスによる自律的コンテキスト制御 ─ 1. はじめに：固定されたアテンション・スケールへの疑問 ...",
+          "summary": "きっかけ 前の記事で、Qwen2.5-0.5B-Instructに\"ポジティブの矢印\"(Activation Steeringのベクトル)を足す実験を書きました。5つの層に足すと出力が崩壊し、13層目だけに足すと口調が変わる、という結果です。 これをXに投稿したところ、こんな質問をもらいました。 壊れる手前の「性格だけ変わる」境目は、層の位置で決まりますか？ 正直、答えられませんでした。崩壊した5層は「0・2・6・11・13層目」で、序...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2185,25 +2185,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--LW6tz6pK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590PyTorch%25E5%25AE%259F%25E8%25A3%2585%25E3%2580%2591%25E7%25A3%2581%25E6%25B0%2597%25E5%25A2%2597%25E5%25B9%2585%25E5%2599%25A8%25EF%25BC%2588Saturable%2520Reactor%25EF%25BC%2589%25E3%2581%25AB%25E5%259F%25BA%25E3%2581%25A5%25E3%2581%258F%25E5%258F%25AF%25E5%25A4%2589%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%25BB%25E3%2582%25A2%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:NanashiOS%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGQ2U243QkFhUDcxVnVHLUNxeFZmOTdlSHRXQjE3eDFJZm1SM1FGN19TMlI3ZnBkMD1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--lqcRT3xQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Steering%25E3%2581%25A7%25E5%25A3%258A%25E3%2582%258C%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AF%2522%25E5%25B1%25A4%25E3%2581%25AE%25E4%25BD%258D%25E7%25BD%25AE%2522%25E3%2581%258B%2522%25E5%25B1%25A4%25E3%2581%25AE%25E6%2595%25B0%2522%25E3%2581%258B%2520%25E2%2580%2594%252024%25E5%25B1%25A4%25E3%2582%25921%25E3%2581%25A4%25E3%2581%259A%25E3%2581%25A4%25E6%25B8%25AC%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25BC%25A3%2520%257C%2520AI%2520Dissection%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhjNGUzZTQ5MDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "【scikit-learn入門 #3】線形回帰 ─ LinearRegressionで数値を予測する",
-          "link": "https://zenn.dev/haruhiro1020/articles/62800820cabe32",
-          "description": "はじめに 本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第3回です． 第2回では，データを学習用・テスト用に分け，標準化する 前処理 を学びました． 第3回では，いよいよ最初の予測モデル 線形回帰（Linear Regression） を作ります． 回帰は「数値を予測する」最も基本的な機械学習であり，機械学習の入り口として最適 です． ここで fit → predict の流れを，本格的なデータで体験しましょう． 私のscikit-learnライブラリのバージョンは \"1.5.2\" です． 本シリーズの構成 シリーズ構成予定（全11記事） インス...",
-          "content": "はじめに 本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第3回です． 第2回では，データを学習用・テスト用に分け，標準化する 前処理 を学びました． 第3回では，いよいよ最初の予測モデル 線形回帰（Linear Regression） を作ります． 回帰は「数値を予測する」最も基本的な機械学習であり，機械学習の入り口として最適 です． ここで fit → predict の流れを，本格的なデータで体験しましょう． 私のscikit-learnライブラリのバージョンは \"1.5.2\" です． 本シリーズの構成 シリーズ構成予定（全11記事） インス...",
-          "pubDate": "Wed, 14 Oct 2026 12:00:05 GMT",
-          "guid": "https://zenn.dev/haruhiro1020/articles/62800820cabe32",
+          "title": "AIが書いた文章は、技術的にどう見分けられるのか",
+          "link": "https://zenn.dev/ogiri/articles/ai-text-detection",
+          "description": "はじめに AIに書かせた文章を、読者は見分けられるのでしょうか。 この問いを考えるとき、まず「AIっぽい文章」という印象と、機械による検出を分ける必要があります。人間が違和感を覚えることと、検出器がAI生成だと判定することは、同じではありません。 技術的な結論を先に書くと、AIテキスト検出器は文章の来歴を直接見ているわけではありません。生成時に透かしが埋め込まれていない限り、文章に残った統計的・文体的な特徴から、AI生成である確率を推定しています。 現在の手法は、大きく次の2系統に分かれます。 生成時に信号を埋め込む電子透かし（watermarking） 生成後の文章を調べる自動検...",
+          "content": "はじめに AIに書かせた文章を、読者は見分けられるのでしょうか。 この問いを考えるとき、まず「AIっぽい文章」という印象と、機械による検出を分ける必要があります。人間が違和感を覚えることと、検出器がAI生成だと判定することは、同じではありません。 技術的な結論を先に書くと、AIテキスト検出器は文章の来歴を直接見ているわけではありません。生成時に透かしが埋め込まれていない限り、文章に残った統計的・文体的な特徴から、AI生成である確率を推定しています。 現在の手法は、大きく次の2系統に分かれます。 生成時に信号を埋め込む電子透かし（watermarking） 生成後の文章を調べる自動検...",
+          "pubDate": "Sun, 18 Oct 2026 02:32:33 GMT",
+          "guid": "https://zenn.dev/ogiri/articles/ai-text-detection",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第3回です． 第2回では，データを学習用・テスト用に分け，標準化する 前処理 を学びました． 第3回では，いよいよ最初の予測モデル 線形回帰（Linear Regression） を作ります． 回帰は「数値を予測する」最も基本的な機械学習であり，機械学習の入り口として最適 です． ここで fit → predict の流れを，本格的なデータで体験しま...",
+          "summary": "はじめに AIに書かせた文章を、読者は見分けられるのでしょうか。 この問いを考えるとき、まず「AIっぽい文章」という印象と、機械による検出を分ける必要があります。人間が違和感を覚えることと、検出器がAI生成だと判定することは、同じではありません。 技術的な結論を先に書くと、AIテキスト検出器は文章の来歴を直接見ているわけではありません。生成時に透かしが埋め込まれていない限り、文章に残った統計的・文体的な特徴から、AI生成である確率を推定...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2213,25 +2213,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--l6C0rudW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590scikit-learn%25E5%2585%25A5%25E9%2596%2580%2520%25233%25E3%2580%2591%25E7%25B7%259A%25E5%25BD%25A2%25E5%259B%259E%25E5%25B8%25B0%2520%25E2%2594%2580%2520LinearRegression%25E3%2581%25A7%25E6%2595%25B0%25E5%2580%25A4%25E3%2582%2592%25E4%25BA%2588%25E6%25B8%25AC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruhiro1020%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkMDA5OGRkNjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--gs2idFlE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E6%2596%2587%25E7%25AB%25A0%25E3%2581%25AF%25E3%2580%2581%25E6%258A%2580%25E8%25A1%2593%25E7%259A%2584%25E3%2581%25AB%25E3%2581%25A9%25E3%2581%2586%25E8%25A6%258B%25E5%2588%2586%25E3%2581%2591%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2582%25E3%2581%25A4%25E7%2585%25AE%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25BF%25E3%2583%25B3%2540%25E5%258D%258A%25E5%25B0%258E%25E4%25BD%2593%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IzNzNhYTJlY2UuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "Claude Codeと過去4年をやり直したのに、本番の数字が動かなかった話⏰ 未来リークを例外で止めるリプレイ学習",
-          "link": "https://zenn.dev/charge0315/articles/5a7ca48de722ce",
-          "description": "過去4年・977営業日の相場を、AIと一緒に1日ずつやり直しました。かかった時間は1時間46分、出したピックは1万3,542件⏪ ……なのに、本番の評価の数字は1ミリも動きませんでした😇 しかも、それで正解でした。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。過去に戻って学び直す「リプレイ学習」を作った話と、「数が増えても本番は動かない」ように作った話です🛠️ ! 【要約：この記事で伝えたいこと】 「いちばん古いデータから1日ずつやり直して学習したい」と頼んだら...",
-          "content": "過去4年・977営業日の相場を、AIと一緒に1日ずつやり直しました。かかった時間は1時間46分、出したピックは1万3,542件⏪ ……なのに、本番の評価の数字は1ミリも動きませんでした😇 しかも、それで正解でした。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。過去に戻って学び直す「リプレイ学習」を作った話と、「数が増えても本番は動かない」ように作った話です🛠️ ! 【要約：この記事で伝えたいこと】 「いちばん古いデータから1日ずつやり直して学習したい」と頼んだら...",
-          "pubDate": "Wed, 14 Oct 2026 05:41:49 GMT",
-          "guid": "https://zenn.dev/charge0315/articles/5a7ca48de722ce",
+          "title": "PyODで時系列データの異常検知を試す",
+          "link": "https://zenn.dev/drbobt1122/articles/blog26101701",
+          "description": "前回は、Raspberry Pi 4に保存したセンサデータを対象に、PyODのSpectral Residualで異常を検出するMCPサーバを構築しました。この話の最後に、データや目的に合わせて異常検知の手法を切り替える旨について、書きました。 そこで今回は、PyODに入っている時系列データ向けの異常検出器について、調査し、その結果の違いを確認しました。 試したのは次の7種類です。 カテゴリ 検出器 概要 Windowed Bridge TimeSeriesOD スライディングウィンドウを適用することで、PyOD内の任意の表形式データ用検出器を時系列データに対して適用可能に...",
+          "content": "前回は、Raspberry Pi 4に保存したセンサデータを対象に、PyODのSpectral Residualで異常を検出するMCPサーバを構築しました。この話の最後に、データや目的に合わせて異常検知の手法を切り替える旨について、書きました。 そこで今回は、PyODに入っている時系列データ向けの異常検出器について、調査し、その結果の違いを確認しました。 試したのは次の7種類です。 カテゴリ 検出器 概要 Windowed Bridge TimeSeriesOD スライディングウィンドウを適用することで、PyOD内の任意の表形式データ用検出器を時系列データに対して適用可能に...",
+          "pubDate": "Sun, 18 Oct 2026 01:36:39 GMT",
+          "guid": "https://zenn.dev/drbobt1122/articles/blog26101701",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "過去4年・977営業日の相場を、AIと一緒に1日ずつやり直しました。かかった時間は1時間46分、出したピックは1万3,542件⏪ ……なのに、本番の評価の数字は1ミリも動きませんでした😇 しかも、それで正解でした。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。過去に戻って学び直す「リプレイ学習」を作った話と、「...",
+          "summary": "前回は、Raspberry Pi 4に保存したセンサデータを対象に、PyODのSpectral Residualで異常を検出するMCPサーバを構築しました。この話の最後に、データや目的に合わせて異常検知の手法を切り替える旨について、書きました。 そこで今回は、PyODに入っている時系列データ向けの異常検出器について、調査し、その結果の違いを確認しました。 試したのは次の7種類です。 カテゴリ 検出器 概要 Windowed Bridge...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2241,13 +2241,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--2pUzXdOD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A8%25E9%2581%258E%25E5%258E%25BB4%25E5%25B9%25B4%25E3%2582%2592%25E3%2582%2584%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E3%2580%2581%25E6%259C%25AC%25E7%2595%25AA%25E3%2581%25AE%25E6%2595%25B0%25E5%25AD%2597%25E3%2581%258C%25E5%258B%2595%25E3%2581%258B%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2520%2520%25E6%259C%25AA%25E6%259D%25A5%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%2592%25E4%25BE%258B%25E5%25A4%2596%25E3%2581%25A7%25E6%25AD%25A2%25E3%2582%2581%25E3%2582%258B%25E3%2583%25AA%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E5%25AD%25A6%25E7%25BF%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A1%25E3%2582%2583%25E3%2583%25BC%25E3%2581%2598%25EF%25BC%2588%25E5%2585%25AB%25E5%2592%25AB%25E7%2583%258F%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMzVhZDkyMDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--G-Vv51Tp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PyOD%25E3%2581%25A7%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E7%2595%25B0%25E5%25B8%25B8%25E6%25A4%259C%25E7%259F%25A5%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Dr.%2520BobT%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0YmE3Yzc0OGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1792291491990,
+      "lastUpdated": 1792310415882,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2819,7 +2819,7 @@
           }
         }
       ],
-      "lastUpdated": 1792291492026,
+      "lastUpdated": 1792310415944,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3391,7 +3391,7 @@
           }
         }
       ],
-      "lastUpdated": 1792291492062,
+      "lastUpdated": 1792310415997,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1792291492097,
+      "lastUpdated": 1792310416065,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1792291492132,
+      "lastUpdated": 1792310416125,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5107,7 +5107,7 @@
           }
         }
       ],
-      "lastUpdated": 1792291492165,
+      "lastUpdated": 1792310416195,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
