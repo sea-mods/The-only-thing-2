@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1792417492174,
+      "lastUpdated": 1792439877859,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -593,10 +593,30 @@
       "folder": "Uncategorized",
       "items": [
         {
+          "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+          "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Decorative math image.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-300x169.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-179x101.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-1536x864.jpg 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-2048x1152.jpg 2048w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-645x363.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-500x281.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-362x204.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-1024x576.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-960x540.jpg 960w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"Solving-Math\" />NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to...",
+          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Decorative math image.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-300x169.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-179x101.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-1536x864.jpg 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-2048x1152.jpg 2048w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-645x363.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-500x281.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-362x204.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-1024x576.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-960x540.jpg 960w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"Solving-Math\" />NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Decorative math image.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-300x169.jpg 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-625x351.jpg 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-179x101.jpg 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-1536x864.jpg 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-2048x1152.jpg 2048w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-645x363.jpg 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-660x370.jpg 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-500x281.jpg 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-160x90.jpg 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-362x204.jpg 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-196x110.jpg 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-1024x576.jpg 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-960x540.jpg 960w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"Solving-Math\" /><p>NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to deliver peak performance for tile-level GPU programming. By abstracting thread- and warp-level scheduling behind high-level, tile-centric primitives, cuTile enables you to write GPU kernels in Python while compiler optimizations automatically…</p> <p><a href=\"https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "pubDate": "2026-10-19T17:00:00Z",
+          "guid": "https://developer.nvidia.com/blog/?p=123793",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "NVIDIA Technical Blog",
+          "feedUrl": "https://developer.nvidia.com/blog/feed/",
+          "coverImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg",
+          "summary": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to...NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel...",
+          "author": "Tanya Lenz",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg"
+        },
+        {
           "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
           "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
-          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-195x110.png 195w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7.webp 1999w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"image2\" />AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
-          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-195x110.png 195w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7.webp 1999w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"image2\" />AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-195x110.png 195w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7.webp 1999w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"image2\" /><p>AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As a result, the current workflow is split across a laptop, a cloud model API, and a cloud VM. NVIDIA RTX Spark is built for AI development. Thanks to the NVIDIA GB10 system-on-a-chip and large unified memory, developers can run local…</p> <p><a href=\"https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-195x110.png 195w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7.webp 1999w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"image2\" />AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
+          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-195x110.png 195w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7.webp 1999w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"image2\" />AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-195x110.png 195w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7.webp 1999w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"image2\" /><p>AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As a result, the current workflow is split across a laptop, a cloud model API, and a cloud VM. NVIDIA RTX Spark is built for AI development. Thanks to the NVIDIA GB10 system-on-a-chip and large unified memory, developers can run local…</p> <p><a href=\"https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
           "pubDate": "2026-10-16T17:00:00Z",
           "guid": "https://developer.nvidia.com/blog/?p=123865",
           "read": false,
@@ -1071,29 +1091,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png"
-        },
-        {
-          "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
-          "link": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
-          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1.webp 1600w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"robotics-press-nurec-devpage-kv-1600x900\" />Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability...",
-          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1.webp 1600w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"robotics-press-nurec-devpage-kv-1600x900\" />Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1.webp 1600w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"robotics-press-nurec-devpage-kv-1600x900\" /><p>Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability into a maintainable system that combines ingestion, stream processing, event detection, retrieval, summarization, and reporting. The NVIDIA Metropolis Blueprint for Video Search and Summarization (VSS) and its agent skills help…</p> <p><a href=\"https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
-          "pubDate": "2026-09-29T18:35:09Z",
-          "guid": "https://developer.nvidia.com/blog/?p=123017",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "NVIDIA Technical Blog",
-          "feedUrl": "https://developer.nvidia.com/blog/feed/",
-          "coverImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png",
-          "summary": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability...Vision-language models have made it possible to build visu...",
-          "author": "Elizabeth Goodman",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png"
         }
       ],
-      "lastUpdated": 1792417492706,
+      "lastUpdated": 1792439878619,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1792417492906,
+      "lastUpdated": 1792439878833,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1691,6 +1691,34 @@
       "url": "https://zenn.dev/topics/機械学習/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "モデルを変えずに、AIエージェントが「仕事の仕組み」を育てる──Google ResearchのHarness²",
+          "link": "https://zenn.dev/humanos_lab/articles/fcb8653f1b6e64",
+          "description": "AIエージェントの性能は、モデルの賢さだけで決まりません。どんな指示を読み、どの道具を使い、何を覚え、どの役割へ委任するか。モデルの周囲にある「仕事の仕組み」でも大きく変わります。 Google Cloud AI Researchなどの研究者は2026年10月9日、モデルの重みを変えずに、その周囲の実行環境を再帰的に改善する研究「Harness²」をarXivで公開しました。公開リポジトリにはApache 2.0のコード、ローカルデモ、ベンチマーク実行手順があります。 これは正式なGoogle製品ではなく、研究実装です。論文とREADMEは確認しましたが、今回コード全体の監査やデモ実行...",
+          "content": "AIエージェントの性能は、モデルの賢さだけで決まりません。どんな指示を読み、どの道具を使い、何を覚え、どの役割へ委任するか。モデルの周囲にある「仕事の仕組み」でも大きく変わります。 Google Cloud AI Researchなどの研究者は2026年10月9日、モデルの重みを変えずに、その周囲の実行環境を再帰的に改善する研究「Harness²」をarXivで公開しました。公開リポジトリにはApache 2.0のコード、ローカルデモ、ベンチマーク実行手順があります。 これは正式なGoogle製品ではなく、研究実装です。論文とREADMEは確認しましたが、今回コード全体の監査やデモ実行...",
+          "pubDate": "Mon, 19 Oct 2026 06:19:20 GMT",
+          "guid": "https://zenn.dev/humanos_lab/articles/fcb8653f1b6e64",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "AIエージェントの性能は、モデルの賢さだけで決まりません。どんな指示を読み、どの道具を使い、何を覚え、どの役割へ委任するか。モデルの周囲にある「仕事の仕組み」でも大きく変わります。 Google Cloud AI Researchなどの研究者は2026年10月9日、モデルの重みを変えずに、その周囲の実行環境を再帰的に改善する研究「Harness²」をarXivで公開しました。公開リポジトリにはApache 2.0のコード、ローカルデモ、...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--4_7580-c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259A%25E3%2581%25AB%25E3%2580%2581AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E3%2580%258C%25E4%25BB%2595%25E4%25BA%258B%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2580%258D%25E3%2582%2592%25E8%2582%25B2%25E3%2581%25A6%25E3%2582%258B%25E2%2594%2580%25E2%2594%2580Google%2520Research%25E3%2581%25AEHarness%25C2%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B7%25E3%2583%25B3%2540AI%25E7%25B5%25B1%25E5%2588%25B6%25EF%25BC%2586%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiMGE4YTliMjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "QUBO++でFMQA（量子化学編）：引き伸ばしたH₂のスピン対称性の破れを60回の評価で見つける",
           "link": "https://zenn.dev/comp_lab/articles/fmqa-chemistry-pyqbpp",
@@ -2217,37 +2245,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "1M級LLMを1MBに圧縮する個人研究の記録を、ここに置いていきます",
-          "link": "https://zenn.dev/ai_engineer_kz/articles/2fa420d2bf6e8e",
-          "description": "やっていること パラメータ100万規模の日本語言語モデルを、ノートPC1台（CPUのみ、GPUなし）で学習し、そのうえで「どこまで小さくできるか」を測っています。学習も評価も圧縮も全部手元です。 いまの到達点は、fp32で約13MBのモデルを 995,341バイト まで落として、品質（perplexity）の劣化を測定系の揺れの範囲に収めたところです。倍率で言えば13.1倍ですが、この「倍率」という数字が実はかなり曲者で、そこで何度も間違えた話も書きます。 ここに何を書くか 主に、失敗したパターンの記録です。 3か月で100を超える構成を試して、そのうち明確に効いたのは数えるほど...",
-          "content": "やっていること パラメータ100万規模の日本語言語モデルを、ノートPC1台（CPUのみ、GPUなし）で学習し、そのうえで「どこまで小さくできるか」を測っています。学習も評価も圧縮も全部手元です。 いまの到達点は、fp32で約13MBのモデルを 995,341バイト まで落として、品質（perplexity）の劣化を測定系の揺れの範囲に収めたところです。倍率で言えば13.1倍ですが、この「倍率」という数字が実はかなり曲者で、そこで何度も間違えた話も書きます。 ここに何を書くか 主に、失敗したパターンの記録です。 3か月で100を超える構成を試して、そのうち明確に効いたのは数えるほど...",
-          "pubDate": "Thu, 15 Oct 2026 23:10:05 GMT",
-          "guid": "https://zenn.dev/ai_engineer_kz/articles/2fa420d2bf6e8e",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "やっていること パラメータ100万規模の日本語言語モデルを、ノートPC1台（CPUのみ、GPUなし）で学習し、そのうえで「どこまで小さくできるか」を測っています。学習も評価も圧縮も全部手元です。 いまの到達点は、fp32で約13MBのモデルを 995,341バイト まで落として、品質（perplexity）の劣化を測定系の揺れの範囲に収めたところです。倍率で言えば13.1倍ですが、この「倍率」という数字が実はかなり曲者で、そこで何度も間...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--fMgxyp2Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1M%25E7%25B4%259ALLM%25E3%2582%25921MB%25E3%2581%25AB%25E5%259C%25A7%25E7%25B8%25AE%25E3%2581%2599%25E3%2582%258B%25E5%2580%258B%25E4%25BA%25BA%25E7%25A0%2594%25E7%25A9%25B6%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2%25E3%2582%2592%25E3%2580%2581%25E3%2581%2593%25E3%2581%2593%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258D%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585K%25EF%25BC%25BFAI%25E3%2581%25A8%25E5%2585%25B1%25E7%2594%259F%25E3%2582%2592%25E7%259B%25AE%25E6%258C%2587%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVhYzg0NmU1MWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1792417493107,
+      "lastUpdated": 1792439879066,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2819,7 +2819,7 @@
           }
         }
       ],
-      "lastUpdated": 1792417493202,
+      "lastUpdated": 1792439879222,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3391,7 +3391,7 @@
           }
         }
       ],
-      "lastUpdated": 1792417493296,
+      "lastUpdated": 1792439879264,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1792417493346,
+      "lastUpdated": 1792439879421,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1792417493406,
+      "lastUpdated": 1792439879458,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5107,7 +5107,7 @@
           }
         }
       ],
-      "lastUpdated": 1792417493464,
+      "lastUpdated": 1792439879499,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
