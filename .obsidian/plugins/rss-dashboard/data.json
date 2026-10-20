@@ -6,7 +6,7 @@
       "folder": "Uncategorized",
       "items": [
         {
-          "title": "Advancing Coding in Low-Resource Programming Languages",
+          "title": "Advancing coding in low‑resource programming languages",
           "link": "https://openai.com/index/low-resource-programming-languages",
           "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
           "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1792450409724,
+      "lastUpdated": 1792457092245,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png"
         }
       ],
-      "lastUpdated": 1792456061727,
+      "lastUpdated": 1792457092896,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1104,6 +1104,29 @@
       "url": "https://note.com/npaka/rss",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出",
+          "link": "https://note.com/npaka/n/nba1723dba4e1",
+          "description": "<p name=\"82ca9d02-51bb-4f73-b435-27e404e98def\" id=\"82ca9d02-51bb-4f73-b435-27e404e98def\">Anthropicの「OSS Scanner」の概要をまとめました。</p><table-of-contents name=\"61280289-9247-4db7-956d-a6f618140e02\" id=\"61280289-9247-4db7-956d-a6f618140e02\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nba1723dba4e1\">続きをみる</a>",
+          "content": "<p name=\"82ca9d02-51bb-4f73-b435-27e404e98def\" id=\"82ca9d02-51bb-4f73-b435-27e404e98def\">Anthropicの「OSS Scanner」の概要をまとめました。</p><table-of-contents name=\"61280289-9247-4db7-956d-a6f618140e02\" id=\"61280289-9247-4db7-956d-a6f618140e02\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nba1723dba4e1\">続きをみる</a>",
+          "pubDate": "Tue, 20 Oct 2026 08:50:52 +0900",
+          "guid": "https://note.com/npaka/n/nba1723dba4e1",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "Anthropicの「OSS Scanner」の概要をまとめました。続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "DeepSeek-V4.1-Flash-1017 を DeepSeek Harness で試す",
           "link": "https://note.com/npaka/n/nebbfa829304b",
@@ -1634,42 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "NVIDIA DGX Spark 64GB版 の概要",
-          "link": "https://note.com/npaka/n/nf9d4b76e18a6",
-          "description": "<p name=\"9e309a50-4c22-48b8-9f18-3fa87d0c8bb5\" id=\"9e309a50-4c22-48b8-9f18-3fa87d0c8bb5\">NVIDIA DGX Spark 64GB版 の概要をまとめました。</p><figure name=\"f68a6f0e-e08f-484a-9183-954ec461354e\" id=\"f68a6f0e-e08f-484a-9183-954ec461354e\"><blockquote><p name=\"2345bbab-72da-4702-9533-f49624f9228a\" id=\"2345bbab-72da-4702-9533-f49624f9228a\"><strong>・</strong><a href=\"https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/\" target=\"_blank\" rel=\"nofollow noopener\"><strong>NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI</strong></a></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/nf9d4b76e18a6\">続きをみる</a>",
-          "content": "<p name=\"9e309a50-4c22-48b8-9f18-3fa87d0c8bb5\" id=\"9e309a50-4c22-48b8-9f18-3fa87d0c8bb5\">NVIDIA DGX Spark 64GB版 の概要をまとめました。</p><figure name=\"f68a6f0e-e08f-484a-9183-954ec461354e\" id=\"f68a6f0e-e08f-484a-9183-954ec461354e\"><blockquote><p name=\"2345bbab-72da-4702-9533-f49624f9228a\" id=\"2345bbab-72da-4702-9533-f49624f9228a\"><strong>・</strong><a href=\"https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/\" target=\"_blank\" rel=\"nofollow noopener\"><strong>NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI</strong></a></p></blockquote> <figcaption></figcaption></figure><br/><a href=\"https://note.com/npaka/n/nf9d4b76e18a6\">続きをみる</a>",
-          "pubDate": "Fri, 02 Oct 2026 22:52:23 +0900",
-          "guid": "https://note.com/npaka/n/nf9d4b76e18a6",
+          "title": "Dream Labs「Dream-1」の概要 - 未学習のロボットもゼロショットで動かすロボット基盤モデル",
+          "link": "https://note.com/npaka/n/n7d696b6edb2c",
+          "description": "<p name=\"88652456-b569-44ca-82e0-eaae82ea2034\" id=\"88652456-b569-44ca-82e0-eaae82ea2034\">Dream Labsの「Dream-1」の概要をまとめました。</p><table-of-contents name=\"90df024d-44d6-498d-8d84-7cde7c9afcc1\" id=\"90df024d-44d6-498d-8d84-7cde7c9afcc1\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n7d696b6edb2c\">続きをみる</a>",
+          "content": "<p name=\"88652456-b569-44ca-82e0-eaae82ea2034\" id=\"88652456-b569-44ca-82e0-eaae82ea2034\">Dream Labsの「Dream-1」の概要をまとめました。</p><table-of-contents name=\"90df024d-44d6-498d-8d84-7cde7c9afcc1\" id=\"90df024d-44d6-498d-8d84-7cde7c9afcc1\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n7d696b6edb2c\">続きをみる</a>",
+          "pubDate": "Tue, 20 Oct 2026 09:14:52 +0900",
+          "guid": "https://note.com/npaka/n/n7d696b6edb2c",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "NVIDIA DGX Spark 64GB版 の概要をまとめました。・NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI 続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出",
-          "link": "https://note.com/npaka/n/nba1723dba4e1",
-          "description": "<p name=\"82ca9d02-51bb-4f73-b435-27e404e98def\" id=\"82ca9d02-51bb-4f73-b435-27e404e98def\">Anthropicの「OSS Scanner」の概要をまとめました。</p><table-of-contents name=\"61280289-9247-4db7-956d-a6f618140e02\" id=\"61280289-9247-4db7-956d-a6f618140e02\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nba1723dba4e1\">続きをみる</a>",
-          "content": "<p name=\"82ca9d02-51bb-4f73-b435-27e404e98def\" id=\"82ca9d02-51bb-4f73-b435-27e404e98def\">Anthropicの「OSS Scanner」の概要をまとめました。</p><table-of-contents name=\"61280289-9247-4db7-956d-a6f618140e02\" id=\"61280289-9247-4db7-956d-a6f618140e02\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/nba1723dba4e1\">続きをみる</a>",
-          "pubDate": "Tue, 20 Oct 2026 08:50:52 +0900",
-          "guid": "https://note.com/npaka/n/nba1723dba4e1",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "Anthropicの「OSS Scanner」の概要をまとめました。続きをみる",
+          "summary": "Dream Labsの「Dream-1」の概要をまとめました。続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1792456063891,
+      "lastUpdated": 1792457093441,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2247,7 +2247,7 @@
           }
         }
       ],
-      "lastUpdated": 1792456068276,
+      "lastUpdated": 1792457093807,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2819,7 +2819,7 @@
           }
         }
       ],
-      "lastUpdated": 1792456068419,
+      "lastUpdated": 1792457093939,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3391,7 +3391,7 @@
           }
         }
       ],
-      "lastUpdated": 1792456068558,
+      "lastUpdated": 1792457094063,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1792456068864,
+      "lastUpdated": 1792457094145,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1792456068990,
+      "lastUpdated": 1792457094223,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5107,7 +5107,7 @@
           }
         }
       ],
-      "lastUpdated": 1792456069663,
+      "lastUpdated": 1792457094329,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
