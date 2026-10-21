@@ -29,6 +29,29 @@
           "episodeType": ""
         },
         {
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "link": "https://openai.com/index/terminal-x",
+          "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "content": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+          "guid": "https://openai.com/index/terminal-x",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "OpenAI acquires Orchestra Bio",
           "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
           "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
@@ -351,29 +374,6 @@
           "episodeType": ""
         },
         {
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "link": "https://openai.com/index/asana-browser-agent",
-          "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-          "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-          "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-          "guid": "https://openai.com/index/asana-browser-agent",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
-        },
-        {
           "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
           "link": "https://openai.com/index/sophos",
           "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
@@ -387,6 +387,29 @@
           "feedUrl": "https://openai.com/news/rss.xml",
           "coverImage": "",
           "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "link": "https://openai.com/index/asana-browser-agent",
+          "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+          "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+          "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+          "guid": "https://openai.com/index/asana-browser-agent",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -556,32 +579,9 @@
           "image": "https://openai.com/apple-icon.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "link": "https://openai.com/index/atlassian-partnership",
-          "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-          "content": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-          "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
-          "guid": "https://openai.com/index/atlassian-partnership",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1792539891906,
+      "lastUpdated": 1792547092047,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png"
         }
       ],
-      "lastUpdated": 1792539892315,
+      "lastUpdated": 1792547092402,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1657,19 +1657,19 @@
           "episodeType": ""
         },
         {
-          "title": "OpenCode 2.0 の概要",
-          "link": "https://note.com/npaka/n/n124579373d23",
-          "description": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
-          "content": "<p name=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\" id=\"0e4e92f5-640a-47d6-b9e1-51c8df132c37\">「OpenCode 2.0」の概要についてまとめました。</p><table-of-contents name=\"8256c270-2766-437f-ac4a-0fb2ad15be54\" id=\"8256c270-2766-437f-ac4a-0fb2ad15be54\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n124579373d23\">続きをみる</a>",
-          "pubDate": "Sun, 04 Oct 2026 22:04:45 +0900",
-          "guid": "https://note.com/npaka/n/n124579373d23",
+          "title": "Arenaで最新のローカルLLMのベンチマークを確認する",
+          "link": "https://note.com/npaka/n/n95e9f55a55b0",
+          "description": "<p name=\"457a1012-0695-47fe-a522-a0d452cfd7a1\" id=\"457a1012-0695-47fe-a522-a0d452cfd7a1\">Arenaで最新のローカルLLMのベンチマークを確認する手順をまとめました。</p><table-of-contents name=\"3ff6558c-3018-41a6-ae35-7b41d20d5c90\" id=\"3ff6558c-3018-41a6-ae35-7b41d20d5c90\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n95e9f55a55b0\">続きをみる</a>",
+          "content": "<p name=\"457a1012-0695-47fe-a522-a0d452cfd7a1\" id=\"457a1012-0695-47fe-a522-a0d452cfd7a1\">Arenaで最新のローカルLLMのベンチマークを確認する手順をまとめました。</p><table-of-contents name=\"3ff6558c-3018-41a6-ae35-7b41d20d5c90\" id=\"3ff6558c-3018-41a6-ae35-7b41d20d5c90\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n95e9f55a55b0\">続きをみる</a>",
+          "pubDate": "Wed, 21 Oct 2026 08:59:28 +0900",
+          "guid": "https://note.com/npaka/n/n95e9f55a55b0",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "npaka",
           "feedUrl": "https://note.com/npaka/rss",
           "coverImage": "",
-          "summary": "「OpenCode 2.0」の概要についてまとめました。続きをみる",
+          "summary": "Arenaで最新のローカルLLMのベンチマークを確認する手順をまとめました。続きをみる",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1792539892437,
+      "lastUpdated": 1792547092536,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1792539892568,
+      "lastUpdated": 1792547092632,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1792539892625,
+      "lastUpdated": 1792547092683,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1792539892675,
+      "lastUpdated": 1792547092727,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1792539892721,
+      "lastUpdated": 1792547092776,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1792539892767,
+      "lastUpdated": 1792547092820,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1792539892816,
+      "lastUpdated": 1792547092876,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
