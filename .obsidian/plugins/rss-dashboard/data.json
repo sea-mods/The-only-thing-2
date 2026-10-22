@@ -190,6 +190,29 @@
           "episodeType": ""
         },
         {
+          "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+          "link": "https://openai.com/index/cloudflare-cyber",
+          "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+          "content": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+          "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+          "guid": "https://openai.com/index/cloudflare-cyber",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
           "link": "https://openai.com/index/ted-taylor-restaurant",
           "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
@@ -556,32 +579,9 @@
           "image": "https://openai.com/apple-icon.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "link": "https://openai.com/index/sophos",
-          "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-          "content": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-          "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-          "guid": "https://openai.com/index/sophos",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1792626291924,
+      "lastUpdated": 1792633492816,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/din-deploy-featured-768x432.png"
         }
       ],
-      "lastUpdated": 1792633095340,
+      "lastUpdated": 1792633493434,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1792633095464,
+      "lastUpdated": 1792633493607,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1792633095541,
+      "lastUpdated": 1792633493638,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1792633095589,
+      "lastUpdated": 1792633493673,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1792633095631,
+      "lastUpdated": 1792633493732,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1792633095675,
+      "lastUpdated": 1792633493772,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1792633095715,
+      "lastUpdated": 1792633493807,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1792633095749,
+      "lastUpdated": 1792633493842,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
