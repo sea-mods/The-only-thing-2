@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1793160109014,
+      "lastUpdated": 1793167308334,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2.gif"
         }
       ],
-      "lastUpdated": 1793160109967,
+      "lastUpdated": 1793167308955,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1104,6 +1104,29 @@
       "url": "https://note.com/npaka/rss",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "ロボットのサイバーセキュリティ入門 - リスク・攻撃事例・対策ツール・今後の展望",
+          "link": "https://note.com/npaka/n/n242052a8f138",
+          "description": "<p name=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\" id=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\">ロボット特有のセキュリティリスク、実際の攻撃事例、対策技術とツール、今後の展望をまとめました。</p><table-of-contents name=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\" id=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n242052a8f138\">続きをみる</a>",
+          "content": "<p name=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\" id=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\">ロボット特有のセキュリティリスク、実際の攻撃事例、対策技術とツール、今後の展望をまとめました。</p><table-of-contents name=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\" id=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n242052a8f138\">続きをみる</a>",
+          "pubDate": "Wed, 28 Oct 2026 12:31:05 +0900",
+          "guid": "https://note.com/npaka/n/n242052a8f138",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "npaka",
+          "feedUrl": "https://note.com/npaka/rss",
+          "coverImage": "",
+          "summary": "ロボット特有のセキュリティリスク、実際の攻撃事例、対策技術とツール、今後の展望をまとめました。続きをみる",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Strataの公式推奨構成と生成速度まとめ - RAM・VRAM別のモデル選び",
           "link": "https://note.com/npaka/n/nff65557d90ba",
@@ -1655,32 +1678,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "ロボットのサイバーセキュリティ入門 - リスク・攻撃事例・対策ツール・今後の展望",
-          "link": "https://note.com/npaka/n/n242052a8f138",
-          "description": "<p name=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\" id=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\">ロボット特有のセキュリティリスク、実際の攻撃事例、対策技術とツール、今後の展望をまとめました。</p><table-of-contents name=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\" id=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n242052a8f138\">続きをみる</a>",
-          "content": "<p name=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\" id=\"f6e8f7c3-ee86-4eb8-8cda-5f34870008e4\">ロボット特有のセキュリティリスク、実際の攻撃事例、対策技術とツール、今後の展望をまとめました。</p><table-of-contents name=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\" id=\"74cacb2c-2ab8-4345-8614-5ac276ea72c9\"><br></table-of-contents><br/><a href=\"https://note.com/npaka/n/n242052a8f138\">続きをみる</a>",
-          "pubDate": "Wed, 28 Oct 2026 12:31:05 +0900",
-          "guid": "https://note.com/npaka/n/n242052a8f138",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "npaka",
-          "feedUrl": "https://note.com/npaka/rss",
-          "coverImage": "",
-          "summary": "ロボット特有のセキュリティリスク、実際の攻撃事例、対策技術とツール、今後の展望をまとめました。続きをみる",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1793160110104,
+      "lastUpdated": 1793167309092,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1793160110216,
+      "lastUpdated": 1793167309144,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1793160110279,
+      "lastUpdated": 1793167309190,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1793160110371,
+      "lastUpdated": 1793167309230,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1793160110456,
+      "lastUpdated": 1793167309285,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1793160110525,
+      "lastUpdated": 1793167309315,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1793160110593,
+      "lastUpdated": 1793167309352,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
