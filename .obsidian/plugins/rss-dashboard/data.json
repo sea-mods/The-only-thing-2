@@ -29,29 +29,6 @@
           "episodeType": ""
         },
         {
-          "title": "Heimstaden is changing residential real estate management with AI",
-          "link": "https://openai.com/index/heimstaden",
-          "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "content": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-          "guid": "https://openai.com/index/heimstaden",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
-        },
-        {
           "title": "How Cisco defends at machine speed with OpenAI",
           "link": "https://openai.com/index/cisco-cyber",
           "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
@@ -65,6 +42,29 @@
           "feedUrl": "https://openai.com/news/rss.xml",
           "coverImage": "",
           "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "Heimstaden is changing residential real estate management with AI",
+          "link": "https://openai.com/index/heimstaden",
+          "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+          "content": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+          "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+          "guid": "https://openai.com/index/heimstaden",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1793747627411,
+      "lastUpdated": 1793750504372,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-dsx-sim-gtc-berlin-26-5796136-600x338-r2.gif"
         }
       ],
-      "lastUpdated": 1793747627766,
+      "lastUpdated": 1793750505134,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1793747627822,
+      "lastUpdated": 1793750505327,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2168,19 +2168,19 @@
           }
         },
         {
-          "title": "Python機械学習の実務書5選",
-          "link": "https://zenn.dev/komatsu_ops/articles/20261101_book_ref",
-          "description": "はじめに 数年前、自分は社内の需要予測プロジェクトに途中から放り込まれた。渡されたのは数十本のJupyterノートブック。前任者が去ったあとで、どのセルがどの前処理に対応しているのか誰も説明できない状態だった。 とりあえず動かしてみると、精度評価のコードでテストデータの平均を使って標準化していた。いわゆるリークだ。モデルの検証スコアは良く、本番の予測は外れる。原因を突き止めるまでに三日かかった。 このとき痛感したのは、ライブラリの使い方だけを追っていると落とし穴に気づけないということ。pandasのメソッドは検索すれば出てくる。だが「なぜこの検証方法が正しいのか」は、断片的な記事では...",
-          "content": "はじめに 数年前、自分は社内の需要予測プロジェクトに途中から放り込まれた。渡されたのは数十本のJupyterノートブック。前任者が去ったあとで、どのセルがどの前処理に対応しているのか誰も説明できない状態だった。 とりあえず動かしてみると、精度評価のコードでテストデータの平均を使って標準化していた。いわゆるリークだ。モデルの検証スコアは良く、本番の予測は外れる。原因を突き止めるまでに三日かかった。 このとき痛感したのは、ライブラリの使い方だけを追っていると落とし穴に気づけないということ。pandasのメソッドは検索すれば出てくる。だが「なぜこの検証方法が正しいのか」は、断片的な記事では...",
-          "pubDate": "Sun, 01 Nov 2026 00:03:25 GMT",
-          "guid": "https://zenn.dev/komatsu_ops/articles/20261101_book_ref",
+          "title": "Qwen3.5-9Bは自分の重みを編集して賢くなれるか",
+          "link": "https://zenn.dev/lube8163/articles/0f43cdc664127c",
+          "description": "! 本記事は、実験ログと測定結果をもとにAI（Codex）が構成・執筆しました。ローカルPCでの実装、実行、採点をCodexが担当し、重みの変更案と編集コードは実験対象のQwenが生成しました。 Qwen3.5-9Bに、自分と同じチェックポイントのコピーをPythonで編集させました。変更したコピーは同じ質問に違う答えを返すことがありました。一方、候補を固定して新しい問題で比べると、事前に決めた改善基準を通過する候補は見つかりませんでした。 きっかけはWeight-Space Programming Takehiらは、GPT-6 AstraがQwen3.5-0.8Bの重みを直接編集...",
+          "content": "! 本記事は、実験ログと測定結果をもとにAI（Codex）が構成・執筆しました。ローカルPCでの実装、実行、採点をCodexが担当し、重みの変更案と編集コードは実験対象のQwenが生成しました。 Qwen3.5-9Bに、自分と同じチェックポイントのコピーをPythonで編集させました。変更したコピーは同じ質問に違う答えを返すことがありました。一方、候補を固定して新しい問題で比べると、事前に決めた改善基準を通過する候補は見つかりませんでした。 きっかけはWeight-Space Programming Takehiらは、GPT-6 AstraがQwen3.5-0.8Bの重みを直接編集...",
+          "pubDate": "Tue, 03 Nov 2026 17:42:47 GMT",
+          "guid": "https://zenn.dev/lube8163/articles/0f43cdc664127c",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 数年前、自分は社内の需要予測プロジェクトに途中から放り込まれた。渡されたのは数十本のJupyterノートブック。前任者が去ったあとで、どのセルがどの前処理に対応しているのか誰も説明できない状態だった。 とりあえず動かしてみると、精度評価のコードでテストデータの平均を使って標準化していた。いわゆるリークだ。モデルの検証スコアは良く、本番の予測は外れる。原因を突き止めるまでに三日かかった。 このとき痛感したのは、ライブラリの使い方...",
+          "summary": "! 本記事は、実験ログと測定結果をもとにAI（Codex）が構成・執筆しました。ローカルPCでの実装、実行、採点をCodexが担当し、重みの変更案と編集コードは実験対象のQwenが生成しました。 Qwen3.5-9Bに、自分と同じチェックポイントのコピーをPythonで編集させました。変更したコピーは同じ質問に違う答えを返すことがありました。一方、候補を固定して新しい問題で比べると、事前に決めた改善基準を通過する候補は見つかりませんでし...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2190,25 +2190,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--K9A4LcTz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E5%25AE%259F%25E5%258B%2599%25E6%259B%25B85%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:komatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkZDUzNmNmNzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--uvcqEqnb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Qwen3.5-9B%25E3%2581%25AF%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E9%2587%258D%25E3%2581%25BF%25E3%2582%2592%25E7%25B7%25A8%25E9%259B%2586%25E3%2581%2597%25E3%2581%25A6%25E8%25B3%25A2%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258C%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25B8%25E3%2582%25B5%25E3%2582%25B7%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmM5Q3ZnTk85a3o1VFRyUnFSY0pNU2FKVXpDbmN0cVBCUjBSME1SLUtMdk5uZl9jUEY9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "劣勾配法を自分で書く：最適解が折れ目にある、微分できない最適化問題を解く",
-          "link": "https://zenn.dev/tmtk/articles/8f43d779edc605",
-          "description": "はじめに 『分析者のための数理最適化入門』（伊藤元治・原田耕平・松岡勇気、ソシム、2026年）の第5章は、「目的関数が微分できない最適化」を扱う章です。4本に分けて記事にします。この記事は1本目で、微分できない最適化問題とは何かと、それを解く最も素朴な方法である劣勾配法を扱います。 勾配法やニュートン法は、目的関数を微分した勾配を手がかりに、最小の点を探します。ところが、目的関数に絶対値 \\lvert x \\rvert のような「折れ目」があると、その点では微分できません。しかも、知りたい最適解がちょうど折れ目にあることが多いのです。 この記事で伝えたいことは、次の1文です。 最適解...",
-          "content": "はじめに 『分析者のための数理最適化入門』（伊藤元治・原田耕平・松岡勇気、ソシム、2026年）の第5章は、「目的関数が微分できない最適化」を扱う章です。4本に分けて記事にします。この記事は1本目で、微分できない最適化問題とは何かと、それを解く最も素朴な方法である劣勾配法を扱います。 勾配法やニュートン法は、目的関数を微分した勾配を手がかりに、最小の点を探します。ところが、目的関数に絶対値 \\lvert x \\rvert のような「折れ目」があると、その点では微分できません。しかも、知りたい最適解がちょうど折れ目にあることが多いのです。 この記事で伝えたいことは、次の1文です。 最適解...",
-          "pubDate": "Sat, 31 Oct 2026 21:29:46 GMT",
-          "guid": "https://zenn.dev/tmtk/articles/8f43d779edc605",
+          "title": "AIの基本 ― 定義・歴史・いまの実力【AIと社会の基本 #1】",
+          "link": "https://zenn.dev/yui10/articles/ai-society-basics-01-what-is-ai",
+          "description": "! シリーズ「AIと社会の基本」の第1回です。公的機関の資料や報告書をもとに整理しています。2026年11月時点の情報です。 この記事の要点 AIの研究は1956年に始まり、3度のブームを経て、2022年の ChatGPT 公開から生成AIの時代に入りました。 AIには確立した定義がありません。国際的には「入力から推論して出力を生成するシステム」と定義されるのが主流で、日本のAI法は「人間の知的な能力を代替する技術」と定義しています。 いまのAIは多くの試験で人間の水準に達していますが、人間には簡単な課題で失敗することもあり、能力にむらがあります。 日本の個人の生成AI利用経験は...",
+          "content": "! シリーズ「AIと社会の基本」の第1回です。公的機関の資料や報告書をもとに整理しています。2026年11月時点の情報です。 この記事の要点 AIの研究は1956年に始まり、3度のブームを経て、2022年の ChatGPT 公開から生成AIの時代に入りました。 AIには確立した定義がありません。国際的には「入力から推論して出力を生成するシステム」と定義されるのが主流で、日本のAI法は「人間の知的な能力を代替する技術」と定義しています。 いまのAIは多くの試験で人間の水準に達していますが、人間には簡単な課題で失敗することもあり、能力にむらがあります。 日本の個人の生成AI利用経験は...",
+          "pubDate": "Tue, 03 Nov 2026 15:06:54 GMT",
+          "guid": "https://zenn.dev/yui10/articles/ai-society-basics-01-what-is-ai",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに 『分析者のための数理最適化入門』（伊藤元治・原田耕平・松岡勇気、ソシム、2026年）の第5章は、「目的関数が微分できない最適化」を扱う章です。4本に分けて記事にします。この記事は1本目で、微分できない最適化問題とは何かと、それを解く最も素朴な方法である劣勾配法を扱います。 勾配法やニュートン法は、目的関数を微分した勾配を手がかりに、最小の点を探します。ところが、目的関数に絶対値 \\lvert x \\rvert のような「折れ目...",
+          "summary": "! シリーズ「AIと社会の基本」の第1回です。公的機関の資料や報告書をもとに整理しています。2026年11月時点の情報です。 この記事の要点 AIの研究は1956年に始まり、3度のブームを経て、2022年の ChatGPT 公開から生成AIの時代に入りました。 AIには確立した定義がありません。国際的には「入力から推論して出力を生成するシステム」と定義されるのが主流で、日本のAI法は「人間の知的な能力を代替する技術」と定義しています。 ...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2218,25 +2218,25 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--LEiCcwc2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258A%25A3%25E5%258B%25BE%25E9%2585%258D%25E6%25B3%2595%25E3%2582%2592%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A7%25E6%259B%25B8%25E3%2581%258F%25EF%25BC%259A%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258C%25E6%258A%2598%25E3%2582%258C%25E7%259B%25AE%25E3%2581%25AB%25E3%2581%2582%25E3%2582%258B%25E3%2580%2581%25E5%25BE%25AE%25E5%2588%2586%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25AA%25E3%2581%2584%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E5%2595%258F%25E9%25A1%258C%25E3%2582%2592%25E8%25A7%25A3%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tmtk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzVOUXpzaHFiY1h1OTJWT1NoZ2ZKNVc1Tnlsa0pjcEJYcUJXeVB5N3VuQTdzZG5nPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--DwWoRIup--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%2520%25E2%2580%2595%2520%25E5%25AE%259A%25E7%25BE%25A9%25E3%2583%25BB%25E6%25AD%25B4%25E5%258F%25B2%25E3%2583%25BB%25E3%2581%2584%25E3%2581%25BE%25E3%2581%25AE%25E5%25AE%259F%25E5%258A%259B%25E3%2580%2590AI%25E3%2581%25A8%25E7%25A4%25BE%25E4%25BC%259A%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%2520%25231%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui10%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEzYzc4NTkxZTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         },
         {
-          "title": "AI効果とは？AIが上手になるほど『AI』と呼ばなくなる現象をわかりやすく解説",
-          "link": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-tech",
-          "description": "はじめに AI効果（AI Effect）は、コンピュータ科学者ダグラス・ハフスタッターが1985年に提唱した概念です。AIが何かの問題を解決すると、その解決策は「AI」ではなく「単なるコンピュータプログラム」と見なされるようになるという、AI評価の相対性を指摘する用語です。 定義 AI効果： 何らかの問題解決がコンピュータで実現されると、その技術は「AI」とは呼ばれなくなる傾向 言い換えれば、「AIは一度実装されれば、もはやAIと呼ばれなくなる」 AIの定義が移動する現象：「真のAI」は常に「まだ実現されていない能力」を指す ハフスタッター自身の言葉： \"AI分野で何かが達...",
-          "content": "はじめに AI効果（AI Effect）は、コンピュータ科学者ダグラス・ハフスタッターが1985年に提唱した概念です。AIが何かの問題を解決すると、その解決策は「AI」ではなく「単なるコンピュータプログラム」と見なされるようになるという、AI評価の相対性を指摘する用語です。 定義 AI効果： 何らかの問題解決がコンピュータで実現されると、その技術は「AI」とは呼ばれなくなる傾向 言い換えれば、「AIは一度実装されれば、もはやAIと呼ばれなくなる」 AIの定義が移動する現象：「真のAI」は常に「まだ実現されていない能力」を指す ハフスタッター自身の言葉： \"AI分野で何かが達...",
-          "pubDate": "Sat, 31 Oct 2026 15:28:55 GMT",
-          "guid": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-tech",
+          "title": "多忠実度学習帳 ― Claude Code から初心者 KNIMEST への講義資料",
+          "link": "https://zenn.dev/knimest/books/multi-fidelity-lecture-for-knimest",
+          "description": "一次スクリーニングで得た大量のデータを、確認試験の予測に活かす「多忠実度」の論文（Buterez et al., Nature Communications 2024）を、1本読み通す講義資料です。すべての式に記号の読み方、声に出したときの読み、意味、一言まとめ、確認問題をつけました。Claude Code が初心者の KNIMEST のために書き、KNIMEST が勉強しながら確認しています。",
+          "content": "一次スクリーニングで得た大量のデータを、確認試験の予測に活かす「多忠実度」の論文（Buterez et al., Nature Communications 2024）を、1本読み通す講義資料です。すべての式に記号の読み方、声に出したときの読み、意味、一言まとめ、確認問題をつけました。Claude Code が初心者の KNIMEST のために書き、KNIMEST が勉強しながら確認しています。",
+          "pubDate": "Tue, 03 Nov 2026 12:07:31 GMT",
+          "guid": "https://zenn.dev/knimest/books/multi-fidelity-lecture-for-knimest",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「機械学習」のフィード",
           "feedUrl": "https://zenn.dev/topics/機械学習/feed",
           "coverImage": "",
-          "summary": "はじめに AI効果（AI Effect）は、コンピュータ科学者ダグラス・ハフスタッターが1985年に提唱した概念です。AIが何かの問題を解決すると、その解決策は「AI」ではなく「単なるコンピュータプログラム」と見なされるようになるという、AI評価の相対性を指摘する用語です。 定義 AI効果： 何らかの問題解決がコンピュータで実現されると、その技術は「AI」とは呼ばれなくなる傾向 言い換えれば、「AIは一度実装されれば、もはやAIと呼ばれ...",
+          "summary": "一次スクリーニングで得た大量のデータを、確認試験の予測に活かす「多忠実度」の論文（Buterez et al., Nature Communications 2024）を、1本読み通す講義資料です。すべての式に記号の読み方、声に出したときの読み、意味、一言まとめ、確認問題をつけました。Claude Code が初心者の KNIMEST のために書き、KNIMEST が勉強しながら確認しています。",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -2246,13 +2246,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cRaERdPY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E5%258A%25B9%25E6%259E%259C%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259FAI%25E3%2581%258C%25E4%25B8%258A%25E6%2589%258B%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25BB%25E3%2581%25A9%25E3%2580%258EAI%25E3%2580%258F%25E3%2581%25A8%25E5%2591%25BC%25E3%2581%25B0%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E7%258F%25BE%25E8%25B1%25A1%25E3%2582%2592%25E3%2582%258F%25E3%2581%258B%25E3%2582%258A%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%2599%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3MTczZDg1NGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--nCy0BVvE--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9mYTM0ZjlhOTFlLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1793747627999,
+      "lastUpdated": 1793750505480,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1793747628085,
+      "lastUpdated": 1793750505548,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1793747628143,
+      "lastUpdated": 1793750505594,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1793747628300,
+      "lastUpdated": 1793750505644,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1793747628444,
+      "lastUpdated": 1793750505689,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1793747628585,
+      "lastUpdated": 1793750505758,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
