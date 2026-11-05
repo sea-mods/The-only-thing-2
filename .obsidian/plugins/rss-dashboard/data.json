@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1793862104742,
+      "lastUpdated": 1793865704323,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/workstation-3d-render-dgx-spark-key-visual-single-gtc26-4655400-768x432.png"
         }
       ],
-      "lastUpdated": 1793862105067,
+      "lastUpdated": 1793865704693,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1793862105236,
+      "lastUpdated": 1793865704773,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1793862105361,
+      "lastUpdated": 1793865704883,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2819,7 +2819,7 @@
           }
         }
       ],
-      "lastUpdated": 1793862105442,
+      "lastUpdated": 1793865704935,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3363,19 +3363,19 @@
           }
         },
         {
-          "title": "data2vec / data2vec 2.0：文脈を含む正解の学習と、その計算の効率化",
-          "link": "https://zenn.dev/mantis_ryuji/articles/data2vec-contextual-targets",
-          "description": "1. はじめに 自己教師あり学習では、ラベルを人が与える代わりに、データから学習問題を作る。その代表が、入力の一部を隠して予測する masked prediction である。 ただし、「隠したものを予測する」と言っても、何を正解にするかには選択の余地がある。文章ならトークンID、画像なら画素値や離散的な画像トークン、音声なら学習した音声単位、といった具合である。 data2vec[1] は、この正解の作り方を変える。入力全体を見たモデルの内部表現を正解にし、その表現を、入力の一部しか見えないモデルに予測させる。 正解は入力の値そのものではなく、モデルが文脈を踏まえて作った表現になる...",
-          "content": "1. はじめに 自己教師あり学習では、ラベルを人が与える代わりに、データから学習問題を作る。その代表が、入力の一部を隠して予測する masked prediction である。 ただし、「隠したものを予測する」と言っても、何を正解にするかには選択の余地がある。文章ならトークンID、画像なら画素値や離散的な画像トークン、音声なら学習した音声単位、といった具合である。 data2vec[1] は、この正解の作り方を変える。入力全体を見たモデルの内部表現を正解にし、その表現を、入力の一部しか見えないモデルに予測させる。 正解は入力の値そのものではなく、モデルが文脈を踏まえて作った表現になる...",
-          "pubDate": "Mon, 12 Oct 2026 15:26:11 GMT",
-          "guid": "https://zenn.dev/mantis_ryuji/articles/data2vec-contextual-targets",
+          "title": "RNNとは？順序データを扱う再帰型ニューラルネット",
+          "link": "https://zenn.dev/h888s/articles/dscert-rnn-dscert",
+          "description": "DS検定の学習で出てくる「RNN」。時系列や文章といった順序のあるデータを扱うニューラルネットワークの基本形として位置づけられる概念です。本記事では、RNNの仕組みと、関連するLSTMやTransformerとの違いを整理します。 RNNとは RNN（Recurrent Neural Network、再帰型ニューラルネットワーク）は、過去の出力を次の入力に再帰的に取り込むことで、順序のあるデータを扱えるようにしたニューラルネットワークです。 通常のニューラルネットワークは、入力を一つ受け取って出力を返すだけで、「直前に何があったか」を記憶しません。RNNはネットワークの中にループ構造...",
+          "content": "DS検定の学習で出てくる「RNN」。時系列や文章といった順序のあるデータを扱うニューラルネットワークの基本形として位置づけられる概念です。本記事では、RNNの仕組みと、関連するLSTMやTransformerとの違いを整理します。 RNNとは RNN（Recurrent Neural Network、再帰型ニューラルネットワーク）は、過去の出力を次の入力に再帰的に取り込むことで、順序のあるデータを扱えるようにしたニューラルネットワークです。 通常のニューラルネットワークは、入力を一つ受け取って出力を返すだけで、「直前に何があったか」を記憶しません。RNNはネットワークの中にループ構造...",
+          "pubDate": "Thu, 05 Nov 2026 01:59:40 GMT",
+          "guid": "https://zenn.dev/h888s/articles/dscert-rnn-dscert",
           "read": false,
           "starred": false,
           "tags": [],
           "feedTitle": "Zennの「ディープラーニング」のフィード",
           "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
           "coverImage": "",
-          "summary": "1. はじめに 自己教師あり学習では、ラベルを人が与える代わりに、データから学習問題を作る。その代表が、入力の一部を隠して予測する masked prediction である。 ただし、「隠したものを予測する」と言っても、何を正解にするかには選択の余地がある。文章ならトークンID、画像なら画素値や離散的な画像トークン、音声なら学習した音声単位、といった具合である。 data2vec[1] は、この正解の作り方を変える。入力全体を見たモデ...",
+          "summary": "DS検定の学習で出てくる「RNN」。時系列や文章といった順序のあるデータを扱うニューラルネットワークの基本形として位置づけられる概念です。本記事では、RNNの仕組みと、関連するLSTMやTransformerとの違いを整理します。 RNNとは RNN（Recurrent Neural Network、再帰型ニューラルネットワーク）は、過去の出力を次の入力に再帰的に取り込むことで、順序のあるデータを扱えるようにしたニューラルネットワークで...",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -3385,13 +3385,13 @@
           "category": "",
           "episodeType": "",
           "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--T6K7SmEi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:data2vec%2520%252F%2520data2vec%25202.0%25EF%25BC%259A%25E6%2596%2587%25E8%2584%2588%25E3%2582%2592%25E5%2590%25AB%25E3%2582%2580%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2581%25AE%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25A8%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%25AE%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mantis_ryuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlM2I2MGZlZGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--GqRnJArB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RNN%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%25E9%25A0%2586%25E5%25BA%258F%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E6%2589%25B1%25E3%2581%2586%25E5%2586%258D%25E5%25B8%25B0%25E5%259E%258B%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%2588%25E6%25A0%25BC%25E3%2582%2592%25E3%2580%2581%25E7%25A0%2594%25E7%25A9%25B6%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyOGFhZTU2ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
             "type": "false",
             "length": "0"
           }
         }
       ],
-      "lastUpdated": 1793862105559,
+      "lastUpdated": 1793865704968,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3963,7 +3963,7 @@
           }
         }
       ],
-      "lastUpdated": 1793862105653,
+      "lastUpdated": 1793865705008,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4535,7 +4535,7 @@
           }
         }
       ],
-      "lastUpdated": 1793862105711,
+      "lastUpdated": 1793865705088,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5107,7 +5107,7 @@
           }
         }
       ],
-      "lastUpdated": 1793862105806,
+      "lastUpdated": 1793865705132,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
