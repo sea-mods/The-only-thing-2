@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1794819036862,
+      "lastUpdated": 1794821356683,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-1-768x432.png"
         }
       ],
-      "lastUpdated": 1794819037656,
+      "lastUpdated": 1794821357014,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1794819037813,
+      "lastUpdated": 1794821357136,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1691,6 +1691,90 @@
       "url": "https://zenn.dev/topics/機械学習/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "ハイレゾB200計算クラスタを使用してファインチューニングに挑む件 第4回 やりましょう！ファインチューニング",
+          "link": "https://zenn.dev/highreso/articles/005673f964b0e4",
+          "description": "本記事は、ハイレゾのB200計算クラスタ（Slurm Workload Manager）を使ってLLMのファインチューニングに挑む全5回連載の第4回です。 第1回 ハイレゾ計算クラスタへアクセスしてみよう 第2回 Slurm Workload Managerに触れてみよう 第3回 ファインチューニングについて理解を深めてデータセットを作ろう 第4回 やりましょう！ファインチューニング（本記事） 第5回 作ったモデルの評価をしてみよう 前回のおさらいと今回やること 前回は、ファインチューニングの前処理といいつつも、重要な部分であるデータセットの作成について述べるほか、ファインチ...",
+          "content": "本記事は、ハイレゾのB200計算クラスタ（Slurm Workload Manager）を使ってLLMのファインチューニングに挑む全5回連載の第4回です。 第1回 ハイレゾ計算クラスタへアクセスしてみよう 第2回 Slurm Workload Managerに触れてみよう 第3回 ファインチューニングについて理解を深めてデータセットを作ろう 第4回 やりましょう！ファインチューニング（本記事） 第5回 作ったモデルの評価をしてみよう 前回のおさらいと今回やること 前回は、ファインチューニングの前処理といいつつも、重要な部分であるデータセットの作成について述べるほか、ファインチ...",
+          "pubDate": "Mon, 16 Nov 2026 02:23:59 GMT",
+          "guid": "https://zenn.dev/highreso/articles/005673f964b0e4",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "本記事は、ハイレゾのB200計算クラスタ（Slurm Workload Manager）を使ってLLMのファインチューニングに挑む全5回連載の第4回です。 第1回 ハイレゾ計算クラスタへアクセスしてみよう 第2回 Slurm Workload Managerに触れてみよう 第3回 ファインチューニングについて理解を深めてデータセットを作ろう 第4回 やりましょう！ファインチューニング（本記事） 第5回 作ったモデルの評価をしてみよう 前...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--GIq0N4XP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2582%25A4%25E3%2583%25AC%25E3%2582%25BEB200%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%25BF%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AB%25E6%258C%2591%25E3%2582%2580%25E4%25BB%25B6%2520%25E7%25AC%25AC4%25E5%259B%259E%2520%25E3%2582%2584%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2582%2587%25E3%2581%2586%25EF%25BC%2581%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yuichi%2520Tominaga%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5NGM0NTU5ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258F%25E3%2582%25A4%25E3%2583%25AC%25E3%2582%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQxY2U2NmMwZTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "Claude Code が達成できる目標を探して、Kaggle 農場経営コンペの銀を取った話",
+          "link": "https://zenn.dev/mtshape/articles/kaggriculture-retrospective",
+          "description": "はじめに Kaggle の Kaggriculture [1] に、1 人で、CPU だけで取り組み、10,148 チーム中 354 位の銀メダルでした。 Kaggriculture は、農場経営のゲームを遊ぶプログラムを提出し、対戦させるコンペです。ゲームでは 2 人が農場を 30 日間経営し、最後の所持金が多い方が勝ちます。種や家畜を買って育てて売り、稼いだ金で区画を最大 4 つまで買い足します。 ゲームの仕組みをもっと詳しく → 2 人の農場が、真ん中の町と市場を共有する 自分の農場。 10×10 マスを 4 区画に分け、始めは左上の 1 区画だけ。マスごとに作物を植える...",
+          "content": "はじめに Kaggle の Kaggriculture [1] に、1 人で、CPU だけで取り組み、10,148 チーム中 354 位の銀メダルでした。 Kaggriculture は、農場経営のゲームを遊ぶプログラムを提出し、対戦させるコンペです。ゲームでは 2 人が農場を 30 日間経営し、最後の所持金が多い方が勝ちます。種や家畜を買って育てて売り、稼いだ金で区画を最大 4 つまで買い足します。 ゲームの仕組みをもっと詳しく → 2 人の農場が、真ん中の町と市場を共有する 自分の農場。 10×10 マスを 4 区画に分け、始めは左上の 1 区画だけ。マスごとに作物を植える...",
+          "pubDate": "Mon, 16 Nov 2026 00:00:06 GMT",
+          "guid": "https://zenn.dev/mtshape/articles/kaggriculture-retrospective",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "はじめに Kaggle の Kaggriculture [1] に、1 人で、CPU だけで取り組み、10,148 チーム中 354 位の銀メダルでした。 Kaggriculture は、農場経営のゲームを遊ぶプログラムを提出し、対戦させるコンペです。ゲームでは 2 人が農場を 30 日間経営し、最後の所持金が多い方が勝ちます。種や家畜を買って育てて売り、稼いだ金で区画を最大 4 つまで買い足します。 ゲームの仕組みをもっと詳しく → ...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--S8TvVCo4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%258C%25E9%2581%2594%25E6%2588%2590%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E7%259B%25AE%25E6%25A8%2599%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581Kaggle%2520%25E8%25BE%25B2%25E5%25A0%25B4%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E3%2581%25AE%25E9%258A%2580%25E3%2582%2592%25E5%258F%2596%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MasahiroYamagata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzlKai1lWEtPMXRRQ2ZNTEY1VFhub20tVVdheFpVWTlsNGN6Mm1mQ19pOTdsWEhRND1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "ループ型Transformer入門：重みを増やさずに計算を深くする仕組み",
+          "link": "https://zenn.dev/pich/articles/7db31783ac1c03",
+          "description": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
+          "content": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
+          "pubDate": "Sun, 15 Nov 2026 22:13:07 GMT",
+          "guid": "https://zenn.dev/pich/articles/7db31783ac1c03",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--w95-tNwM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E5%259E%258BTransformer%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E9%2587%258D%25E3%2581%25BF%25E3%2582%2592%25E5%25A2%2597%25E3%2582%2584%25E3%2581%2595%25E3%2581%259A%25E3%2581%25AB%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%25B7%25B1%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Michal%2520Piszczek%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDdjMmtGdWhBNTk4Z2RIR3J4YUc0NUtwS3lfWXZ2NGwzdmtBNTRuempITXNLaTMyNnpMUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "四足歩行方策の設定と高さ観測：ANYmalの角材通過に関する予備実験",
           "link": "https://zenn.dev/bur/articles/quadruped-height-observation-study",
@@ -2166,93 +2250,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "ハイレゾB200計算クラスタを使用してファインチューニングに挑む件 第4回 やりましょう！ファインチューニング",
-          "link": "https://zenn.dev/highreso/articles/005673f964b0e4",
-          "description": "本記事は、ハイレゾのB200計算クラスタ（Slurm Workload Manager）を使ってLLMのファインチューニングに挑む全5回連載の第4回です。 第1回 ハイレゾ計算クラスタへアクセスしてみよう 第2回 Slurm Workload Managerに触れてみよう 第3回 ファインチューニングについて理解を深めてデータセットを作ろう 第4回 やりましょう！ファインチューニング（本記事） 第5回 作ったモデルの評価をしてみよう 前回のおさらいと今回やること 前回は、ファインチューニングの前処理といいつつも、重要な部分であるデータセットの作成について述べるほか、ファインチ...",
-          "content": "本記事は、ハイレゾのB200計算クラスタ（Slurm Workload Manager）を使ってLLMのファインチューニングに挑む全5回連載の第4回です。 第1回 ハイレゾ計算クラスタへアクセスしてみよう 第2回 Slurm Workload Managerに触れてみよう 第3回 ファインチューニングについて理解を深めてデータセットを作ろう 第4回 やりましょう！ファインチューニング（本記事） 第5回 作ったモデルの評価をしてみよう 前回のおさらいと今回やること 前回は、ファインチューニングの前処理といいつつも、重要な部分であるデータセットの作成について述べるほか、ファインチ...",
-          "pubDate": "Mon, 16 Nov 2026 02:23:59 GMT",
-          "guid": "https://zenn.dev/highreso/articles/005673f964b0e4",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "本記事は、ハイレゾのB200計算クラスタ（Slurm Workload Manager）を使ってLLMのファインチューニングに挑む全5回連載の第4回です。 第1回 ハイレゾ計算クラスタへアクセスしてみよう 第2回 Slurm Workload Managerに触れてみよう 第3回 ファインチューニングについて理解を深めてデータセットを作ろう 第4回 やりましょう！ファインチューニング（本記事） 第5回 作ったモデルの評価をしてみよう 前...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--GIq0N4XP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2582%25A4%25E3%2583%25AC%25E3%2582%25BEB200%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%25BF%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AB%25E6%258C%2591%25E3%2582%2580%25E4%25BB%25B6%2520%25E7%25AC%25AC4%25E5%259B%259E%2520%25E3%2582%2584%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2582%2587%25E3%2581%2586%25EF%25BC%2581%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yuichi%2520Tominaga%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5NGM0NTU5ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258F%25E3%2582%25A4%25E3%2583%25AC%25E3%2582%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQxY2U2NmMwZTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "Claude Code が達成できる目標を探して、Kaggle 農場経営コンペの銀を取った話",
-          "link": "https://zenn.dev/mtshape/articles/kaggriculture-retrospective",
-          "description": "はじめに Kaggle の Kaggriculture [1] に、1 人で、CPU だけで取り組み、10,148 チーム中 354 位の銀メダルでした。 Kaggriculture は、農場経営のゲームを遊ぶプログラムを提出し、対戦させるコンペです。ゲームでは 2 人が農場を 30 日間経営し、最後の所持金が多い方が勝ちます。種や家畜を買って育てて売り、稼いだ金で区画を最大 4 つまで買い足します。 ゲームの仕組みをもっと詳しく → 2 人の農場が、真ん中の町と市場を共有する 自分の農場。 10×10 マスを 4 区画に分け、始めは左上の 1 区画だけ。マスごとに作物を植える...",
-          "content": "はじめに Kaggle の Kaggriculture [1] に、1 人で、CPU だけで取り組み、10,148 チーム中 354 位の銀メダルでした。 Kaggriculture は、農場経営のゲームを遊ぶプログラムを提出し、対戦させるコンペです。ゲームでは 2 人が農場を 30 日間経営し、最後の所持金が多い方が勝ちます。種や家畜を買って育てて売り、稼いだ金で区画を最大 4 つまで買い足します。 ゲームの仕組みをもっと詳しく → 2 人の農場が、真ん中の町と市場を共有する 自分の農場。 10×10 マスを 4 区画に分け、始めは左上の 1 区画だけ。マスごとに作物を植える...",
-          "pubDate": "Mon, 16 Nov 2026 00:00:06 GMT",
-          "guid": "https://zenn.dev/mtshape/articles/kaggriculture-retrospective",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "はじめに Kaggle の Kaggriculture [1] に、1 人で、CPU だけで取り組み、10,148 チーム中 354 位の銀メダルでした。 Kaggriculture は、農場経営のゲームを遊ぶプログラムを提出し、対戦させるコンペです。ゲームでは 2 人が農場を 30 日間経営し、最後の所持金が多い方が勝ちます。種や家畜を買って育てて売り、稼いだ金で区画を最大 4 つまで買い足します。 ゲームの仕組みをもっと詳しく → ...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--S8TvVCo4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%258C%25E9%2581%2594%25E6%2588%2590%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E7%259B%25AE%25E6%25A8%2599%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581Kaggle%2520%25E8%25BE%25B2%25E5%25A0%25B4%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E3%2581%25AE%25E9%258A%2580%25E3%2582%2592%25E5%258F%2596%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MasahiroYamagata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzlKai1lWEtPMXRRQ2ZNTEY1VFhub20tVVdheFpVWTlsNGN6Mm1mQ19pOTdsWEhRND1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "ループ型Transformer入門：重みを増やさずに計算を深くする仕組み",
-          "link": "https://zenn.dev/pich/articles/7db31783ac1c03",
-          "description": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
-          "content": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
-          "pubDate": "Sun, 15 Nov 2026 22:13:07 GMT",
-          "guid": "https://zenn.dev/pich/articles/7db31783ac1c03",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--w95-tNwM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E5%259E%258BTransformer%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E9%2587%258D%25E3%2581%25BF%25E3%2582%2592%25E5%25A2%2597%25E3%2582%2584%25E3%2581%2595%25E3%2581%259A%25E3%2581%25AB%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%25B7%25B1%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Michal%2520Piszczek%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDdjMmtGdWhBNTk4Z2RIR3J4YUc0NUtwS3lfWXZ2NGwzdmtBNTRuempITXNLaTMyNnpMUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1794819037983,
+      "lastUpdated": 1794821357206,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1794819038005,
+      "lastUpdated": 1794821357238,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2835,6 +2835,34 @@
       "url": "https://zenn.dev/topics/deeplearning/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "ループ型Transformer入門：重みを増やさずに計算を深くする仕組み",
+          "link": "https://zenn.dev/pich/articles/7db31783ac1c03",
+          "description": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
+          "content": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
+          "pubDate": "Sun, 15 Nov 2026 22:13:07 GMT",
+          "guid": "https://zenn.dev/pich/articles/7db31783ac1c03",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「ディープラーニング」のフィード",
+          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
+          "coverImage": "",
+          "summary": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--w95-tNwM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E5%259E%258BTransformer%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E9%2587%258D%25E3%2581%25BF%25E3%2582%2592%25E5%25A2%2597%25E3%2582%2584%25E3%2581%2595%25E3%2581%259A%25E3%2581%25AB%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%25B7%25B1%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Michal%2520Piszczek%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDdjMmtGdWhBNTk4Z2RIR3J4YUc0NUtwS3lfWXZ2NGwzdmtBNTRuempITXNLaTMyNnpMUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "深層学習DNNは未知の電解液ブレンドのイオン伝導度をどう予測するのか？",
           "link": "https://zenn.dev/ykusachi/articles/8a84dd5b7b614d",
@@ -3366,37 +3394,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "ループ型Transformer入門：重みを増やさずに計算を深くする仕組み",
-          "link": "https://zenn.dev/pich/articles/7db31783ac1c03",
-          "description": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
-          "content": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。入力にも重みにもない事実は、何回ループしても出てきません。 1回ごとに遅延のコストがあります。Fastino の 27B モデルでは +0.56 ポ...",
-          "pubDate": "Sun, 15 Nov 2026 22:13:07 GMT",
-          "guid": "https://zenn.dev/pich/articles/7db31783ac1c03",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「ディープラーニング」のフィード",
-          "feedUrl": "https://zenn.dev/topics/deeplearning/feed",
-          "coverImage": "",
-          "summary": "TL;DR ループ型Transformer（recurrent depth）は、同じ層のブロックを1トークンあたり複数回実行するモデルです。 NVIDIA の 4B モデル Dory は 36 層を保存し、中央の 20 層を 4 回ループすると 96 層ぶんを実行します。 ループ中に変わるのは隠れ状態（活性値）だけで、重みは変わりません。推論中に学習しているわけではありません。 ループで増えるのは「計算」であって「情報」ではありません。...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/602cd1642e.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--w95-tNwM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E5%259E%258BTransformer%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E9%2587%258D%25E3%2581%25BF%25E3%2582%2592%25E5%25A2%2597%25E3%2582%2584%25E3%2581%2595%25E3%2581%259A%25E3%2581%25AB%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%25B7%25B1%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Michal%2520Piszczek%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDdjMmtGdWhBNTk4Z2RIR3J4YUc0NUtwS3lfWXZ2NGwzdmtBNTRuempITXNLaTMyNnpMUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1794819038032,
+      "lastUpdated": 1794821357266,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1794819038059,
+      "lastUpdated": 1794821357298,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1794819038142,
+      "lastUpdated": 1794821357326,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1794819038167,
+      "lastUpdated": 1794821357356,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
