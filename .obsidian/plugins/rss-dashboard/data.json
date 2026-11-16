@@ -6,6 +6,29 @@
       "folder": "Uncategorized",
       "items": [
         {
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "link": "https://openai.com/index/lvmh-media-division-partnership",
+          "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+          "content": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+          "pubDate": "Mon, 16 Nov 2026 09:00:00 GMT",
+          "guid": "https://openai.com/index/lvmh-media-division-partnership",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "A step toward defining the Standard Model on a lattice",
           "link": "https://openai.com/index/step-toward-defining-the-standard-model",
           "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
@@ -556,32 +579,9 @@
           "image": "https://openai.com/apple-icon.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Australian universities are creating AI-native graduates",
-          "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "description": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-          "content": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-          "pubDate": "Thu, 05 Nov 2026 17:00:00 GMT",
-          "guid": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1794821356683,
+      "lastUpdated": 1794824956615,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-1-768x432.png"
         }
       ],
-      "lastUpdated": 1794821357014,
+      "lastUpdated": 1794824957250,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1794821357136,
+      "lastUpdated": 1794824957335,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1794821357206,
+      "lastUpdated": 1794824957421,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1794821357238,
+      "lastUpdated": 1794824957462,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1794821357266,
+      "lastUpdated": 1794824957502,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1794821357298,
+      "lastUpdated": 1794824957554,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1794821357326,
+      "lastUpdated": 1794824957588,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1794821357356,
+      "lastUpdated": 1794824957624,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
