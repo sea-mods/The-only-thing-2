@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1794983354586,
+      "lastUpdated": 1794986954562,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-workflow-768x432.png"
         }
       ],
-      "lastUpdated": 1794983354829,
+      "lastUpdated": 1794986954819,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1794983354895,
+      "lastUpdated": 1794986954886,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1691,6 +1691,62 @@
       "url": "https://zenn.dev/topics/機械学習/feed",
       "folder": "Uncategorized",
       "items": [
+        {
+          "title": "Gemma 4コンペから撤退します — 1,800回超の試行の実測を全公開（自作最良15/114 vs ベースライン16/114）",
+          "link": "https://zenn.dev/jpopendata/articles/7c88a2eeb44c4e",
+          "description": "Kaggle の Gemma 4 Developer Agent コンペに参加していた Japan Open Data Lab です。9世代のシステムで延べ1,800回を超える評価試行を回した結果、このコンペからは撤退することにしました。 引き出しに眠らせるくらいなら、測ったものは全部置いていきます。以下は集計値と知見のみで、個別タスクのデータ・パッチ・提出コードは含みません。先に結論を言うと、私たちの最良の自作構成は 15/114、主催者の一番シンプルなベースラインは 16/114 でした。 実験設定 モデル: Gemma 4 E4B（W4A16量子化、instruction-t...",
+          "content": "Kaggle の Gemma 4 Developer Agent コンペに参加していた Japan Open Data Lab です。9世代のシステムで延べ1,800回を超える評価試行を回した結果、このコンペからは撤退することにしました。 引き出しに眠らせるくらいなら、測ったものは全部置いていきます。以下は集計値と知見のみで、個別タスクのデータ・パッチ・提出コードは含みません。先に結論を言うと、私たちの最良の自作構成は 15/114、主催者の一番シンプルなベースラインは 16/114 でした。 実験設定 モデル: Gemma 4 E4B（W4A16量子化、instruction-t...",
+          "pubDate": "Wed, 18 Nov 2026 06:00:06 GMT",
+          "guid": "https://zenn.dev/jpopendata/articles/7c88a2eeb44c4e",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "Kaggle の Gemma 4 Developer Agent コンペに参加していた Japan Open Data Lab です。9世代のシステムで延べ1,800回を超える評価試行を回した結果、このコンペからは撤退することにしました。 引き出しに眠らせるくらいなら、測ったものは全部置いていきます。以下は集計値と知見のみで、個別タスクのデータ・パッチ・提出コードは含みません。先に結論を言うと、私たちの最良の自作構成は 15/114、主...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ftCakLpq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemma%25204%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E3%2581%258B%25E3%2582%2589%25E6%2592%25A4%25E9%2580%2580%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2599%2520%25E2%2580%2594%25201%252C800%25E5%259B%259E%25E8%25B6%2585%25E3%2581%25AE%25E8%25A9%25A6%25E8%25A1%258C%25E3%2581%25AE%25E5%25AE%259F%25E6%25B8%25AC%25E3%2582%2592%25E5%2585%25A8%25E5%2585%25AC%25E9%2596%258B%25EF%25BC%2588%25E8%2587%25AA%25E4%25BD%259C%25E6%259C%2580%25E8%2589%25AF15%252F114%2520vs%2520%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%25A9%25E3%2582%25A4...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Japan%2520Open%2520Data%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2MzM1YzJkNDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
+        {
+          "title": "【個人開発】Tauri v2 + PyTorchで50万文字を7:1意味圧縮するローカルAIリーダー (4GB VRAM最適化)",
+          "link": "https://zenn.dev/ayumu_ml/articles/3c1cc461b9648a",
+          "description": "はじめに：なぜ「要約」ではなく「検証可能な圧縮」なのか？ エンジニアの皆さん、日頃500ページを超える分厚い技術書や研究論文を読む際、ChatGPTやClaudeなどのLLMに「要約して」とお願いしたことはないでしょうか？ しかし、従来のAI要約には大きな欠点がありました。 数式や重要な技術的ニュアンス、例外処理が平坦化されて消えてしまう もっともらしい文章をつなぐためのハルシネーション（嘘の文脈）が紛れ込む 「この結論は本当に著者が書いたものか？」を確認するために、結局元のページを探し回る羽目になる 「要約」は都合の良い情報だけを抜き出して間引く技術ですが、技術者が本当に求めて...",
+          "content": "はじめに：なぜ「要約」ではなく「検証可能な圧縮」なのか？ エンジニアの皆さん、日頃500ページを超える分厚い技術書や研究論文を読む際、ChatGPTやClaudeなどのLLMに「要約して」とお願いしたことはないでしょうか？ しかし、従来のAI要約には大きな欠点がありました。 数式や重要な技術的ニュアンス、例外処理が平坦化されて消えてしまう もっともらしい文章をつなぐためのハルシネーション（嘘の文脈）が紛れ込む 「この結論は本当に著者が書いたものか？」を確認するために、結局元のページを探し回る羽目になる 「要約」は都合の良い情報だけを抜き出して間引く技術ですが、技術者が本当に求めて...",
+          "pubDate": "Tue, 17 Nov 2026 23:52:05 GMT",
+          "guid": "https://zenn.dev/ayumu_ml/articles/3c1cc461b9648a",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Zennの「機械学習」のフィード",
+          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
+          "coverImage": "",
+          "summary": "はじめに：なぜ「要約」ではなく「検証可能な圧縮」なのか？ エンジニアの皆さん、日頃500ページを超える分厚い技術書や研究論文を読む際、ChatGPTやClaudeなどのLLMに「要約して」とお願いしたことはないでしょうか？ しかし、従来のAI要約には大きな欠点がありました。 数式や重要な技術的ニュアンス、例外処理が平坦化されて消えてしまう もっともらしい文章をつなぐためのハルシネーション（嘘の文脈）が紛れ込む 「この結論は本当に著者が書...",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Dk_xyN3d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2591Tauri%2520v2%2520%252B%2520PyTorch%25E3%2581%25A750%25E4%25B8%2587%25E6%2596%2587%25E5%25AD%2597%25E3%2582%25927%253A1%25E6%2584%258F%25E5%2591%25B3%25E5%259C%25A7%25E7%25B8%25AE%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABAI%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2520%25284GB%2520V...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ayumu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlRBNFQ4MU02cWd0TUdrendiaDBERjc2V0FsYXpLV25kR2w3RjEtRXMyMk03MDYwZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "type": "false",
+            "length": "0"
+          }
+        },
         {
           "title": "文字を崩さず局所修正する AI画像編集 モデルの選定基準と MMDiT 構造の整理",
           "link": "https://zenn.dev/lastlight/articles/e4a240a8c904d0",
@@ -2194,65 +2250,9 @@
             "type": "false",
             "length": "0"
           }
-        },
-        {
-          "title": "Gemma 4コンペから撤退します — 1,800回超の試行の実測を全公開（自作最良15/114 vs ベースライン16/114）",
-          "link": "https://zenn.dev/jpopendata/articles/7c88a2eeb44c4e",
-          "description": "Kaggle の Gemma 4 Developer Agent コンペに参加していた Japan Open Data Lab です。9世代のシステムで延べ1,800回を超える評価試行を回した結果、このコンペからは撤退することにしました。 引き出しに眠らせるくらいなら、測ったものは全部置いていきます。以下は集計値と知見のみで、個別タスクのデータ・パッチ・提出コードは含みません。先に結論を言うと、私たちの最良の自作構成は 15/114、主催者の一番シンプルなベースラインは 16/114 でした。 実験設定 モデル: Gemma 4 E4B（W4A16量子化、instruction-t...",
-          "content": "Kaggle の Gemma 4 Developer Agent コンペに参加していた Japan Open Data Lab です。9世代のシステムで延べ1,800回を超える評価試行を回した結果、このコンペからは撤退することにしました。 引き出しに眠らせるくらいなら、測ったものは全部置いていきます。以下は集計値と知見のみで、個別タスクのデータ・パッチ・提出コードは含みません。先に結論を言うと、私たちの最良の自作構成は 15/114、主催者の一番シンプルなベースラインは 16/114 でした。 実験設定 モデル: Gemma 4 E4B（W4A16量子化、instruction-t...",
-          "pubDate": "Wed, 18 Nov 2026 06:00:06 GMT",
-          "guid": "https://zenn.dev/jpopendata/articles/7c88a2eeb44c4e",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "Kaggle の Gemma 4 Developer Agent コンペに参加していた Japan Open Data Lab です。9世代のシステムで延べ1,800回を超える評価試行を回した結果、このコンペからは撤退することにしました。 引き出しに眠らせるくらいなら、測ったものは全部置いていきます。以下は集計値と知見のみで、個別タスクのデータ・パッチ・提出コードは含みません。先に結論を言うと、私たちの最良の自作構成は 15/114、主...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--ftCakLpq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemma%25204%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E3%2581%258B%25E3%2582%2589%25E6%2592%25A4%25E9%2580%2580%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2599%2520%25E2%2580%2594%25201%252C800%25E5%259B%259E%25E8%25B6%2585%25E3%2581%25AE%25E8%25A9%25A6%25E8%25A1%258C%25E3%2581%25AE%25E5%25AE%259F%25E6%25B8%25AC%25E3%2582%2592%25E5%2585%25A8%25E5%2585%25AC%25E9%2596%258B%25EF%25BC%2588%25E8%2587%25AA%25E4%25BD%259C%25E6%259C%2580%25E8%2589%25AF15%252F114%2520vs%2520%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%25A9%25E3%2582%25A4...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Japan%2520Open%2520Data%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2MzM1YzJkNDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
-        },
-        {
-          "title": "【個人開発】Tauri v2 + PyTorchで50万文字を7:1意味圧縮するローカルAIリーダー (4GB VRAM最適化)",
-          "link": "https://zenn.dev/ayumu_ml/articles/3c1cc461b9648a",
-          "description": "はじめに：なぜ「要約」ではなく「検証可能な圧縮」なのか？ エンジニアの皆さん、日頃500ページを超える分厚い技術書や研究論文を読む際、ChatGPTやClaudeなどのLLMに「要約して」とお願いしたことはないでしょうか？ しかし、従来のAI要約には大きな欠点がありました。 数式や重要な技術的ニュアンス、例外処理が平坦化されて消えてしまう もっともらしい文章をつなぐためのハルシネーション（嘘の文脈）が紛れ込む 「この結論は本当に著者が書いたものか？」を確認するために、結局元のページを探し回る羽目になる 「要約」は都合の良い情報だけを抜き出して間引く技術ですが、技術者が本当に求めて...",
-          "content": "はじめに：なぜ「要約」ではなく「検証可能な圧縮」なのか？ エンジニアの皆さん、日頃500ページを超える分厚い技術書や研究論文を読む際、ChatGPTやClaudeなどのLLMに「要約して」とお願いしたことはないでしょうか？ しかし、従来のAI要約には大きな欠点がありました。 数式や重要な技術的ニュアンス、例外処理が平坦化されて消えてしまう もっともらしい文章をつなぐためのハルシネーション（嘘の文脈）が紛れ込む 「この結論は本当に著者が書いたものか？」を確認するために、結局元のページを探し回る羽目になる 「要約」は都合の良い情報だけを抜き出して間引く技術ですが、技術者が本当に求めて...",
-          "pubDate": "Tue, 17 Nov 2026 23:52:05 GMT",
-          "guid": "https://zenn.dev/ayumu_ml/articles/3c1cc461b9648a",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Zennの「機械学習」のフィード",
-          "feedUrl": "https://zenn.dev/topics/機械学習/feed",
-          "coverImage": "",
-          "summary": "はじめに：なぜ「要約」ではなく「検証可能な圧縮」なのか？ エンジニアの皆さん、日頃500ページを超える分厚い技術書や研究論文を読む際、ChatGPTやClaudeなどのLLMに「要約して」とお願いしたことはないでしょうか？ しかし、従来のAI要約には大きな欠点がありました。 数式や重要な技術的ニュアンス、例外処理が平坦化されて消えてしまう もっともらしい文章をつなぐためのハルシネーション（嘘の文脈）が紛れ込む 「この結論は本当に著者が書...",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://static.zenn.studio/user-upload/topics/fb39b9c866.png",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Dk_xyN3d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2591Tauri%2520v2%2520%252B%2520PyTorch%25E3%2581%25A750%25E4%25B8%2587%25E6%2596%2587%25E5%25AD%2597%25E3%2582%25927%253A1%25E6%2584%258F%25E5%2591%25B3%25E5%259C%25A7%25E7%25B8%25AE%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABAI%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2520%25284GB%2520V...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ayumu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlRBNFQ4MU02cWd0TUdrendiaDBERjc2V0FsYXpLV25kR2w3RjEtRXMyMk03MDYwZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "type": "false",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1794983354958,
+      "lastUpdated": 1794986954942,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1794983354988,
+      "lastUpdated": 1794986954970,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1794983355017,
+      "lastUpdated": 1794986955002,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1794983355043,
+      "lastUpdated": 1794986955027,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1794983355069,
+      "lastUpdated": 1794986955054,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1794983355098,
+      "lastUpdated": 1794986955079,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
