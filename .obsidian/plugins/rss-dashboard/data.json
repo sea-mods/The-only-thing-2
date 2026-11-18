@@ -6,6 +6,29 @@
       "folder": "Uncategorized",
       "items": [
         {
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "content": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+          "guid": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "Introducing GPT-6.2 Astra and Sol",
           "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
@@ -259,29 +282,6 @@
           "episodeType": ""
         },
         {
-          "title": "More ways to move care forward with ChatGPT for Healthcare",
-          "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-          "description": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-          "content": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-          "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
-          "guid": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
-        },
-        {
           "title": "Advancing computer-use agents for healthcare teams",
           "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
           "description": "",
@@ -295,6 +295,29 @@
           "feedUrl": "https://openai.com/news/rss.xml",
           "coverImage": "",
           "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://openai.com/apple-icon.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "More ways to move care forward with ChatGPT for Healthcare",
+          "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "description": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+          "content": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+          "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+          "guid": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
           "author": "",
           "saved": false,
           "mediaType": "article",
@@ -556,32 +579,9 @@
           "image": "https://openai.com/apple-icon.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-          "content": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-          "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-          "guid": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://openai.com/apple-icon.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1794990554869,
+      "lastUpdated": 1794994154584,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1093,7 +1093,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-workflow-768x432.png"
         }
       ],
-      "lastUpdated": 1794990555558,
+      "lastUpdated": 1794994155512,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1680,7 +1680,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1794990555616,
+      "lastUpdated": 1794994155669,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2252,7 +2252,7 @@
           }
         }
       ],
-      "lastUpdated": 1794990555679,
+      "lastUpdated": 1794994155732,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2824,7 +2824,7 @@
           }
         }
       ],
-      "lastUpdated": 1794990555707,
+      "lastUpdated": 1794994155773,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3396,7 +3396,7 @@
           }
         }
       ],
-      "lastUpdated": 1794990555741,
+      "lastUpdated": 1794994155810,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -3968,7 +3968,7 @@
           }
         }
       ],
-      "lastUpdated": 1794990555777,
+      "lastUpdated": 1794994155843,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -4540,7 +4540,7 @@
           }
         }
       ],
-      "lastUpdated": 1794990555878,
+      "lastUpdated": 1794994155876,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -5112,7 +5112,7 @@
           }
         }
       ],
-      "lastUpdated": 1794990555910,
+      "lastUpdated": 1794994155907,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
